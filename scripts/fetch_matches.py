@@ -215,8 +215,115 @@ def get_head_to_head(match_id):
     }
 
 
+# Nations hôtes de la Coupe du Monde 2026 : seules ces équipes jouent vraiment
+# "à domicile" pendant le tournoi. Toutes les autres affiches sont sur terrain
+# neutre, même quand l'API désigne une équipe comme "homeTeam" par convention
+# administrative (ce champ ne veut PAS dire qu'elle joue chez elle).
+WORLD_CUP_HOST_NATIONS = {"united states", "usa", "mexico", "méxico", "canada"}
+
+# Mots-clés indiquant une phase à élimination directe (finale, demi-finale, etc.) :
+# pour ces matchs, l'avantage du terrain n'est PAS automatique — il faut vérifier
+# si le stade correspond vraiment au terrain de l'une des deux équipes (ex. la
+# finale de la DFL-Supercup 2025 s'est jouée à Dortmund, donc le Borussia y était
+# vraiment à domicile ; d'autres finales sont sur un stade neutre pour tout le monde).
+KNOCKOUT_STAGE_KEYWORDS = ("FINAL", "SEMI", "QUARTER", "LAST_16", "LAST_32", "ROUND_OF", "PLAYOFF", "THIRD_PLACE")
+
+_team_venue_cache = {}
+
+
+def get_team_stadium(team_id):
+    """Récupère le nom du stade habituel d'une équipe (pour vérifier si un match
+    à enjeu neutre par défaut se joue en fait chez l'une des deux équipes)."""
+    if team_id in _team_venue_cache:
+        return _team_venue_cache[team_id]
+    data = api_get(f"/teams/{team_id}")
+    venue = data.get("venue") if data else None
+    _team_venue_cache[team_id] = venue
+    return venue
+
+
+def determine_home_advantage(competition_code, stage, home_id, home_name,
+                              away_id, away_name, match_venue):
+    """Renvoie 'home', 'away', ou None (terrain neutre) selon qui bénéficie
+    RÉELLEMENT d'un avantage du terrain — jamais une supposition automatique.
+
+    - Coupe du Monde : seules les 3 nations hôtes (États-Unis, Mexique, Canada)
+      ont un vrai avantage, et seulement quand c'est elles qui jouent. Toutes
+      les autres affiches sont neutres, quel que soit le champ "homeTeam" de
+      l'API.
+    - Finales / phases à élimination directe (toutes compétitions) : neutre par
+      défaut, sauf si le stade du match correspond vraiment au stade de l'une
+      des deux équipes (comparaison textuelle avec son stade habituel).
+    - Tous les autres matchs (championnat, phase de ligue C1, etc.) : l'avantage
+      du terrain habituel s'applique normalement à l'équipe "domicile".
+    """
+    if competition_code == "WC":
+        if home_name and home_name.strip().lower() in WORLD_CUP_HOST_NATIONS:
+            return "home"
+        if away_name and away_name.strip().lower() in WORLD_CUP_HOST_NATIONS:
+            return "away"
+        return None
+
+    if stage and any(k in stage.upper() for k in KNOCKOUT_STAGE_KEYWORDS):
+        if not match_venue:
+            return None  # pas d'info fiable -> on ne suppose rien, par sécurité
+        home_stadium = get_team_stadium(home_id)
+        away_stadium = get_team_stadium(away_id)
+        mv = match_venue.strip().lower()
+        if home_stadium and home_stadium.strip().lower() in mv:
+            return "home"
+        if away_stadium and away_stadium.strip().lower() in mv:
+            return "away"
+        return None
+
+    return "home"  # championnat classique, phase de ligue C1 : comportement normal
+
+
+_standings_cache = {}
+
+
+def get_standings(competition_code):
+    if competition_code in _standings_cache:
+        return _standings_cache[competition_code]
+    data = api_get(f"/competitions/{competition_code}/standings")
+    _standings_cache[competition_code] = data
+    return data
+
+
+def compute_stakes(competition_code, stage, team_id):
+    """Évalue l'enjeu réel du match pour une équipe : course à la Ligue des
+    Champions, lutte pour le maintien, zone Europe, ou milieu de tableau sans
+    grand enjeu. Se base sur le classement actuel du championnat."""
+    if competition_code == "WC" or (stage and any(k in stage.upper() for k in KNOCKOUT_STAGE_KEYWORDS)):
+        return "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
+
+    standings = get_standings(competition_code)
+    if not standings:
+        return None
+
+    for group in standings.get("standings", []):
+        table = group.get("table", [])
+        total = len(table)
+        if total < 4:
+            continue
+        for row in table:
+            if row.get("team", {}).get("id") != team_id:
+                continue
+            position = row.get("position")
+            if position <= 4:
+                return f"Course à la Ligue des Champions ({position}e place actuelle)"
+            if position > total - 3:
+                return f"Lutte pour le maintien ({position}e place actuelle)"
+            if position <= 6:
+                return f"Zone Europe / Europa League ({position}e place actuelle)"
+            return f"Milieu de tableau, enjeu limité ({position}e place actuelle)"
+    return None
+
+
 def compute_suggestion(home_form, away_form, h2h, rest_home, rest_away,
-                        home_venue_record=None, away_venue_record=None):
+                        home_name, away_name,
+                        home_venue_record=None, away_venue_record=None,
+                        advantage_side="home", stakes_home=None, stakes_away=None):
     """Calcul transparent (pas une IA) : additionne des points de forme, un bonus
     de terrain, un ajustement selon l'historique direct, un ajustement de
     fatigue selon le nombre de jours de repos avant le match (les enchaînements
@@ -247,8 +354,16 @@ def compute_suggestion(home_form, away_form, h2h, rest_home, rest_away,
     FRESHNESS_BONUS = 0.5          # plus de 7 jours de repos = équipe fraîche
     LETDOWN_PENALTY = -1.0         # petit malus après une victoire marquante à l'extérieur
 
-    score_home = home_form["points"] + HOME_ADVANTAGE_BONUS
+    score_home = home_form["points"]
     score_away = away_form["points"]
+
+    # avantage du terrain : appliqué UNIQUEMENT au camp qui joue vraiment chez
+    # lui (jamais une supposition automatique — voir determine_home_advantage)
+    if advantage_side == "home":
+        score_home += HOME_ADVANTAGE_BONUS
+    elif advantage_side == "away":
+        score_away += HOME_ADVANTAGE_BONUS
+    # advantage_side == None -> terrain neutre, aucun bonus des deux côtés
 
     # différentiel de buts sur les 5 derniers matchs
     score_home += (home_form["goals_for"] - home_form["goals_against"]) * 0.3
@@ -313,15 +428,17 @@ def compute_suggestion(home_form, away_form, h2h, rest_home, rest_away,
 
     # Zone "pas de tendance claire" volontairement large : le foot produit des
     # surprises régulièrement, une formule ne doit pas prétendre à une certitude
-    # qu'elle n'a pas.
+    # qu'elle n'a pas. Le pick utilise toujours le nom réel de l'équipe plutôt
+    # que "domicile/extérieur", pour ne jamais laisser croire à un avantage du
+    # terrain qui n'existe pas (terrain neutre notamment).
     if diff >= 5:
-        pick, confidence = "Double chance 1X (équipe à domicile ou nul)", "Élevée"
+        pick, confidence = f"Double chance : {home_name} ou nul", "Élevée"
     elif diff >= 2.5:
-        pick, confidence = "Double chance 1X (équipe à domicile ou nul)", "Moyenne"
+        pick, confidence = f"Double chance : {home_name} ou nul", "Moyenne"
     elif diff <= -5:
-        pick, confidence = "Double chance X2 (équipe à l'extérieur ou nul)", "Élevée"
+        pick, confidence = f"Double chance : {away_name} ou nul", "Élevée"
     elif diff <= -2.5:
-        pick, confidence = "Double chance X2 (équipe à l'extérieur ou nul)", "Moyenne"
+        pick, confidence = f"Double chance : {away_name} ou nul", "Moyenne"
     else:
         pick, confidence = "Match équilibré / risque de surprise — aucune tendance statistique fiable", "Faible"
 
@@ -350,10 +467,13 @@ def compute_suggestion(home_form, away_form, h2h, rest_home, rest_away,
         "home_venue_record": home_venue_record,
         "away_venue_record": away_venue_record,
         "surprise_risk": surprise_risk,
+        "true_home_advantage": advantage_side,  # 'home', 'away', ou None (terrain neutre)
+        "stakes_home": stakes_home,
+        "stakes_away": stakes_away,
     }
 
 
-def normalize(match, competition_name, deep=False):
+def normalize(match, competition_code, competition_name, deep=False):
     home = match.get("homeTeam", {}) or {}
     away = match.get("awayTeam", {}) or {}
     score = match.get("score", {}).get("fullTime", {}) or {}
@@ -381,9 +501,20 @@ def normalize(match, competition_name, deep=False):
         rest_away = rest_days_before(away_form, match.get("utcDate"))
         home_venue_record = get_venue_record(home["id"], "HOME")
         away_venue_record = get_venue_record(away["id"], "AWAY")
+
+        advantage_side = determine_home_advantage(
+            competition_code, match.get("stage"),
+            home["id"], home.get("name"), away["id"], away.get("name"),
+            match.get("venue"),
+        )
+        stakes_home = compute_stakes(competition_code, match.get("stage"), home["id"])
+        stakes_away = compute_stakes(competition_code, match.get("stage"), away["id"])
+
         suggestion = compute_suggestion(
             home_form, away_form, h2h, rest_home, rest_away,
+            home.get("name"), away.get("name"),
             home_venue_record, away_venue_record,
+            advantage_side, stakes_home, stakes_away,
         )
         if suggestion:
             entry["analysis"] = {
@@ -401,10 +532,10 @@ def main():
         print("ERREUR : la variable d'environnement FOOTBALL_DATA_TOKEN n'est pas définie.")
         sys.exit(1)
 
-    raw_matches = []  # (raw_match_dict, competition_name)
+    raw_matches = []  # (raw_match_dict, competition_code, competition_name)
     for code, name in COMPETITIONS.items():
         for m in fetch_competition_matches(code):
-            raw_matches.append((m, name))
+            raw_matches.append((m, code, name))
 
     # on choisit les prochains matchs non encore joués, triés par date, pour
     # leur appliquer l'analyse statistique poussée (dans la limite fixée plus haut)
@@ -415,8 +546,8 @@ def main():
     deep_ids = {rm[0]["id"] for rm in upcoming[:MAX_DEEP_ANALYSIS]}
 
     all_matches = [
-        normalize(m, name, deep=(m.get("id") in deep_ids))
-        for m, name in raw_matches
+        normalize(m, code, name, deep=(m.get("id") in deep_ids))
+        for m, code, name in raw_matches
     ]
     all_matches.sort(key=lambda m: m["utcDate"] or "")
 
