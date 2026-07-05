@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T14:45:51.038053+00:00",
+  "generated_at": "2026-07-05T19:11:42.486886+00:00",
   "date_from": "2026-07-02",
   "date_to": "2026-07-26",
   "count": 23,
@@ -176,9 +176,9 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
-        "confidence": "Élevée",
-        "score_diff": 5.7,
+        "suggested_pick": "Double chance : Brazil ou nul",
+        "confidence": "Moyenne",
+        "score_diff": 3.6,
         "rest_days_home": 6,
         "rest_days_away": 5,
         "fatigue_home": null,
@@ -197,7 +197,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 2
         },
-        "surprise_risk": false
+        "surprise_risk": false,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -245,7 +248,7 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
+        "suggested_pick": "Double chance : Mexico ou nul",
         "confidence": "Élevée",
         "score_diff": 5.2,
         "rest_days_home": 4,
@@ -266,7 +269,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 1
         },
-        "surprise_risk": false
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -314,9 +320,9 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "score_diff": -1.3,
+        "suggested_pick": "Double chance : Spain ou nul",
+        "confidence": "Moyenne",
+        "score_diff": -3.3,
         "rest_days_home": 3,
         "rest_days_away": 4,
         "fatigue_home": "enchaînement serré",
@@ -335,7 +341,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 1
         },
-        "surprise_risk": false
+        "surprise_risk": false,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -383,7 +392,7 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
+        "suggested_pick": "Double chance : United States ou nul",
         "confidence": "Moyenne",
         "score_diff": 3.6,
         "rest_days_home": 5,
@@ -404,7 +413,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 1
         },
-        "surprise_risk": false
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -452,9 +464,9 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
+        "suggested_pick": "Double chance : Argentina ou nul",
         "confidence": "Élevée",
-        "score_diff": 8.2,
+        "score_diff": 6.2,
         "rest_days_home": 3,
         "rest_days_away": 3,
         "fatigue_home": "enchaînement serré",
@@ -473,7 +485,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 3
         },
-        "surprise_risk": true
+        "surprise_risk": true,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -521,9 +536,9 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
-        "confidence": "Moyenne",
-        "score_diff": 3.9,
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "score_diff": 1.9,
         "rest_days_home": 4,
         "rest_days_away": 3,
         "fatigue_home": "repos réduit",
@@ -542,7 +557,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 1
         },
-        "surprise_risk": false
+        "surprise_risk": false,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
@@ -592,9 +610,9 @@
           "away_wins": 0,
           "draws": 0
         },
-        "suggested_pick": "Double chance 1X (équipe à domicile ou nul)",
+        "suggested_pick": "Double chance : France ou nul",
         "confidence": "Moyenne",
-        "score_diff": 4.5,
+        "score_diff": 2.5,
         "rest_days_home": 4,
         "rest_days_away": 5,
         "fatigue_home": "repos réduit",
@@ -613,7 +631,10 @@
           "unbeaten_rate": 1.0,
           "current_unbeaten_streak": 4
         },
-        "surprise_risk": true
+        "surprise_risk": true,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
       }
     },
     {
