@@ -1,4 +1,40 @@
 {
-  "generated_at": null,
-  "analyses": {}
+  "generated_at": "2026-07-05T14:47:35.424421+00:00",
+  "analyses": {
+    "Brazil__Norway__2026-07-05T20:00:00Z": {
+      "pick": "Double chance Brazil ou Nul",
+      "confidence": "Élevée",
+      "analysis": "Le Brésil affiche une domination claire : 10 points en 5 matchs, seulement 2 buts encaissés, et une invincibilité parfaite à domicile (3/3). La Norvège, malgré 10 buts marqués, souffre défensivement (8 concédés) et arrive avec un effet de relâchement après sa victoire à l'extérieur. Repos favorable pour les deux équipes (6 et 5 jours). L'avantage du terrain brésilien et la supériorité défensive justifient une protection prudente sur Brazil ou Nul, où le risque de surprise est limité."
+    },
+    "Mexico__England__2026-07-06T00:00:00Z": {
+      "pick": "Double chance Mexico ou Nul",
+      "confidence": "Moyenne",
+      "analysis": "Mexico dépasse nettement : 12 points, zéro but encédé en 5 matchs, invincibilité à domicile (3/3). L'Angleterre montre une solidité respectable (10 points) mais n'a encaissé que 3 buts sur 5 matchs. Tous deux souffrent d'un repos réduit (4 jours), facteur qui étouffe généralement le jeu. L'avantage terroir mexicain et la défense hermétique à la maison inclinent vers une protection Mexico ou Nul, bien que l'Angleterre ne soit pas négligeable."
+    },
+    "Portugal__Spain__2026-07-06T19:00:00Z": {
+      "pick": "Double chance Spain ou Nul",
+      "confidence": "Moyenne",
+      "analysis": "L'Espagne montre une supériorité offensive (10 points, 8 buts, 0 encaissés) et une invincibilité extérieure impressionnante (1/1). Le Portugal dispose d'une bonne invincibilité à domicile (3/3) mais l'enchaînement serré (3 jours) et des nuls réguliers (2 en 5 matchs) affaiblissent sa solidité. Malgré l'avantage du terrain, le manque de repos portugais et la perfection défensive espagnole en déplacement justifient une double chance Spain ou Nul pour limiter le risque."
+    },
+    "United States__Belgium__2026-07-07T00:00:00Z": {
+      "pick": "Double chance United States ou Nul",
+      "confidence": "Moyenne",
+      "analysis": "Les États-Unis conservent l'avantage : 9 points, invincibilité domicile (3/3), meilleure attaque (10 buts). La Belgique affiche 8 points avec défense solide (4 encaissés) mais reste fragile, notamment avec une invincibilité extérieure limitée (1/1). Repos équilibré (5 jours chacun), aucune fatigue signalée. L'avantage du terrain américain et l'invincibilité à domicile justifient une double chance USA ou Nul prudente."
+    },
+    "Argentina__Egypt__2026-07-07T16:00:00Z": {
+      "pick": "Double chance Argentina ou Nul",
+      "confidence": "Élevée",
+      "analysis": "L'Argentine domine largement : 12 points (4 victoires), 11 buts marqués, 3 encaissés, invincibilité domicile parfaite (3/3). L'Égypte, bien que 8 points avec invincibilité extérieure (3/3), souffre d'enchaînement serré (3 jours) et d'un effet de relâchement post-victoire. Malgré l'absence d'historique direct, la domination offensive et défensive argentine à domicile et la fatigue égyptienne militent fortement pour Argentina ou Nul."
+    },
+    "Switzerland__Colombia__2026-07-07T20:00:00Z": {
+      "pick": "Double chance Switzerland ou Nul",
+      "confidence": "Moyenne",
+      "analysis": "La Suisse bénéficie de l'avantage du terrain : 10 points, invincibilité domicile (3/3), 9 buts marqués. La Colombie affiche une défense exceptionnelle (1 seul but encaissé) et 10 points, mais subit un enchaînement serré (3 jours) qui limite sa capacité à créer en attaque (5 buts seulement). La Suisse avec repos réduit aussi (4 jours) mais jouant à domicile reste en meilleure posture. Double chance Switzerland ou Nul s'impose prudence."
+    },
+    "France__Morocco__2026-07-09T20:00:00Z": {
+      "pick": "Double chance France ou Nul",
+      "confidence": "Moyenne",
+      "analysis": "La France arrive en grande forme : 15 points (5 victoires), 14 buts, 2 encaissés, invincibilité domicile (3/3). Le Maroc aussi excelle (13 points, 13 buts, 4 encaissés en attaque, invincibilité extérieure 4/4). Tous deux souffrent d'un effet de relâchement post-victoire majeure, facteur déstabilisant. La France bénéficie du terrain mais le repos réduit (4 jours) et la menace marocaine atténuent la confiance. Double chance France ou Nul offre une couverture réaliste face à cette incertitude accrue."
+    }
+  }
 }
