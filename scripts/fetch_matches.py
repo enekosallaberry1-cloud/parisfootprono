@@ -200,6 +200,9 @@ def get_venue_record(team_id, venue):
 
     _team_form_cache[cache_key] = result
     return result
+
+
+def get_head_to_head(match_id):
     data = api_get(f"/matches/{match_id}/head2head?limit=5")
     if not data:
         return None
