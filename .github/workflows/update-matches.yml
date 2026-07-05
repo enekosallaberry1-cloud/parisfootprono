@@ -1,0 +1,35 @@
+name: Mise à jour des matchs
+
+on:
+  schedule:
+    # Toutes les 6 heures. Syntaxe cron : minute heure jour mois jour-semaine (en UTC).
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}   # permet aussi de lancer la mise à jour manuellement depuis l'onglet "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Récupérer les matchs
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: python3 scripts/fetch_matches.py
+
+      - name: Publier les changements si nécessaire
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/matches.json
+          git diff --quiet --cached || git commit -m "Mise à jour automatique des matchs"
+          git push
