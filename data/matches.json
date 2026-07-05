@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T19:11:42.486886+00:00",
+  "generated_at": "2026-07-05T21:42:14.952639+00:00",
   "date_from": "2026-07-02",
   "date_to": "2026-07-26",
   "count": 23,
-  "deep_analysis_count": 14,
+  "deep_analysis_count": 13,
   "matches": [
     {
       "competition": "Coupe du Monde",
@@ -134,74 +134,16 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "matchday": null,
       "stage": "LAST_16",
       "homeTeam": "Brazil",
       "homeCrest": "https://crests.football-data.org/764.svg",
       "awayTeam": "Norway",
       "awayCrest": "https://crests.football-data.org/813.svg",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 10,
-          "goals_for": 9,
-          "goals_against": 2,
-          "results": [
-            "N",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-06-29T17:00:00Z",
-          "last_match_away_win": false
-        },
-        "away_form": {
-          "points": 9,
-          "goals_for": 10,
-          "goals_against": 8,
-          "results": [
-            "V",
-            "V",
-            "D",
-            "V"
-          ],
-          "last_match_date": "2026-06-30T17:00:00Z",
-          "last_match_away_win": true
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "suggested_pick": "Double chance : Brazil ou nul",
-        "confidence": "Moyenne",
-        "score_diff": 3.6,
-        "rest_days_home": 6,
-        "rest_days_away": 5,
-        "fatigue_home": null,
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": true,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
-        },
-        "away_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 2,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 2
-        },
-        "surprise_risk": false,
-        "true_home_advantage": null,
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 0,
+      "awayScore": 0,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",
