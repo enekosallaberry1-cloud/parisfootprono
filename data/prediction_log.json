@@ -7,8 +7,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Spain ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "United States__Belgium__2026-07-07T00:00:00Z": {
     "competition": "Coupe du Monde",

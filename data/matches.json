@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T14:09:21.692039+00:00",
+  "generated_at": "2026-07-06T22:47:55.553257+00:00",
   "date_from": "2026-07-03",
   "date_to": "2026-07-27",
   "count": 20,
-  "deep_analysis_count": 12,
+  "deep_analysis_count": 11,
   "matches": [
     {
       "competition": "Coupe du Monde",
@@ -120,88 +120,16 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-06T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_16",
       "homeTeam": "Portugal",
       "homeCrest": "https://crests.football-data.org/765.svg",
       "awayTeam": "Spain",
       "awayCrest": "https://crests.football-data.org/760.svg",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 10.0,
-          "goals_for": 10.0,
-          "goals_against": 2.5,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 0.5,
-          "matches_counted": 4,
-          "results": [
-            "N",
-            "V",
-            "N",
-            "V"
-          ],
-          "last_match_date": "2026-07-02T23:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 12.5,
-          "goals_for": 10.0,
-          "goals_against": 0.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 0.0,
-          "matches_counted": 4,
-          "results": [
-            "N",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-02T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": null,
-        "suggested_pick": "Double chance : Spain ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "away",
-        "score_diff": -3.9,
-        "rest_days_home": 3,
-        "rest_days_away": 4,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "repos réduit",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 2.67,
-          "avg_goals_against": 0.67
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.0,
-          "avg_goals_against": 0.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": null,
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 0,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",
