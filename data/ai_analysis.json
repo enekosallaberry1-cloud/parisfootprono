@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-07-06T10:28:24.091898+00:00",
+  "generated_at": "2026-07-06T17:59:18.014908+00:00",
   "analyses": {
     "Portugal__Spain__2026-07-06T19:00:00Z": {
-      "pick": "Double chance Portugal ou nul",
+      "pick": "Double chance Nul ou Spain",
       "confidence": "Moyenne",
-      "analysis": "Terrain neutre. Espagne arrive en bien meilleure forme (3 victoires consécutives, 0 but encaissé en 5 matchs) face à un Portugal plus instable (2 nuls, 2 victoires). Cependant, Portugal affiche une défense solide (0,5 buts encaissés en moyenne) et reste invaincu à domicile (3 matchs). L'enchaînement serré de Portugal (3 jours de repos) constitue un désavantage mineur. Le match à élimination directe promet de la prudence défensive. La double chance sur Portugal exploite son potentiel et la probabilité non négligeable du nul face à une Espagne qui, bien que dominante, n'a jamais affronté le Portugal dans cette compétition simulée."
+      "analysis": "Terrain neutre — aucun avantage du terrain. L'Espagne affiche une supériorité remarquable : 4 matchs sans encaisser un but (0.0 ga), 12.5 points vs 10 pour le Portugal, et un bilan parfait (1V-2N dernièrement). Le Portugal montre une forme solide mais avec 2.5 encaissés en 4 matchs (0.5 ga). Le repos léger de 3 jours pour le Portugal pourrait peser en élimination directe. L'Espagne, plus franche en défense et légèrement mieux lotie (4 jours de repos), apparaît favorite. Cependant, l'enjeu maximal et la compétitivité du Portugal dans les grands rendez-vous rendent le nul plausible."
     },
     "United States__Belgium__2026-07-07T00:00:00Z": {
-      "pick": "Double chance Belgium ou nul",
-      "confidence": "Moyenne",
-      "analysis": "États-Unis jouent réellement à domicile avec un avantage du terrain, mais le modèle Poisson donne 55,7 % de chances à la Belgique (lambda 2,67 vs 1,83). États-Unis affichent une meilleure forme récente (3 victoires en 4 matchs, +2,67 buts à domicile en moyenne) et un repos complet (5 jours). Cependant, la Belgique reste invincible à l'extérieur (1 match, 5 buts marqués) et arrive plus fraîche. Le modèle prédit 82,6 % de probabilité pour plus de 2,5 buts et 78,2 % pour les deux équipes marquent. La double chance Belgique ou nul offre une couverture contre l'avantage terrain américain tout en bénéficiant de la supériorité offensive belge."
+      "pick": "Double chance Belgium ou Nul",
+      "confidence": "Élevée",
+      "analysis": "Les États-Unis jouent à domicile avec un avantage du terrain réel. Forme domestique solide (3 matchs sans encaisser de but à domicile, 2.67 pf/0.33 pa). Cependant, le modèle Poisson accorde à la Belgique 55.7 % de chances de victoire malgré cet avantage — signal fort. La Belgique en déplacement affiche 5.0 pf en 1 match récent hors domicile et conserve une invincibilité (1.0 unbeaten_rate). Les probabilités de plus de 2.5 buts (82.6 %) et BTTS (78.2 %) indiquent un match ouvert et offensif. L'équipe belge possède un potentiel offensif suffisant pour neutraliser ou surpasser les États-Unis malgré le terrain."
     },
     "Argentina__Egypt__2026-07-07T16:00:00Z": {
-      "pick": "Double chance Argentina ou nul",
+      "pick": "Double chance Argentine ou Nul",
       "confidence": "Élevée",
-      "analysis": "Terrain neutre. Argentine domine largement : 4 victoires consécutives, 2,75 buts marqués en moyenne et seulement 0,75 encaissés. Égypte arrive avec un profil offensif mais inconstant (2 victoires, 2 nuls). Le modèle Poisson accorde 46,4 % à l'Argentine et indique 80,7 % pour plus de 2,5 buts. L'enchaînement serré affecte les deux équipes (3 jours de repos), mais l'effet relâchement d'Égypte (victoire à l'extérieur) crée une vulnérabilité. L'invincibilité à l'extérieur d'Égypte (3 matchs) offre une opportunité de nul, d'où l'intérêt de la double chance Argentine, qui capte le favori, assurant une couverture sûre en cas de résultat surprise."
+      "analysis": "Terrain neutre. L'Argentine domine nettement : 4 victoires consécutives, 15.0 points, 2.75 pf/0.75 pa (régime excellente). L'Égypte affiche 2.5 pf/1.5 pa avec un profil offensif (« Matchs ouverts »), mais subit un effet de relâchement probable après sa dernière victoire à l'extérieur. L'enchaînement serré (3 jours) affecte les deux équipes. Le modèle Poisson donne 46.4 % à l'Argentine, 34 % à l'Égypte. Les chiffres de BTTS (78.1 %) et over 2.5 (80.7 %) soutiennent un match ouvert. L'Argentine, invaincue sur 3 matchs neutralisés et en pleine dynamique, demeure favorite, mais l'Égypte reste dangereuse offensivement."
     },
     "Switzerland__Colombia__2026-07-07T20:00:00Z": {
-      "pick": "Double chance Colombia ou nul",
+      "pick": "Double chance Colombia ou Nul",
       "confidence": "Élevée",
-      "analysis": "Terrain neutre. Le modèle Poisson donne 60,6 % à la Colombie malgré un registre défensif (1,25 but marqué en moyenne). Suisse affiche une meilleure offensive (2,25 buts/match) mais elle souffre d'un enchaînement serré (3 jours de repos seulement) et lambdas moins favorables (1,0 vs 2,0). Colombie reste invincible à l'extérieur (1 match, 3 buts) avec une défense de fer (0,25 but encaissé). Probabilité de plus de 2,5 buts limitée (57,7 %) suggère un match fermé où la stabilité défensive prime. La double chance Colombie exploite sa dominance defensive et son repos relatif meilleur, tout en protégeant par un nul."
+      "analysis": "Terrain neutre. La Suisse affiche 12.5 points et un style solide (2.25 pf/0.75 pa), mais la Colombie, bien que plus défensive (1.25 pf/0.25 pa), est créditée par Poisson de 60.6 % de probabilité de victoire — inversion majeure. La Colombie maintient une invincibilité en déplacement (3 matchs neutralisés) et encaisse très peu (0.25 ga). L'enchaînement serré de 3 jours pour la Colombie ne brise pas sa solidité défensive. La Suisse souffre d'un taux offensif moins impressionnant que la Colombie ne souffre d'une défense friable. Les probabilités de nul (21.2 %) et over 2.5 (57.7 %, moins élevé) reflètent un match équilibré à léger avantage colombien."
     },
     "France__Morocco__2026-07-09T20:00:00Z": {
-      "pick": "Double chance France ou nul",
+      "pick": "Double chance France ou Nul",
       "confidence": "Élevée",
-      "analysis": "Terrain neutre. France affiche une domination nette : 5 victoires consécutives, 2,8 buts/match et seulement 0,4 encaissés (défense d'élite). Maroc affiche une bonne forme (4 victoires consécutives depuis le nul initial) avec 2,6 buts/match mais surtout 1,2 encaissés, révélant des failles défensives. Le modèle Poisson accorde 46,4 % à la France et 60,4 % pour plus de 2,5 buts. L'effet relâchement signalé pour la France après sa victoire à l'extérieur pose un risque mineur, mais l'écart de qualité défensive et offensive reste décisif. Double chance France offre une couverture maximale contre un Maroc combatif mais vulnérable."
+      "analysis": "Terrain neutre. La France affiche une domination écrasante : 5 victoires consécutives, 15.0 points, 2.8 pf/0.4 pa, invaincue en 3 matchs neutralisés (3.0 pf). Le Maroc montre une forme respectable (13.0 points, 2.6 pf/1.2 pa) et une invincibilité en déplacement sur 4 matchs (2.25 pf). Les deux équipes signalent un effet de relâchement probable après leur dernière victoire — facteur d'incertitude. Poisson donne 46.4 % à la France, 30.3 % au Maroc. L'enchaînement serré (4 jours) affecte la France mais elle reste largement favorite au vu de son régime offensif et défensif. Le nul (23.3 %) reste crédible en élimination directe."
     },
     "Norway__England__2026-07-11T21:00:00Z": {
-      "pick": "Double chance England ou nul",
+      "pick": "Double chance England ou Nul",
       "confidence": "Moyenne",
-      "analysis": "Terrain neutre. Match très ouvert : Norvège (2,4 buts/match, 1,8 encaissés) affronte Angleterre (2,2 buts/match, 1,0 encaissé). Le modèle Poisson donne 40,7 % à la Norvège et 37,3 % à l'Angleterre (nul 22,0 %), signalant un grand équilibre. L'Angleterre jouit d'une défense plus solide et d'une invincibilité de 2 matchs à l'extérieur. Norvège souffre d'une série mitigée à domicile (1/2 invaincu, 3 buts encaissés/match). Les deux équipes présentent un profil de matches ouverts (69,5 % de probabilité pour plus de 2,5 buts). Double chance Angleterre couvre le favori léger en défense tout en intégrant le risque légitime du nul ou de la Norvège combative."
+      "analysis": "Terrain neutre. L'Angleterre affiche 13.0 points et un style dominant (2.2 pf/1.0 pa), avec une invincibilité en déplacement sur 2 matchs neutralisés (2.5 pf/1.0 pa). La Norvège, bien que dynamique (12.0 points, 2.4 pf/1.8 pa), montre des failles défensives (1.8 ga) et une invincibilité mitigée hors domicile (50 % sur 2 matchs, 2.0 pf/3.0 pa). Poisson crédite la Norvège de 40.7 %, l'Angleterre de 37.3 % et le nul de 22.0 %. Malgré l'incertitude statistique, l'Angleterre présente un profil défensif plus stable. Les deux équipes signalent un effet de relâchement — élément de volatilité. Match très équilibré mais léger avantage à l'Angleterre. BTTS et over 2.5 (69.4 %) sont probables."
     }
   }
 }
