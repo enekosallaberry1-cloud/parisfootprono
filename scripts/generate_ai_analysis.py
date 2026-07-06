@@ -54,18 +54,29 @@ OUTPUT_PATH = os.path.join(DATA_DIR, "ai_analysis.json")
 
 SYSTEM_PROMPT = """Tu es un analyste de paris sportifs expérimenté. Pour chaque match fourni,
 rédige une analyse en français basée UNIQUEMENT sur les statistiques données (ne pas inventer de
-statistiques absentes). Méthodologie obligatoire :
+statistiques absentes).
 
+RÈGLE ABSOLUE ET NON NÉGOCIABLE SUR LE TERRAIN — à respecter avant toute autre considération :
+Chaque match fournit un champ "terrain_note" qui indique la VÉRITÉ VÉRIFIÉE sur qui joue à domicile
+pour CE match précis. Cette vérité prime totalement sur ta connaissance générale du football (ex. le
+fait de "savoir" qu'une équipe joue habituellement à domicile dans son championnat national n'a AUCUNE
+pertinence ici si le match a lieu ailleurs — Coupe du Monde sur un site neutre, finale sur terrain
+neutre, etc.). Si "terrain_note" dit que c'est neutre, tu DOIS écrire explicitement que le terrain est
+neutre et ne JAMAIS mentionner un avantage du terrain pour une des deux équipes, même en passant, même
+comme facteur secondaire. Si tu hésites entre ta connaissance générale et la donnée fournie, la donnée
+fournie a TOUJOURS raison.
+
+Méthodologie obligatoire pour le reste de l'analyse :
 - Le pari conseillé doit TOUJOURS être une double chance (équipe A ou nul, ou équipe B ou nul) —
   jamais une victoire sèche.
-- Prends en compte : forme récente (5 derniers matchs), buts marqués/encaissés, avantage du
-  terrain (domicile/extérieur), taux d'invincibilité et série en cours spécifiquement à domicile
-  (pour l'équipe recevante) et à l'extérieur (pour l'équipe visiteuse) sur les 10 derniers matchs
-  dans ce contexte, historique des confrontations directes, fatigue/enchaînement de matchs (un
-  repos de 3 jours ou moins est un vrai facteur défavorable, surtout en période de chevauchement
-  championnat/coupes/Ligue des Champions), et l'effet de relâchement possible après une victoire
-  marquante à l'extérieur (facteur à mentionner s'il est signalé, sans jamais le traiter comme une
-  certitude).
+- Prends en compte : forme récente (5 derniers matchs), buts marqués/encaissés, taux d'invincibilité
+  et série en cours spécifiquement à domicile (pour l'équipe recevante) et à l'extérieur (pour
+  l'équipe visiteuse) sur les 10 derniers matchs dans ce contexte, historique des confrontations
+  directes, fatigue/enchaînement de matchs (un repos de 3 jours ou moins est un vrai facteur
+  défavorable, surtout en période de chevauchement championnat/coupes/Ligue des Champions),
+  l'effet de relâchement possible après une victoire marquante à l'extérieur (facteur à mentionner
+  s'il est signalé, sans jamais le traiter comme une certitude), et l'enjeu réel du match pour
+  chaque équipe (course à la Ligue des Champions, lutte pour le maintien, ou déjà sans grand enjeu).
 - Ne favorise pas systématiquement le favori statistique : si les données suggèrent un match plus
   équilibré qu'il n'y paraît, ou un vrai risque de surprise, dis-le clairement. Le football produit
   des résultats surprenants ; une analyse honnête l'admet plutôt que de forcer un pronostic.
@@ -101,12 +112,35 @@ def build_match_payload(matches):
     for m in matches:
         a = m["analysis"]
         key = f"{m['homeTeam']}__{m['awayTeam']}__{m['utcDate']}"
+
+        # Note en langage naturel, explicite et impossible à mal interpréter,
+        # plutôt que de compter sur le modèle pour bien lire un champ technique
+        # true_home_advantage isolé au milieu des données. Le modèle a souvent
+        # une connaissance générale du football (ex. "l'Argentine joue tel jour")
+        # qui peut le pousser à halluciner un avantage du terrain même si la
+        # donnée dit le contraire — cette note prime explicitement sur tout ça.
+        adv = a.get("true_home_advantage")
+        if adv == "home":
+            terrain_note = (f"{m['homeTeam']} joue RÉELLEMENT à domicile pour ce match "
+                             f"(avantage du terrain réel, vérifié à partir du lieu exact de la rencontre).")
+        elif adv == "away":
+            terrain_note = (f"{m['awayTeam']} joue RÉELLEMENT à domicile pour ce match, bien qu'il soit "
+                             f"désigné comme 'équipe extérieure' dans les données brutes — c'est cette équipe "
+                             f"qui bénéficie du vrai avantage du terrain, pas l'autre.")
+        else:
+            terrain_note = (f"TERRAIN NEUTRE — ni {m['homeTeam']} ni {m['awayTeam']} ne joue à domicile pour "
+                             f"ce match (ex. Coupe du Monde hors nation hôte, ou finale sur stade neutre). "
+                             f"N'écris JAMAIS qu'une des deux équipes a un avantage du terrain ou joue "
+                             f"'à domicile' dans ton analyse de ce match précis, même si tu sais que l'une "
+                             f"des deux joue habituellement à domicile dans son propre championnat.")
+
         payload.append({
             "key": key,
             "competition": m["competition"],
             "home_team": m["homeTeam"],
             "away_team": m["awayTeam"],
             "kickoff_utc": m["utcDate"],
+            "terrain_note": terrain_note,
             "home_form_last5": a.get("home_form"),
             "away_form_last5": a.get("away_form"),
             "head_to_head": a.get("head_to_head"),
@@ -118,6 +152,8 @@ def build_match_payload(matches):
             "letdown_effect_away": a.get("letdown_away"),
             "home_unbeaten_record_at_home_last10": a.get("home_venue_record"),
             "away_unbeaten_record_away_last10": a.get("away_venue_record"),
+            "stakes_home": a.get("stakes_home"),
+            "stakes_away": a.get("stakes_away"),
         })
     return payload
 
