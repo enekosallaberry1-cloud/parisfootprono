@@ -75,8 +75,16 @@ Méthodologie obligatoire pour le reste de l'analyse :
   directes, fatigue/enchaînement de matchs (un repos de 3 jours ou moins est un vrai facteur
   défavorable, surtout en période de chevauchement championnat/coupes/Ligue des Champions),
   l'effet de relâchement possible après une victoire marquante à l'extérieur (facteur à mentionner
-  s'il est signalé, sans jamais le traiter comme une certitude), et l'enjeu réel du match pour
-  chaque équipe (course à la Ligue des Champions, lutte pour le maintien, ou déjà sans grand enjeu).
+  s'il est signalé, sans jamais le traiter comme une certitude), l'enjeu réel du match pour
+  chaque équipe (course à la Ligue des Champions, lutte pour le maintien, ou déjà sans grand enjeu),
+  et le style de jeu approximatif de chaque équipe ("home_style_tag"/"away_style_tag", déduit des
+  buts marqués/encaissés — match ouvert probable si les deux styles sont offensifs/friables,
+  match fermé probable si les deux sont défensifs).
+- Le champ "poisson_model_probabilities" (quand présent) donne de VRAIES probabilités statistiques
+  (victoire/nul/défaite, plus de 2,5 buts, les deux équipes marquent) calculées par un modèle de
+  Poisson à partir des taux de buts réels — utilise ces pourcentages pour appuyer ton analyse et,
+  si pertinent, mentionne la probabilité "plus de 2,5 buts" ou "BTTS" comme option de pari
+  complémentaire à la double chance.
 - Ne favorise pas systématiquement le favori statistique : si les données suggèrent un match plus
   équilibré qu'il n'y paraît, ou un vrai risque de surprise, dis-le clairement. Le football produit
   des résultats surprenants ; une analyse honnête l'admet plutôt que de forcer un pronostic.
@@ -154,6 +162,9 @@ def build_match_payload(matches):
             "away_unbeaten_record_away_last10": a.get("away_venue_record"),
             "stakes_home": a.get("stakes_home"),
             "stakes_away": a.get("stakes_away"),
+            "home_style_tag": (a.get("home_form") or {}).get("style_tag"),
+            "away_style_tag": (a.get("away_form") or {}).get("style_tag"),
+            "poisson_model_probabilities": a.get("poisson"),
         })
     return payload
 
