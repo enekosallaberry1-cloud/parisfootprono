@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-07-05T21:42:14.952639+00:00",
-  "date_from": "2026-07-02",
-  "date_to": "2026-07-26",
-  "count": 23,
-  "deep_analysis_count": 13,
+  "generated_at": "2026-07-06T10:21:36.283114+00:00",
+  "date_from": "2026-07-03",
+  "date_to": "2026-07-27",
+  "count": 20,
+  "deep_analysis_count": 12,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-02T00:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "United States",
-      "homeCrest": "https://crests.football-data.org/usa.svg",
-      "awayTeam": "Bosnia-Herzegovina",
-      "awayCrest": "https://crests.football-data.org/bosnia.svg",
-      "homeScore": 2,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-02T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "Spain",
-      "homeCrest": "https://crests.football-data.org/760.svg",
-      "awayTeam": "Austria",
-      "awayCrest": "https://crests.football-data.org/816.svg",
-      "homeScore": 3,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-02T23:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "Portugal",
-      "homeCrest": "https://crests.football-data.org/765.svg",
-      "awayTeam": "Croatia",
-      "awayCrest": "https://crests.football-data.org/799.svg",
-      "homeScore": 2,
-      "awayScore": 1,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-03T03:00:00Z",
@@ -134,88 +92,30 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_16",
       "homeTeam": "Brazil",
       "homeCrest": "https://crests.football-data.org/764.svg",
       "awayTeam": "Norway",
       "awayCrest": "https://crests.football-data.org/813.svg",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "analysis": null
     },
     {
       "competition": "Coupe du Monde",
-      "utcDate": "2026-07-06T00:00:00Z",
-      "status": "TIMED",
+      "utcDate": "2026-07-06T01:00:00Z",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_16",
       "homeTeam": "Mexico",
       "homeCrest": "https://crests.football-data.org/769.svg",
       "awayTeam": "England",
       "awayCrest": "https://crests.football-data.org/770.svg",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 12,
-          "goals_for": 8,
-          "goals_against": 0,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-01T02:00:00Z",
-          "last_match_away_win": false
-        },
-        "away_form": {
-          "points": 10,
-          "goals_for": 8,
-          "goals_against": 3,
-          "results": [
-            "V",
-            "N",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-01T16:00:00Z",
-          "last_match_away_win": false
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "suggested_pick": "Double chance : Mexico ou nul",
-        "confidence": "Élevée",
-        "score_diff": 5.2,
-        "rest_days_home": 4,
-        "rest_days_away": 4,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "repos réduit",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 2,
+      "awayScore": 3,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",
@@ -231,9 +131,12 @@
       "awayScore": null,
       "analysis": {
         "home_form": {
-          "points": 8,
-          "goals_for": 8,
-          "goals_against": 2,
+          "points": 10.0,
+          "goals_for": 10.0,
+          "goals_against": 2.5,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 0.5,
+          "matches_counted": 4,
           "results": [
             "N",
             "V",
@@ -241,12 +144,16 @@
             "V"
           ],
           "last_match_date": "2026-07-02T23:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "away_form": {
-          "points": 10,
-          "goals_for": 8,
-          "goals_against": 0,
+          "points": 12.5,
+          "goals_for": 10.0,
+          "goals_against": 0.0,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 0.0,
+          "matches_counted": 4,
           "results": [
             "N",
             "V",
@@ -254,7 +161,8 @@
             "V"
           ],
           "last_match_date": "2026-07-02T19:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "head_to_head": {
           "total_matches": 5,
@@ -262,9 +170,11 @@
           "away_wins": 0,
           "draws": 0
         },
+        "poisson": null,
         "suggested_pick": "Double chance : Spain ou nul",
         "confidence": "Moyenne",
-        "score_diff": -3.3,
+        "predicted_side": "away",
+        "score_diff": -3.9,
         "rest_days_home": 3,
         "rest_days_away": 4,
         "fatigue_home": "enchaînement serré",
@@ -275,13 +185,17 @@
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.67,
+          "avg_goals_against": 0.67
         },
         "away_venue_record": {
           "matches_played": 1,
           "unbeaten_count": 1,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 0.0
         },
         "surprise_risk": false,
         "true_home_advantage": null,
@@ -303,9 +217,12 @@
       "awayScore": null,
       "analysis": {
         "home_form": {
-          "points": 9,
-          "goals_for": 10,
-          "goals_against": 4,
+          "points": 11.25,
+          "goals_for": 12.5,
+          "goals_against": 5.0,
+          "goals_for_avg": 2.5,
+          "goals_against_avg": 1.0,
+          "matches_counted": 4,
           "results": [
             "V",
             "V",
@@ -313,12 +230,16 @@
             "V"
           ],
           "last_match_date": "2026-07-02T00:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "away_form": {
-          "points": 8,
-          "goals_for": 9,
-          "goals_against": 4,
+          "points": 10.0,
+          "goals_for": 11.25,
+          "goals_against": 5.0,
+          "goals_for_avg": 2.25,
+          "goals_against_avg": 1.0,
+          "matches_counted": 4,
           "results": [
             "N",
             "N",
@@ -326,7 +247,8 @@
             "V"
           ],
           "last_match_date": "2026-07-01T20:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "head_to_head": {
           "total_matches": 2,
@@ -334,9 +256,19 @@
           "away_wins": 0,
           "draws": 0
         },
+        "poisson": {
+          "home_win_pct": 26.1,
+          "draw_pct": 18.2,
+          "away_win_pct": 55.7,
+          "over_2_5_pct": 82.6,
+          "btts_pct": 78.2,
+          "lambda_home": 1.83,
+          "lambda_away": 2.67
+        },
         "suggested_pick": "Double chance : United States ou nul",
         "confidence": "Moyenne",
-        "score_diff": 3.6,
+        "predicted_side": "home",
+        "score_diff": 3.9,
         "rest_days_home": 5,
         "rest_days_away": 5,
         "fatigue_home": null,
@@ -347,13 +279,17 @@
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.67,
+          "avg_goals_against": 0.33
         },
         "away_venue_record": {
           "matches_played": 1,
           "unbeaten_count": 1,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 5.0,
+          "avg_goals_against": 1.0
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
@@ -375,9 +311,12 @@
       "awayScore": null,
       "analysis": {
         "home_form": {
-          "points": 12,
-          "goals_for": 11,
-          "goals_against": 3,
+          "points": 15.0,
+          "goals_for": 13.75,
+          "goals_against": 3.75,
+          "goals_for_avg": 2.75,
+          "goals_against_avg": 0.75,
+          "matches_counted": 4,
           "results": [
             "V",
             "V",
@@ -385,12 +324,16 @@
             "V"
           ],
           "last_match_date": "2026-07-03T22:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "away_form": {
-          "points": 8,
-          "goals_for": 10,
-          "goals_against": 6,
+          "points": 10.0,
+          "goals_for": 12.5,
+          "goals_against": 7.5,
+          "goals_for_avg": 2.5,
+          "goals_against_avg": 1.5,
+          "matches_counted": 4,
           "results": [
             "N",
             "V",
@@ -398,7 +341,8 @@
             "V"
           ],
           "last_match_date": "2026-07-03T18:00:00Z",
-          "last_match_away_win": true
+          "last_match_away_win": true,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
         },
         "head_to_head": {
           "total_matches": 0,
@@ -406,9 +350,19 @@
           "away_wins": 0,
           "draws": 0
         },
+        "poisson": {
+          "home_win_pct": 46.4,
+          "draw_pct": 19.6,
+          "away_win_pct": 34.0,
+          "over_2_5_pct": 80.7,
+          "btts_pct": 78.1,
+          "lambda_home": 2.33,
+          "lambda_away": 2.0
+        },
         "suggested_pick": "Double chance : Argentina ou nul",
         "confidence": "Élevée",
-        "score_diff": 6.2,
+        "predicted_side": "home",
+        "score_diff": 7.5,
         "rest_days_home": 3,
         "rest_days_away": 3,
         "fatigue_home": "enchaînement serré",
@@ -419,13 +373,17 @@
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.67,
+          "avg_goals_against": 0.67
         },
         "away_venue_record": {
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 1.67
         },
         "surprise_risk": true,
         "true_home_advantage": null,
@@ -447,9 +405,12 @@
       "awayScore": null,
       "analysis": {
         "home_form": {
-          "points": 10,
-          "goals_for": 9,
-          "goals_against": 3,
+          "points": 12.5,
+          "goals_for": 11.25,
+          "goals_against": 3.75,
+          "goals_for_avg": 2.25,
+          "goals_against_avg": 0.75,
+          "matches_counted": 4,
           "results": [
             "N",
             "V",
@@ -457,12 +418,16 @@
             "V"
           ],
           "last_match_date": "2026-07-03T03:00:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "away_form": {
-          "points": 10,
-          "goals_for": 5,
-          "goals_against": 1,
+          "points": 12.5,
+          "goals_for": 6.25,
+          "goals_against": 1.25,
+          "goals_for_avg": 1.25,
+          "goals_against_avg": 0.25,
+          "matches_counted": 4,
           "results": [
             "V",
             "V",
@@ -470,7 +435,8 @@
             "V"
           ],
           "last_match_date": "2026-07-04T01:30:00Z",
-          "last_match_away_win": false
+          "last_match_away_win": false,
+          "style_tag": "Registre fermé et défensif"
         },
         "head_to_head": {
           "total_matches": 1,
@@ -478,9 +444,19 @@
           "away_wins": 0,
           "draws": 0
         },
+        "poisson": {
+          "home_win_pct": 18.3,
+          "draw_pct": 21.2,
+          "away_win_pct": 60.6,
+          "over_2_5_pct": 57.7,
+          "btts_pct": 54.7,
+          "lambda_home": 1.0,
+          "lambda_away": 2.0
+        },
         "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
         "confidence": "Faible",
-        "score_diff": 1.9,
+        "predicted_side": null,
+        "score_diff": 2.1,
         "rest_days_home": 4,
         "rest_days_away": 3,
         "fatigue_home": "repos réduit",
@@ -491,13 +467,17 @@
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.67,
+          "avg_goals_against": 0.67
         },
         "away_venue_record": {
           "matches_played": 1,
           "unbeaten_count": 1,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 1.0
         },
         "surprise_risk": false,
         "true_home_advantage": null,
@@ -519,9 +499,12 @@
       "awayScore": null,
       "analysis": {
         "home_form": {
-          "points": 15,
-          "goals_for": 14,
-          "goals_against": 2,
+          "points": 15.0,
+          "goals_for": 14.0,
+          "goals_against": 2.0,
+          "goals_for_avg": 2.8,
+          "goals_against_avg": 0.4,
+          "matches_counted": 5,
           "results": [
             "V",
             "V",
@@ -530,12 +513,16 @@
             "V"
           ],
           "last_match_date": "2026-07-04T21:00:00Z",
-          "last_match_away_win": true
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
         },
         "away_form": {
-          "points": 13,
-          "goals_for": 13,
-          "goals_against": 6,
+          "points": 13.0,
+          "goals_for": 13.0,
+          "goals_against": 6.0,
+          "goals_for_avg": 2.6,
+          "goals_against_avg": 1.2,
+          "matches_counted": 5,
           "results": [
             "N",
             "V",
@@ -544,7 +531,8 @@
             "V"
           ],
           "last_match_date": "2026-07-04T17:00:00Z",
-          "last_match_away_win": true
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
         },
         "head_to_head": {
           "total_matches": 1,
@@ -552,8 +540,18 @@
           "away_wins": 0,
           "draws": 0
         },
+        "poisson": {
+          "home_win_pct": 46.4,
+          "draw_pct": 23.3,
+          "away_win_pct": 30.3,
+          "over_2_5_pct": 60.4,
+          "btts_pct": 61.7,
+          "lambda_home": 1.75,
+          "lambda_away": 1.38
+        },
         "suggested_pick": "Double chance : France ou nul",
         "confidence": "Moyenne",
+        "predicted_side": "home",
         "score_diff": 2.5,
         "rest_days_home": 4,
         "rest_days_away": 5,
@@ -565,13 +563,17 @@
           "matches_played": 3,
           "unbeaten_count": 3,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 0.33
         },
         "away_venue_record": {
           "matches_played": 4,
           "unbeaten_count": 4,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 4
+          "current_unbeaten_streak": 4,
+          "avg_goals_for": 2.25,
+          "avg_goals_against": 1.0
         },
         "surprise_risk": true,
         "true_home_advantage": null,
@@ -599,13 +601,95 @@
       "status": "TIMED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
-      "homeTeam": null,
-      "homeCrest": null,
-      "awayTeam": null,
-      "awayCrest": null,
+      "homeTeam": "Norway",
+      "homeCrest": "https://crests.football-data.org/813.svg",
+      "awayTeam": "England",
+      "awayCrest": "https://crests.football-data.org/770.svg",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 12.0,
+          "goals_for": 12.0,
+          "goals_against": 9.0,
+          "goals_for_avg": 2.4,
+          "goals_against_avg": 1.8,
+          "matches_counted": 5,
+          "results": [
+            "V",
+            "V",
+            "D",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-07-05T20:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "away_form": {
+          "points": 13.0,
+          "goals_for": 11.0,
+          "goals_against": 5.0,
+          "goals_for_avg": 2.2,
+          "goals_against_avg": 1.0,
+          "matches_counted": 5,
+          "results": [
+            "V",
+            "N",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-07-06T01:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "head_to_head": {
+          "total_matches": 0,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 40.7,
+          "draw_pct": 22.0,
+          "away_win_pct": 37.3,
+          "over_2_5_pct": 69.5,
+          "btts_pct": 69.4,
+          "lambda_home": 1.83,
+          "lambda_away": 1.75
+        },
+        "suggested_pick": "Double chance : England ou nul",
+        "confidence": "Moyenne",
+        "predicted_side": "away",
+        "score_diff": -3.7,
+        "rest_days_home": 6,
+        "rest_days_away": 5,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": true,
+        "letdown_away": true,
+        "home_venue_record": {
+          "matches_played": 2,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 3.0
+        },
+        "away_venue_record": {
+          "matches_played": 2,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 2,
+          "avg_goals_for": 2.5,
+          "avg_goals_against": 1.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
+      }
     },
     {
       "competition": "Coupe du Monde",
