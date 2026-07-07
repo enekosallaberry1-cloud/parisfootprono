@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-07-06T22:47:55.553257+00:00",
-  "date_from": "2026-07-03",
-  "date_to": "2026-07-27",
-  "count": 20,
-  "deep_analysis_count": 11,
+  "generated_at": "2026-07-07T11:25:47.357918+00:00",
+  "date_from": "2026-07-04",
+  "date_to": "2026-07-28",
+  "count": 17,
+  "deep_analysis_count": 10,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-03T03:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "Switzerland",
-      "homeCrest": "https://crests.football-data.org/788.svg",
-      "awayTeam": "Algeria",
-      "awayCrest": "https://crests.football-data.org/algeria.svg",
-      "homeScore": 2,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-03T18:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "Australia",
-      "homeCrest": "https://crests.football-data.org/779.svg",
-      "awayTeam": "Egypt",
-      "awayCrest": "https://crests.football-data.org/825.svg",
-      "homeScore": 3,
-      "awayScore": 5,
-      "analysis": null
-    },
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-03T22:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_32",
-      "homeTeam": "Argentina",
-      "homeCrest": "https://crests.football-data.org/762.png",
-      "awayTeam": "Cape Verde Islands",
-      "awayCrest": "https://crests.football-data.org/cape_verde.svg",
-      "homeScore": 3,
-      "awayScore": 2,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-04T01:30:00Z",
@@ -134,96 +92,16 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-07T00:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "LAST_16",
       "homeTeam": "United States",
       "homeCrest": "https://crests.football-data.org/usa.svg",
       "awayTeam": "Belgium",
       "awayCrest": "https://crests.football-data.org/805.svg",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 11.25,
-          "goals_for": 12.5,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.5,
-          "goals_against_avg": 1.0,
-          "matches_counted": 4,
-          "results": [
-            "V",
-            "V",
-            "D",
-            "V"
-          ],
-          "last_match_date": "2026-07-02T00:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 10.0,
-          "goals_for": 11.25,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.25,
-          "goals_against_avg": 1.0,
-          "matches_counted": 4,
-          "results": [
-            "N",
-            "N",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-01T20:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 2,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 26.1,
-          "draw_pct": 18.2,
-          "away_win_pct": 55.7,
-          "over_2_5_pct": 82.6,
-          "btts_pct": 78.2,
-          "lambda_home": 1.83,
-          "lambda_away": 2.67
-        },
-        "suggested_pick": "Double chance : United States ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "home",
-        "score_diff": 3.9,
-        "rest_days_home": 5,
-        "rest_days_away": 5,
-        "fatigue_home": null,
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 2.67,
-          "avg_goals_against": 0.33
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 5.0,
-          "avg_goals_against": 1.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 1,
+      "awayScore": 4,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",
@@ -515,13 +393,95 @@
       "status": "TIMED",
       "matchday": null,
       "stage": "QUARTER_FINALS",
-      "homeTeam": null,
-      "homeCrest": null,
-      "awayTeam": null,
-      "awayCrest": null,
+      "homeTeam": "Spain",
+      "homeCrest": "https://crests.football-data.org/760.svg",
+      "awayTeam": "Belgium",
+      "awayCrest": "https://crests.football-data.org/805.svg",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 13.0,
+          "goals_for": 9.0,
+          "goals_against": 0.0,
+          "goals_for_avg": 1.8,
+          "goals_against_avg": 0.0,
+          "matches_counted": 5,
+          "results": [
+            "N",
+            "V",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-07-06T19:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "away_form": {
+          "points": 11.0,
+          "goals_for": 13.0,
+          "goals_against": 5.0,
+          "goals_for_avg": 2.6,
+          "goals_against_avg": 1.0,
+          "matches_counted": 5,
+          "results": [
+            "N",
+            "N",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-07-07T00:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "head_to_head": {
+          "total_matches": 3,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 15.5,
+          "draw_pct": 18.9,
+          "away_win_pct": 65.6,
+          "over_2_5_pct": 63.0,
+          "btts_pct": 56.5,
+          "lambda_home": 1.0,
+          "lambda_away": 2.25
+        },
+        "suggested_pick": "Double chance : Spain ou nul",
+        "confidence": "Moyenne",
+        "predicted_side": "home",
+        "score_diff": 3.4,
+        "rest_days_home": 4,
+        "rest_days_away": 3,
+        "fatigue_home": "repos réduit",
+        "fatigue_away": "enchaînement serré",
+        "letdown_home": true,
+        "letdown_away": true,
+        "home_venue_record": {
+          "matches_played": 3,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.33,
+          "avg_goals_against": 0.0
+        },
+        "away_venue_record": {
+          "matches_played": 2,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 2,
+          "avg_goals_for": 4.5,
+          "avg_goals_against": 1.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": null,
+        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
+        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
+      }
     },
     {
       "competition": "Coupe du Monde",
