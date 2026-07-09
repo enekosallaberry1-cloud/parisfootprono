@@ -1,24 +1,10 @@
 {
-  "generated_at": "2026-07-08T21:52:37.934203+00:00",
-  "date_from": "2026-07-05",
-  "date_to": "2026-07-29",
-  "count": 14,
+  "generated_at": "2026-07-09T11:27:15.420676+00:00",
+  "date_from": "2026-07-06",
+  "date_to": "2026-07-30",
+  "count": 13,
   "deep_analysis_count": 8,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-05T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "LAST_16",
-      "homeTeam": "Brazil",
-      "homeCrest": "https://crests.football-data.org/764.svg",
-      "awayTeam": "Norway",
-      "awayCrest": "https://crests.football-data.org/813.svg",
-      "homeScore": 1,
-      "awayScore": 2,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-06T01:00:00Z",
