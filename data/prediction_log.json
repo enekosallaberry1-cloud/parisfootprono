@@ -40,8 +40,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : France ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Norway__England__2026-07-11T21:00:00Z": {
     "competition": "Coupe du Monde",
