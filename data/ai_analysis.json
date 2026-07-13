@@ -1,35 +1,15 @@
 {
-  "generated_at": "2026-07-06T17:59:18.014908+00:00",
+  "generated_at": "2026-07-13T16:58:28.353885+00:00",
   "analyses": {
-    "Portugal__Spain__2026-07-06T19:00:00Z": {
-      "pick": "Double chance Nul ou Spain",
-      "confidence": "Moyenne",
-      "analysis": "Terrain neutre — aucun avantage du terrain. L'Espagne affiche une supériorité remarquable : 4 matchs sans encaisser un but (0.0 ga), 12.5 points vs 10 pour le Portugal, et un bilan parfait (1V-2N dernièrement). Le Portugal montre une forme solide mais avec 2.5 encaissés en 4 matchs (0.5 ga). Le repos léger de 3 jours pour le Portugal pourrait peser en élimination directe. L'Espagne, plus franche en défense et légèrement mieux lotie (4 jours de repos), apparaît favorite. Cependant, l'enjeu maximal et la compétitivité du Portugal dans les grands rendez-vous rendent le nul plausible."
-    },
-    "United States__Belgium__2026-07-07T00:00:00Z": {
-      "pick": "Double chance Belgium ou Nul",
-      "confidence": "Élevée",
-      "analysis": "Les États-Unis jouent à domicile avec un avantage du terrain réel. Forme domestique solide (3 matchs sans encaisser de but à domicile, 2.67 pf/0.33 pa). Cependant, le modèle Poisson accorde à la Belgique 55.7 % de chances de victoire malgré cet avantage — signal fort. La Belgique en déplacement affiche 5.0 pf en 1 match récent hors domicile et conserve une invincibilité (1.0 unbeaten_rate). Les probabilités de plus de 2.5 buts (82.6 %) et BTTS (78.2 %) indiquent un match ouvert et offensif. L'équipe belge possède un potentiel offensif suffisant pour neutraliser ou surpasser les États-Unis malgré le terrain."
-    },
-    "Argentina__Egypt__2026-07-07T16:00:00Z": {
-      "pick": "Double chance Argentine ou Nul",
-      "confidence": "Élevée",
-      "analysis": "Terrain neutre. L'Argentine domine nettement : 4 victoires consécutives, 15.0 points, 2.75 pf/0.75 pa (régime excellente). L'Égypte affiche 2.5 pf/1.5 pa avec un profil offensif (« Matchs ouverts »), mais subit un effet de relâchement probable après sa dernière victoire à l'extérieur. L'enchaînement serré (3 jours) affecte les deux équipes. Le modèle Poisson donne 46.4 % à l'Argentine, 34 % à l'Égypte. Les chiffres de BTTS (78.1 %) et over 2.5 (80.7 %) soutiennent un match ouvert. L'Argentine, invaincue sur 3 matchs neutralisés et en pleine dynamique, demeure favorite, mais l'Égypte reste dangereuse offensivement."
-    },
-    "Switzerland__Colombia__2026-07-07T20:00:00Z": {
-      "pick": "Double chance Colombia ou Nul",
-      "confidence": "Élevée",
-      "analysis": "Terrain neutre. La Suisse affiche 12.5 points et un style solide (2.25 pf/0.75 pa), mais la Colombie, bien que plus défensive (1.25 pf/0.25 pa), est créditée par Poisson de 60.6 % de probabilité de victoire — inversion majeure. La Colombie maintient une invincibilité en déplacement (3 matchs neutralisés) et encaisse très peu (0.25 ga). L'enchaînement serré de 3 jours pour la Colombie ne brise pas sa solidité défensive. La Suisse souffre d'un taux offensif moins impressionnant que la Colombie ne souffre d'une défense friable. Les probabilités de nul (21.2 %) et over 2.5 (57.7 %, moins élevé) reflètent un match équilibré à léger avantage colombien."
-    },
-    "France__Morocco__2026-07-09T20:00:00Z": {
+    "France__Spain__2026-07-14T19:00:00Z": {
       "pick": "Double chance France ou Nul",
-      "confidence": "Élevée",
-      "analysis": "Terrain neutre. La France affiche une domination écrasante : 5 victoires consécutives, 15.0 points, 2.8 pf/0.4 pa, invaincue en 3 matchs neutralisés (3.0 pf). Le Maroc montre une forme respectable (13.0 points, 2.6 pf/1.2 pa) et une invincibilité en déplacement sur 4 matchs (2.25 pf). Les deux équipes signalent un effet de relâchement probable après leur dernière victoire — facteur d'incertitude. Poisson donne 46.4 % à la France, 30.3 % au Maroc. L'enchaînement serré (4 jours) affecte la France mais elle reste largement favorite au vu de son régime offensif et défensif. Le nul (23.3 %) reste crédible en élimination directe."
-    },
-    "Norway__England__2026-07-11T21:00:00Z": {
-      "pick": "Double chance England ou Nul",
       "confidence": "Moyenne",
-      "analysis": "Terrain neutre. L'Angleterre affiche 13.0 points et un style dominant (2.2 pf/1.0 pa), avec une invincibilité en déplacement sur 2 matchs neutralisés (2.5 pf/1.0 pa). La Norvège, bien que dynamique (12.0 points, 2.4 pf/1.8 pa), montre des failles défensives (1.8 ga) et une invincibilité mitigée hors domicile (50 % sur 2 matchs, 2.0 pf/3.0 pa). Poisson crédite la Norvège de 40.7 %, l'Angleterre de 37.3 % et le nul de 22.0 %. Malgré l'incertitude statistique, l'Angleterre présente un profil défensif plus stable. Les deux équipes signalent un effet de relâchement — élément de volatilité. Match très équilibré mais léger avantage à l'Angleterre. BTTS et over 2.5 (69.4 %) sont probables."
+      "analysis": "Sur terrain neutre, la France affiche une forme légèrement supérieure avec 5 victoires consécutives et une moyenne de 2,67 buts marqués contre 0,33 encaissés, tandis que l'Espagne maintient un bilan identique (5 V) mais avec 1,83 buts par match. Le modèle de Poisson donne 48,2 % de victoire France, 29,5 % de nul et 22,3 % de victoire Espagne, reflétant un léger avantage français. Les deux équipes bénéficient d'un repos de 4 jours et affichent une solidité défensive remarquable, suggérant un match fermé (32,3 % seulement de plus de 2,5 buts). La double chance France ou Nul capitalise sur la forme française tout en se protégeant contre une surprise espagnole dans ce duel de demi-finale à enjeu maximal."
+    },
+    "England__Argentina__2026-07-15T19:00:00Z": {
+      "pick": "Double chance Argentina ou Nul",
+      "confidence": "Élevée",
+      "analysis": "Sur terrain neutre, l'Argentine domine nettement avec 5 victoires consécutives (2,83 buts/match) face à l'Angleterre en phase défaillante (1 nul, 4 victoires, 2,17 buts/match). Le modèle de Poisson accorde 46 % à l'Argentine contre 32,6 % à l'Angleterre, tandis que le taux BTTS de 70,1 % et plus de 2,5 buts à 70,9 % laissent présager un match ouvert et offensif. L'Angleterre souffre d'un enchaînement serré (3 jours) et d'un risque d'effet de relâchement après sa victoire contre les Pays-Bas, facteurs péjoratifs supplémentaires. La double chance Argentina ou Nul protège face à une Argentine en ascendant qui a marqué en moyenne 2,83 buts et qui constitue un favori statistique en quart de finale."
     }
   }
 }
