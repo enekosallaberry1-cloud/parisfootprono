@@ -1,24 +1,10 @@
 {
-  "generated_at": "2026-07-12T20:28:59.151895+00:00",
-  "date_from": "2026-07-09",
-  "date_to": "2026-08-02",
-  "count": 8,
+  "generated_at": "2026-07-13T11:44:18.108150+00:00",
+  "date_from": "2026-07-10",
+  "date_to": "2026-08-03",
+  "count": 7,
   "deep_analysis_count": 4,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-09T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "QUARTER_FINALS",
-      "homeTeam": "France",
-      "homeCrest": "https://crests.football-data.org/773.svg",
-      "awayTeam": "Morocco",
-      "awayCrest": "https://crests.football-data.org/morocco.svg",
-      "homeScore": 2,
-      "awayScore": 0,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-10T19:00:00Z",
