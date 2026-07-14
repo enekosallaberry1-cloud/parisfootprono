@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-13T16:58:28.353885+00:00",
+  "generated_at": "2026-07-14T13:26:21.699125+00:00",
   "analyses": {
     "France__Spain__2026-07-14T19:00:00Z": {
       "pick": "Double chance France ou Nul",
       "confidence": "Moyenne",
-      "analysis": "Sur terrain neutre, la France affiche une forme légèrement supérieure avec 5 victoires consécutives et une moyenne de 2,67 buts marqués contre 0,33 encaissés, tandis que l'Espagne maintient un bilan identique (5 V) mais avec 1,83 buts par match. Le modèle de Poisson donne 48,2 % de victoire France, 29,5 % de nul et 22,3 % de victoire Espagne, reflétant un léger avantage français. Les deux équipes bénéficient d'un repos de 4 jours et affichent une solidité défensive remarquable, suggérant un match fermé (32,3 % seulement de plus de 2,5 buts). La double chance France ou Nul capitalise sur la forme française tout en se protégeant contre une surprise espagnole dans ce duel de demi-finale à enjeu maximal."
+      "analysis": "Sur terrain neutre, la France affiche une domination nette en phase de groupe avec 5 victoires consécutives (2,67 buts marqués/match, 0,33 encaissés), tandis que l'Espagne, bien qu'invincible également (5V), marque moins (1,83 buts/match). Le modèle Poisson donne un léger avantage français (48,2% victoire France vs 22,3% victoire Espagne), confirmé par une meilleure efficacité offensive. Avec 4 jours de repos pour chaque équipe et un match sans relâchement signalé, l'équilibre défensif des deux équipes (0,17 et 0,25 buts encaissés) suggère un affrontement fermé. La probabilité de nul (29,5%) reste significative ; une double chance couvrant France ou Nul offre le meilleur rapport risque-rendement."
     },
     "England__Argentina__2026-07-15T19:00:00Z": {
       "pick": "Double chance Argentina ou Nul",
       "confidence": "Élevée",
-      "analysis": "Sur terrain neutre, l'Argentine domine nettement avec 5 victoires consécutives (2,83 buts/match) face à l'Angleterre en phase défaillante (1 nul, 4 victoires, 2,17 buts/match). Le modèle de Poisson accorde 46 % à l'Argentine contre 32,6 % à l'Angleterre, tandis que le taux BTTS de 70,1 % et plus de 2,5 buts à 70,9 % laissent présager un match ouvert et offensif. L'Angleterre souffre d'un enchaînement serré (3 jours) et d'un risque d'effet de relâchement après sa victoire contre les Pays-Bas, facteurs péjoratifs supplémentaires. La double chance Argentina ou Nul protège face à une Argentine en ascendant qui a marqué en moyenne 2,83 buts et qui constitue un favori statistique en quart de finale."
+      "analysis": "L'Argentine domine clairement cette demi-finale (ou quart-finale) avec 5 victoires consécutives (2,83 buts/match) et un bilan plus solide que l'Angleterre (qui compte un nul et affiche 2,17 buts/match). Le modèle Poisson privilégie largement l'Argentine (46,0% victoire vs 32,6% pour l'Angleterre), renforcé par un avantage marchand clair (14,15 buts marqués en 6 matchs vs 10,85 pour les Anglais). L'enchaînement serré (3 jours de repos) et un possible effet de relâchement chez l'Angleterre après un dernier match à l'extérieur ajoutent à la fragilité anglaise. Avec 70,9% de probabilité de plus de 2,5 buts et 70,1% de BTTS, le match s'annonce ouvert et offensif ; couvrir l'Argentine ou le nul limite le risque face à une équipe en meilleure forme."
     }
   }
 }
