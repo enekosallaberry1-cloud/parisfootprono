@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T16:44:22.273612+00:00",
+  "generated_at": "2026-07-14T21:33:31.997706+00:00",
   "date_from": "2026-07-11",
   "date_to": "2026-08-04",
   "count": 6,
-  "deep_analysis_count": 4,
+  "deep_analysis_count": 3,
   "matches": [
     {
       "competition": "Coupe du Monde",
@@ -36,98 +36,16 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "homeTeam": "France",
       "homeCrest": "https://crests.football-data.org/773.svg",
       "awayTeam": "Spain",
       "awayCrest": "https://crests.football-data.org/760.svg",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 15.0,
-          "goals_for": 13.35,
-          "goals_against": 1.65,
-          "goals_for_avg": 2.67,
-          "goals_against_avg": 0.33,
-          "matches_counted": 6,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-09T20:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 13.33,
-          "goals_for": 9.15,
-          "goals_against": 0.85,
-          "goals_for_avg": 1.83,
-          "goals_against_avg": 0.17,
-          "matches_counted": 6,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-10T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 48.2,
-          "draw_pct": 29.5,
-          "away_win_pct": 22.3,
-          "over_2_5_pct": 32.3,
-          "btts_pct": 37.6,
-          "lambda_home": 1.25,
-          "lambda_away": 0.75
-        },
-        "suggested_pick": "Double chance : France ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "home",
-        "score_diff": 3.0,
-        "rest_days_home": 4,
-        "rest_days_away": 4,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "repos réduit",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 4,
-          "unbeaten_count": 4,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 4,
-          "avg_goals_for": 2.75,
-          "avg_goals_against": 0.25
-        },
-        "away_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 2,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 2,
-          "avg_goals_for": 1.0,
-          "avg_goals_against": 0.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": null,
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 0,
+      "awayScore": 2,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",
