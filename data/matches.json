@@ -1,24 +1,10 @@
 {
-  "generated_at": "2026-07-13T18:21:36.036579+00:00",
-  "date_from": "2026-07-10",
-  "date_to": "2026-08-03",
-  "count": 7,
+  "generated_at": "2026-07-14T07:25:34.004230+00:00",
+  "date_from": "2026-07-11",
+  "date_to": "2026-08-04",
+  "count": 6,
   "deep_analysis_count": 4,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-10T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "QUARTER_FINALS",
-      "homeTeam": "Spain",
-      "homeCrest": "https://crests.football-data.org/760.svg",
-      "awayTeam": "Belgium",
-      "awayCrest": "https://crests.football-data.org/805.svg",
-      "homeScore": 2,
-      "awayScore": 1,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-11T21:00:00Z",
