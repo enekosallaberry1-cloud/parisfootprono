@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-15T16:53:49.706475+00:00",
+  "generated_at": "2026-07-15T21:32:01.590282+00:00",
   "date_from": "2026-07-12",
   "date_to": "2026-08-05",
   "count": 5,
-  "deep_analysis_count": 3,
+  "deep_analysis_count": 2,
   "matches": [
     {
       "competition": "Coupe du Monde",
@@ -36,98 +36,16 @@
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-15T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": null,
       "stage": "SEMI_FINALS",
       "homeTeam": "England",
       "homeCrest": "https://crests.football-data.org/770.svg",
       "awayTeam": "Argentina",
       "awayCrest": "https://crests.football-data.org/762.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 13.33,
-          "goals_for": 10.85,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.17,
-          "goals_against_avg": 1.0,
-          "matches_counted": 6,
-          "results": [
-            "N",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-11T21:00:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 15.0,
-          "goals_for": 14.15,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.83,
-          "goals_against_avg": 1.0,
-          "matches_counted": 6,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-07-12T01:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 32.6,
-          "draw_pct": 21.4,
-          "away_win_pct": 46.0,
-          "over_2_5_pct": 70.9,
-          "btts_pct": 70.1,
-          "lambda_home": 1.67,
-          "lambda_away": 2.0
-        },
-        "suggested_pick": "Double chance : Argentina ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "away",
-        "score_diff": -3.4,
-        "rest_days_home": 3,
-        "rest_days_away": 3,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": true,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 1.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 3.0,
-          "avg_goals_against": 1.0
-        },
-        "surprise_risk": true,
-        "true_home_advantage": null,
-        "stakes_home": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)",
-        "stakes_away": "Match à élimination directe — enjeu maximal (une défaite = fin du parcours)"
-      }
+      "homeScore": 1,
+      "awayScore": 2,
+      "analysis": null
     },
     {
       "competition": "Coupe du Monde",

@@ -95,7 +95,7 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Argentina ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   }
 }
