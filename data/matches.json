@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T07:36:45.842879+00:00",
+  "generated_at": "2026-07-17T16:39:13.007104+00:00",
   "date_from": "2026-07-14",
   "date_to": "2026-08-07",
   "count": 4,
@@ -97,17 +97,24 @@
           "lambda_home": 1.75,
           "lambda_away": 1.42
         },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "predicted_side": null,
-        "score_diff": 0.3,
+        "suggested_pick": "Double chance : France ou nul",
+        "confidence": "Moyenne",
+        "predicted_side": "home",
+        "score_diff": 2.7,
         "rest_days_home": 4,
         "rest_days_away": 3,
         "fatigue_home": "repos réduit",
         "fatigue_away": "enchaînement serré",
         "letdown_home": false,
         "letdown_away": false,
-        "home_venue_record": null,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 4,
+          "unbeaten_rate": 0.8,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 2.2,
+          "avg_goals_against": 0.6
+        },
         "away_venue_record": {
           "matches_played": 3,
           "unbeaten_count": 3,
