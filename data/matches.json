@@ -1,24 +1,10 @@
 {
-  "generated_at": "2026-07-17T20:41:04.493206+00:00",
-  "date_from": "2026-07-14",
-  "date_to": "2026-08-07",
-  "count": 4,
+  "generated_at": "2026-07-18T07:12:54.262212+00:00",
+  "date_from": "2026-07-15",
+  "date_to": "2026-08-08",
+  "count": 3,
   "deep_analysis_count": 2,
   "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-14T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "SEMI_FINALS",
-      "homeTeam": "France",
-      "homeCrest": "https://crests.football-data.org/773.svg",
-      "awayTeam": "Spain",
-      "awayCrest": "https://crests.football-data.org/760.svg",
-      "homeScore": 0,
-      "awayScore": 2,
-      "analysis": null
-    },
     {
       "competition": "Coupe du Monde",
       "utcDate": "2026-07-15T19:00:00Z",
