@@ -106,7 +106,7 @@
     "predicted_side": "home",
     "pick_label": "Double chance : France ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "4-6"
   }
 }
