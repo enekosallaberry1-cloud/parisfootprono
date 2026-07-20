@@ -1,15 +1,4 @@
 {
-  "generated_at": "2026-07-18T19:09:28.693044+00:00",
-  "analyses": {
-    "France__England__2026-07-18T21:00:00Z": {
-      "pick": "Double chance France ou Nul",
-      "confidence": "Moyenne",
-      "analysis": "Sur terrain neutre, la France affiche une forme supérieure avec 4 victoires en 5 derniers matchs (2,29 buts/match, 0,57 encaissés) et une invincibilité de 80% à domicile. L'Angleterre, bien qu'invaincue à l'extérieur (3/3), affiche un profil plus équilibré (2 buts/match, 1,14 encaissés). Le modèle de Poisson crédite la France à 45,5% de victoire. Cependant, l'Angleterre bénéficie d'un repos meilleur (3 jours vs 4 pour la France en contexte de fatigue) et reste dangereuse offensivement. La double chance France ou Nul limite le risque face à un adversaire capable de surprendre en élimination directe."
-    },
-    "Spain__Argentina__2026-07-19T19:00:00Z": {
-      "pick": "Double chance Argentina ou Nul",
-      "confidence": "Moyenne",
-      "analysis": "Sur terrain neutre, l'Argentine domine avec 5 victoires consécutives (2,71 buts/match, 1 encaissé) et un repos supérieur à l'Espagne (4 jours vs 5). L'Espagne, invaincue (5/5) mais avec une défense ultrasérieuse (0,14 buts/match) et un style plus conservateur, montre des signes de relâchement après sa victoire à l'extérieur. Le modèle de Poisson penche légèrement vers l'Argentine (38,3% vs 34,2%), reflétant son offensive supérieure. L'Angleterre, bien qu'invaincue à l'extérieur (3/3), affiche un profil plus équilibré (2 buts/match, 1,14 encaissés). La double chance Argentina ou Nul offre une protection contre l'imprévisibilité des phases éliminatoires tout en capitalisant sur l'avance offensive de l'Argentine."
-    }
-  }
+  "generated_at": null,
+  "analyses": {}
 }
