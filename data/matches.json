@@ -1,23 +1,8 @@
 {
-  "generated_at": "2026-07-22T21:42:38.819045+00:00",
-  "date_from": "2026-07-19",
-  "date_to": "2026-08-12",
-  "count": 1,
+  "generated_at": "2026-07-23T09:15:10.691669+00:00",
+  "date_from": "2026-07-20",
+  "date_to": "2026-08-13",
+  "count": 0,
   "deep_analysis_count": 0,
-  "matches": [
-    {
-      "competition": "Coupe du Monde",
-      "utcDate": "2026-07-19T19:00:00Z",
-      "status": "FINISHED",
-      "matchday": null,
-      "stage": "FINAL",
-      "homeTeam": "Spain",
-      "homeCrest": "https://crests.football-data.org/760.svg",
-      "awayTeam": "Argentina",
-      "awayCrest": "https://crests.football-data.org/762.png",
-      "homeScore": 1,
-      "awayScore": 0,
-      "analysis": null
-    }
-  ]
+  "matches": []
 }
