@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-07-24T21:45:05.061214+00:00",
-  "date_from": "2026-07-21",
-  "date_to": "2026-08-14",
-  "count": 0,
-  "deep_analysis_count": 0,
-  "matches": []
+  "generated_at": "2026-07-25T07:35:51.080697+00:00",
+  "date_from": "2026-07-22",
+  "date_to": "2026-08-15",
+  "count": 2,
+  "deep_analysis_count": 2,
+  "matches": [
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-15T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Deportivo Alavés",
+      "homeCrest": "https://crests.football-data.org/263.png",
+      "awayTeam": "Getafe CF",
+      "awayCrest": "https://crests.football-data.org/82.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-15T19:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sevilla FC",
+      "homeCrest": "https://crests.football-data.org/559.png",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "awayCrest": "https://crests.football-data.org/87.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    }
+  ]
 }
