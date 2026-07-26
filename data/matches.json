@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-25T20:38:11.240075+00:00",
-  "date_from": "2026-07-22",
-  "date_to": "2026-08-15",
-  "count": 2,
-  "deep_analysis_count": 2,
+  "generated_at": "2026-07-26T08:02:30.829822+00:00",
+  "date_from": "2026-07-23",
+  "date_to": "2026-08-16",
+  "count": 5,
+  "deep_analysis_count": 5,
   "matches": [
     {
       "competition": "Liga",
@@ -29,6 +29,48 @@
       "homeCrest": "https://crests.football-data.org/559.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "https://crests.football-data.org/87.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-16T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Real Racing Club de Santander",
+      "homeCrest": "https://crests.football-data.org/5335.png",
+      "awayTeam": "Villarreal CF",
+      "awayCrest": "https://crests.football-data.org/94.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-16T17:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "https://crests.football-data.org/80.png",
+      "awayTeam": "Levante UD",
+      "awayCrest": "https://crests.football-data.org/88.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-16T19:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RC Celta de Vigo",
+      "homeCrest": "https://crests.football-data.org/558.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "https://crests.football-data.org/79.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
