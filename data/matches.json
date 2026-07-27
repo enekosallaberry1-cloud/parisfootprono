@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26T21:18:18.229819+00:00",
-  "date_from": "2026-07-23",
-  "date_to": "2026-08-16",
-  "count": 5,
-  "deep_analysis_count": 5,
+  "generated_at": "2026-07-27T12:43:53.498595+00:00",
+  "date_from": "2026-07-24",
+  "date_to": "2026-08-17",
+  "count": 6,
+  "deep_analysis_count": 6,
   "matches": [
     {
       "competition": "Liga",
@@ -71,6 +71,20 @@
       "homeCrest": "https://crests.football-data.org/558.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "https://crests.football-data.org/79.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-17T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RC Deportivo La Coruña",
+      "homeCrest": "https://crests.football-data.org/560.png",
+      "awayTeam": "Elche CF",
+      "awayCrest": "https://crests.football-data.org/285.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
