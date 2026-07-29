@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T21:51:10.669913+00:00",
-  "date_from": "2026-07-25",
-  "date_to": "2026-08-18",
-  "count": 6,
-  "deep_analysis_count": 6,
+  "generated_at": "2026-07-29T10:09:32.932856+00:00",
+  "date_from": "2026-07-26",
+  "date_to": "2026-08-19",
+  "count": 7,
+  "deep_analysis_count": 7,
   "matches": [
     {
       "competition": "Liga",
@@ -85,6 +85,20 @@
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayTeam": "Elche CF",
       "awayCrest": "https://crests.football-data.org/285.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-19T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Club Atlético de Madrid",
+      "homeCrest": "https://crests.football-data.org/78.png",
+      "awayTeam": "Málaga CF",
+      "awayCrest": "https://crests.football-data.org/84.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
