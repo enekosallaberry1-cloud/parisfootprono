@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T20:45:22.627504+00:00",
-  "date_from": "2026-07-26",
-  "date_to": "2026-08-19",
-  "count": 7,
-  "deep_analysis_count": 7,
+  "generated_at": "2026-07-30T08:04:33.940965+00:00",
+  "date_from": "2026-07-27",
+  "date_to": "2026-08-20",
+  "count": 8,
+  "deep_analysis_count": 8,
   "matches": [
     {
       "competition": "Liga",
@@ -99,6 +99,20 @@
       "homeCrest": "https://crests.football-data.org/78.png",
       "awayTeam": "Málaga CF",
       "awayCrest": "https://crests.football-data.org/84.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-20T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "homeCrest": "https://crests.football-data.org/87.png",
+      "awayTeam": "Deportivo Alavés",
+      "awayCrest": "https://crests.football-data.org/263.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
