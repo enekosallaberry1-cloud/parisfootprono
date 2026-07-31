@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T21:54:14.960569+00:00",
-  "date_from": "2026-07-27",
-  "date_to": "2026-08-20",
-  "count": 8,
-  "deep_analysis_count": 8,
+  "generated_at": "2026-07-31T10:11:04.876194+00:00",
+  "date_from": "2026-07-28",
+  "date_to": "2026-08-21",
+  "count": 11,
+  "deep_analysis_count": 11,
   "matches": [
     {
       "competition": "Liga",
@@ -113,6 +113,48 @@
       "homeCrest": "https://crests.football-data.org/87.png",
       "awayTeam": "Deportivo Alavés",
       "awayCrest": "https://crests.football-data.org/263.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-08-21T18:45:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique de Marseille",
+      "homeCrest": "https://crests.football-data.org/516.png",
+      "awayTeam": "RC Strasbourg Alsace",
+      "awayCrest": "https://crests.football-data.org/576.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Premier League",
+      "utcDate": "2026-08-21T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Arsenal FC",
+      "homeCrest": "https://crests.football-data.org/57.png",
+      "awayTeam": "Coventry City FC",
+      "awayCrest": "https://crests.football-data.org/1076.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-21T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 2,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Real Betis Balompié",
+      "homeCrest": "https://crests.football-data.org/90.png",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "awayCrest": "https://crests.football-data.org/92.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
