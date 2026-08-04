@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T22:02:33.274871+00:00",
-  "date_from": "2026-07-31",
-  "date_to": "2026-08-24",
-  "count": 46,
+  "generated_at": "2026-08-04T10:27:33.036974+00:00",
+  "date_from": "2026-08-01",
+  "date_to": "2026-08-25",
+  "count": 47,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -645,6 +645,20 @@
       "homeCrest": "https://crests.football-data.org/84.png",
       "awayTeam": "RC Deportivo La Coruña",
       "awayCrest": "https://crests.football-data.org/560.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-25T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Valencia CF",
+      "homeCrest": "https://crests.football-data.org/95.png",
+      "awayTeam": "Real Betis Balompié",
+      "awayCrest": "https://crests.football-data.org/90.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
