@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T18:25:58.913858+00:00",
-  "date_from": "2026-08-01",
-  "date_to": "2026-08-25",
-  "count": 47,
+  "generated_at": "2026-08-05T01:27:26.964122+00:00",
+  "date_from": "2026-08-02",
+  "date_to": "2026-08-26",
+  "count": 48,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -659,6 +659,20 @@
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayTeam": "Real Betis Balompié",
       "awayCrest": "https://crests.football-data.org/90.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-26T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Real Madrid CF",
+      "homeCrest": "https://crests.football-data.org/86.png",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "awayCrest": "https://crests.football-data.org/92.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
