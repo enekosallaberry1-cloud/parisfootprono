@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T19:21:20.125759+00:00",
-  "date_from": "2026-08-02",
-  "date_to": "2026-08-26",
-  "count": 48,
+  "generated_at": "2026-08-06T01:25:11.795540+00:00",
+  "date_from": "2026-08-03",
+  "date_to": "2026-08-27",
+  "count": 49,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -673,6 +673,20 @@
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayTeam": "Real Sociedad de Fútbol",
       "awayCrest": "https://crests.football-data.org/92.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-27T19:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Barcelona",
+      "homeCrest": "https://crests.football-data.org/81.png",
+      "awayTeam": "Athletic Club",
+      "awayCrest": "https://crests.football-data.org/77.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
