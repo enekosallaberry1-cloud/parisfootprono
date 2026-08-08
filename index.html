@@ -175,6 +175,17 @@ async function load(){
       }
     }catch(e){ /* pas grave si le suivi de fiabilité n'existe pas encore */ }
 
+    try{
+      const extraRes = await fetch('./data/extra_competitions.json?_=' + Date.now());
+      if(extraRes.ok){
+        const extraData = await extraRes.json();
+        if(extraData.matches && extraData.matches.length){
+          allMatches = allMatches.concat(extraData.matches);
+          allMatches.sort((a, b) => (a.utcDate || '').localeCompare(b.utcDate || ''));
+        }
+      }
+    }catch(e){ /* pas grave si les competitions bonus n'existent pas encore */ }
+
     buildFilters();
     render();
   }catch(e){

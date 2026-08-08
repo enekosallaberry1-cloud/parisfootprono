@@ -1,0 +1,38 @@
+name: Analyse IA hebdomadaire (Claude API)
+
+on:
+  schedule:
+    # Une fois par semaine, le lundi à 8h UTC. L'analyse qualitative n'a pas besoin
+    # d'être plus fréquente que ça : les statistiques de forme ne changent pas
+    # d'heure en heure, contrairement au calendrier/résultats (mis à jour toutes
+    # les 6h gratuitement par l'autre workflow, sans IA).
+    - cron: "0 8 * * 1"
+  workflow_dispatch: {}   # permet de lancer manuellement pour tester
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Générer l'analyse IA (Haiku + Batch API)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/generate_ai_analysis.py
+
+      - name: Publier les changements si nécessaire
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ai_analysis.json
+          git diff --quiet --cached || git commit -m "Analyse IA hebdomadaire"
+          git push

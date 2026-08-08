@@ -3,15 +3,26 @@
 Ce projet a maintenant DEUX niveaux, tous les deux automatiques, qui tournent
 indépendamment :
 
-1. **Calendrier + résultats + stats brutes** (gratuit, toutes les 6h) — forme,
-   buts, confrontations directes, invincibilité domicile/extérieur, fatigue,
-   effet de relâchement. Calculé par une formule, pas par une IA.
+1. **Calendrier + résultats + stats brutes** (gratuit, toutes les 6h) — forme sur
+   10 matchs (lissée), buts, confrontations directes, invincibilité domicile/
+   extérieur, fatigue, effet de relâchement, enjeux de classement, style de jeu
+   approximatif, **et un vrai modèle de probabilités (loi de Poisson)** donnant
+   les vraies % de victoire/nul/défaite, plus de 2,5 buts, et BTTS.
 2. **Analyse qualitative approfondie par l'IA Claude** (~0,20 à 1$/mois, une
    fois par semaine) — un vrai texte d'analyse (façon Claude), basé sur toutes
-   les statistiques du point 1, qui respecte la méthodologie complète :
-   double chance uniquement, prise en compte de la fatigue, de l'effet de
-   relâchement, de l'invincibilité domicile/extérieur, et un vrai risque de
-   surprise reconnu plutôt que de toujours désigner un favori.
+   les statistiques du point 1, qui respecte la méthodologie complète.
+3. **Suivi de fiabilité 100% automatique** — dès qu'un match programmé reçoit
+   un pronostic, il est enregistré ; dès que le match est terminé, le script
+   compare le score réel au pronostic et calcule si c'était correct, sans
+   aucune action de ta part. Le taux de réussite réel s'affiche sur le site.
+4. **Recherche par équipe** et **export calendrier (.ics)** par match, pour
+   suivre facilement les affiches qui t'intéressent.
+5. **Compétitions bonus** (gratuit, 2 fois par jour) — Supercoupe de l'UEFA,
+   Supercoupe d'Allemagne, Supercoupe d'Espagne, Coupe d'Espagne, Coupe
+   d'Italie, Coupe de France, Trophée des Champions, Ligue des Nations. Via
+   une deuxième API (API-Football), avec une analyse plus légère que le reste
+   (pas d'invincibilité ni de modèle Poisson, pour respecter un quota de
+   100 requêtes/jour) mais un vrai pronostic double chance quand même.
 
 ## Étape 1 — Créer ta clé API gratuite football-data.org (2 minutes)
 
@@ -28,6 +39,12 @@ indépendamment :
    ça garantit que même en cas de bug, la dépense ne peut jamais s'emballer
 4. Va dans API Keys, crée une nouvelle clé, et copie-la (elle ne sera plus affichée ensuite)
 
+## Étape 2bis — Créer ta clé API-Football (pour les compétitions bonus, 3 minutes)
+
+1. Va sur https://www.api-football.com/, crée un compte gratuit (ou passe par RapidAPI si tu préfères)
+2. Récupère ta clé API sur ton tableau de bord ("API-KEY")
+3. Aucune carte bancaire requise pour le plan gratuit (100 requêtes/jour)
+
 ## Étape 3 — Créer ton dépôt GitHub (5 minutes)
 
 1. Crée un compte gratuit sur https://github.com si tu n'en as pas
@@ -41,6 +58,7 @@ indépendamment :
 2. Clique sur **New repository secret**, crée :
    - `FOOTBALL_DATA_TOKEN` = ta clé football-data.org
    - `ANTHROPIC_API_KEY` = ta clé Claude API
+   - `API_FOOTBALL_KEY` = ta clé API-Football (étape 2bis)
 
 ## Étape 5 — Activer GitHub Pages
 
@@ -55,7 +73,10 @@ indépendamment :
    (attends ~1-2 minutes selon le nombre de matchs à venir)
 2. Onglet **Actions** → workflow **"Analyse IA hebdomadaire (Claude API)"** →
    **Run workflow** (attends quelques minutes, le temps que l'API Batch traite la demande)
-3. Va sur ton site : les matchs et les analyses IA doivent apparaître
+3. Onglet **Actions** → workflow **"Compétitions bonus (supercoupes, coupes, Ligue des Nations)"** →
+   **Run workflow** (celui-ci est plus récent que les autres — regarde les logs
+   au premier essai, il est possible qu'un ajustement soit nécessaire)
+4. Va sur ton site : les matchs et les analyses IA doivent apparaître
 
 ## Calcul détaillé du coût de l'analyse IA
 
@@ -91,5 +112,15 @@ indépendamment :
   proprement sans erreur et réessaiera automatiquement la semaine suivante.
 - Le plafond de dépense configuré à l'étape 2 est ta vraie protection contre tout
   dérapage — configure-le avant de lancer quoi que ce soit.
+- Le modèle Poisson est une version simplifiée (pas de normalisation par la
+  moyenne du championnat comme le ferait un modèle professionnel) — c'est une
+  estimation basée sur 10 matchs, pas une certitude. Plus l'échantillon est
+  petit (ex. sélections nationales qui jouent peu), moins l'estimation est fiable.
+- Le style de jeu affiché est une étiquette approximative déduite uniquement des
+  buts marqués/encaissés — pas une vraie analyse tactique (formations, possession,
+  etc.), qui nécessiterait une source de données payante.
+- Le fichier `data/prediction_log.json` grossit avec le temps (un peu partout
+  entre quelques Ko et quelques Mo par an) — sans conséquence pratique à moyen
+  terme, mais à surveiller sur plusieurs années.
 - Si football-data.org ou l'API Anthropic changent leurs conditions un jour, reviens
   me voir pour adapter les scripts.
