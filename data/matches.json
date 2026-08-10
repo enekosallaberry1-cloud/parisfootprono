@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:01:04.959884+00:00",
+  "generated_at": "2026-08-10T13:29:06.520980+00:00",
   "date_from": "2026-08-07",
   "date_to": "2026-08-31",
   "count": 97,
@@ -8,7 +8,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-15T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Deportivo Alavés",
@@ -22,7 +22,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-15T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Sevilla FC",
@@ -36,7 +36,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Racing Club de Santander",
@@ -50,7 +50,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RCD Espanyol de Barcelona",
@@ -64,7 +64,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Celta de Vigo",
@@ -78,7 +78,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Deportivo La Coruña",
@@ -92,7 +92,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-19T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Club Atlético de Madrid",
@@ -106,7 +106,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-20T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Rayo Vallecano de Madrid",
@@ -148,7 +148,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-21T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Betis Balompié",
@@ -218,7 +218,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-22T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Athletic Club",
@@ -288,7 +288,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-22T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Valencia CF",
@@ -386,7 +386,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-22T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RCD Espanyol de Barcelona",
@@ -442,7 +442,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-23T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Club Atlético de Madrid",
@@ -512,7 +512,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-23T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Getafe CF",
@@ -568,7 +568,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-23T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Elche CF",
@@ -596,7 +596,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-24T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "CA Osasuna",
@@ -638,7 +638,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-24T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Málaga CF",
@@ -652,7 +652,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-25T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Valencia CF",
@@ -666,7 +666,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-26T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Madrid CF",
@@ -680,7 +680,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-27T19:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Barcelona",
@@ -694,7 +694,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-28T17:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Racing Club de Santander",
@@ -764,7 +764,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-28T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Deportivo Alavés",
@@ -890,7 +890,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-29T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Levante UD",
@@ -988,7 +988,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-29T17:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Sociedad de Fútbol",
@@ -1072,7 +1072,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-29T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Sevilla FC",
@@ -1156,7 +1156,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Madrid CF",
@@ -1226,7 +1226,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-30T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Deportivo La Coruña",
@@ -1282,7 +1282,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-30T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Celta de Vigo",
@@ -1310,7 +1310,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-31T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "CA Osasuna",
@@ -1352,7 +1352,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-31T19:30:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Barcelona",
