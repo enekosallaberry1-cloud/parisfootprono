@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T19:18:41.788588+00:00",
-  "date_from": "2026-08-09",
-  "date_to": "2026-09-02",
-  "count": 97,
+  "generated_at": "2026-08-13T02:26:49.198688+00:00",
+  "date_from": "2026-08-10",
+  "date_to": "2026-09-03",
+  "count": 98,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -1359,6 +1359,20 @@
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayTeam": "Rayo Vallecano de Madrid",
       "awayCrest": "https://crests.football-data.org/87.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-09-03T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Real Sociedad de Fútbol",
+      "homeCrest": "https://crests.football-data.org/92.png",
+      "awayTeam": "RC Celta de Vigo",
+      "awayCrest": "https://crests.football-data.org/558.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
