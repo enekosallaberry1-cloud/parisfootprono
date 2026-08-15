@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:56:24.532650+00:00",
+  "generated_at": "2026-08-15T18:47:39.594058+00:00",
   "date_from": "2026-08-12",
   "date_to": "2026-09-05",
   "count": 130,
@@ -8,15 +8,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-15T17:30:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Deportivo Alavés",
       "homeCrest": "https://crests.football-data.org/263.png",
       "awayTeam": "Getafe CF",
       "awayCrest": "https://crests.football-data.org/82.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "analysis": null
     },
     {
