@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:37:22.075172+00:00",
+  "generated_at": "2026-08-15T06:55:53.995888+00:00",
   "date_from": "2026-08-12",
   "date_to": "2026-09-05",
   "count": 130,
@@ -57,20 +57,6 @@
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayTeam": "Levante UD",
       "awayCrest": "https://crests.football-data.org/88.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-08-16T19:30:00Z",
-      "status": "2026-08-16 19:30:00Z",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RC Celta de Vigo",
-      "homeCrest": "https://crests.football-data.org/558.png",
-      "awayTeam": "CA Osasuna",
-      "awayCrest": "https://crests.football-data.org/79.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
@@ -673,6 +659,20 @@
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayTeam": "Real Sociedad de Fútbol",
       "awayCrest": "https://crests.football-data.org/92.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-08-27T18:30:00Z",
+      "status": "TIMED",
+      "matchday": 1,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RC Celta de Vigo",
+      "homeCrest": "https://crests.football-data.org/558.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "https://crests.football-data.org/79.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
