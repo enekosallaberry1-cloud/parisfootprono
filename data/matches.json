@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:01:12.826721+00:00",
+  "generated_at": "2026-08-16T18:47:18.118151+00:00",
   "date_from": "2026-08-13",
   "date_to": "2026-09-06",
   "count": 142,
@@ -36,7 +36,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Racing Club de Santander",
@@ -50,15 +50,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T17:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RCD Espanyol de Barcelona",
       "homeCrest": "https://crests.football-data.org/80.png",
       "awayTeam": "Levante UD",
       "awayCrest": "https://crests.football-data.org/88.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "analysis": null
     },
     {
@@ -151,7 +151,7 @@
         "away_venue_record": null,
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (19e place actuelle)",
+        "stakes_home": "Lutte pour le maintien (18e place actuelle)",
         "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
       }
     },
