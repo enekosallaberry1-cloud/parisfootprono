@@ -1,1 +1,13 @@
-{}
+{
+  "Rayo Vallecano de Madrid__Deportivo Alavés__2026-08-20T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Rayo Vallecano de Madrid",
+    "awayTeam": "Deportivo Alavés",
+    "kickoff": "2026-08-20T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Deportivo Alavés ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  }
+}
