@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:59:14.882865+00:00",
+  "generated_at": "2026-08-16T17:01:12.826721+00:00",
   "date_from": "2026-08-13",
   "date_to": "2026-09-06",
   "count": 142,
@@ -36,15 +36,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-16T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Racing Club de Santander",
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayTeam": "Villarreal CF",
       "awayCrest": "https://crests.football-data.org/94.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 2,
       "analysis": null
     },
     {
