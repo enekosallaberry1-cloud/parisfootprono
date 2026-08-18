@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:03:33.245513+00:00",
+  "generated_at": "2026-08-18T13:06:20.402200+00:00",
   "date_from": "2026-08-15",
   "date_to": "2026-09-08",
   "count": 146,
@@ -1670,7 +1670,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Havre AC",
@@ -1684,7 +1684,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique de Marseille",
@@ -1698,7 +1698,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Racing Club de Lens",
@@ -1712,7 +1712,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Toulouse FC",
@@ -1726,7 +1726,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Paris Saint-Germain FC",
@@ -1740,7 +1740,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Angers SCO",
@@ -1754,7 +1754,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique Lyonnais",
@@ -1768,7 +1768,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ES Troyes AC",
@@ -1782,7 +1782,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "2026-09-05 15:00:00Z",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "OGC Nice",
