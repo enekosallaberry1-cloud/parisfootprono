@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T18:57:39.286412+00:00",
-  "date_from": "2026-08-14",
-  "date_to": "2026-09-07",
+  "generated_at": "2026-08-18T01:37:36.379270+00:00",
+  "date_from": "2026-08-15",
+  "date_to": "2026-09-08",
   "count": 146,
   "deep_analysis_count": 20,
   "matches": [
@@ -64,15 +64,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-17T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Deportivo La Coruña",
       "homeCrest": "https://crests.football-data.org/560.png",
       "awayTeam": "Elche CF",
       "awayCrest": "https://crests.football-data.org/285.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "analysis": null
     },
     {
