@@ -7,6 +7,17 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Deportivo Alavés ou nul",
     "confidence": "Élevée",
+    "status": "correct",
+    "final_score": "1-1"
+  },
+  "Club Atlético de Madrid__Villarreal CF__2026-08-23T15:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Club Atlético de Madrid",
+    "awayTeam": "Villarreal CF",
+    "kickoff": "2026-08-23T15:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Club Atlético de Madrid ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
