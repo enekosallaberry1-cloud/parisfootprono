@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:41:56.645947+00:00",
+  "generated_at": "2026-08-21T07:06:27.290738+00:00",
   "date_from": "2026-08-18",
   "date_to": "2026-09-11",
   "count": 144,
@@ -36,7 +36,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-21T18:45:00Z",
-      "status": "2026-08-21 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique de Marseille",
@@ -148,7 +148,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-22T15:15:00Z",
-      "status": "2026-08-22 15:15:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Racing Club de Lens",
@@ -246,7 +246,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "2026-08-22 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Mans FC",
@@ -260,7 +260,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "2026-08-22 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ES Troyes AC",
@@ -274,7 +274,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "2026-08-22 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "OGC Nice",
@@ -288,7 +288,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-22T18:45:00Z",
-      "status": "2026-08-22 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Toulouse FC",
@@ -344,7 +344,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-23T13:00:00Z",
-      "status": "2026-08-23 13:00:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Angers SCO",
@@ -367,86 +367,12 @@
       "awayCrest": "https://crests.football-data.org/94.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 15.0,
-          "goals_for": 10.0,
-          "goals_against": 0.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 0.0,
-          "matches_counted": 1,
-          "results": [
-            "V"
-          ],
-          "last_match_date": "2026-08-19T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 5.0,
-          "goals_for": 10.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 2.0,
-          "matches_counted": 1,
-          "results": [
-            "N"
-          ],
-          "last_match_date": "2026-08-16T15:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 60.6,
-          "draw_pct": 21.2,
-          "away_win_pct": 18.3,
-          "over_2_5_pct": 57.7,
-          "btts_pct": 54.7,
-          "lambda_home": 2.0,
-          "lambda_away": 1.0
-        },
-        "suggested_pick": "Double chance : Club Atlético de Madrid ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "home",
-        "score_diff": 12.7,
-        "rest_days_home": 3,
-        "rest_days_away": 7,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "fraîche",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 0.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 2.0
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
-      }
+      "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-23T15:15:00Z",
-      "status": "2026-08-23 15:15:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Havre AC",
@@ -544,7 +470,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-23T18:45:00Z",
-      "status": "2026-08-23 18:45:00Z",
+      "status": "TIMED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Paris Saint-Germain FC",
@@ -740,7 +666,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-28T18:45:00Z",
-      "status": "2026-08-28 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Lille OSC",
@@ -908,7 +834,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-29T15:15:00Z",
-      "status": "2026-08-29 15:15:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "RC Strasbourg Alsace",
@@ -1020,7 +946,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "2026-08-29 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Lorient",
@@ -1034,7 +960,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "2026-08-29 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique Lyonnais",
@@ -1048,7 +974,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "2026-08-29 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AJ Auxerre",
@@ -1062,7 +988,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-29T18:45:00Z",
-      "status": "2026-08-29 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Stade Brestois 29",
@@ -1132,7 +1058,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "2026-08-30 13:00:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Paris FC",
@@ -1174,7 +1100,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-30T15:15:00Z",
-      "status": "2026-08-30 15:15:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Stade Rennais FC 1901",
@@ -1272,7 +1198,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-30T18:45:00Z",
-      "status": "2026-08-30 18:45:00Z",
+      "status": "TIMED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AS Monaco FC",
@@ -1370,7 +1296,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-03T18:45:00Z",
-      "status": "2026-09-03 18:45:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Toulouse FC",
@@ -1398,7 +1324,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-04T17:00:00Z",
-      "status": "2026-09-04 17:00:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique Lyonnais",
@@ -1468,7 +1394,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-04T19:05:00Z",
-      "status": "2026-09-04 19:05:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Paris Saint-Germain FC",
@@ -1664,7 +1590,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T15:15:00Z",
-      "status": "2026-09-05 15:15:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Racing Club de Lens",
@@ -1748,7 +1674,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T18:45:00Z",
-      "status": "2026-09-05 18:45:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Havre AC",
@@ -1762,7 +1688,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T18:45:00Z",
-      "status": "2026-09-05 18:45:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "OGC Nice",
@@ -1832,7 +1758,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-06T13:00:00Z",
-      "status": "2026-09-06 13:00:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ES Troyes AC",
@@ -1874,7 +1800,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-06T15:15:00Z",
-      "status": "2026-09-06 15:15:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Angers SCO",
@@ -1972,7 +1898,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-06T18:45:00Z",
-      "status": "2026-09-06 18:45:00Z",
+      "status": "TIMED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique de Marseille",
@@ -2084,7 +2010,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-11T18:45:00Z",
-      "status": "2026-09-11 18:45:00Z",
+      "status": "TIMED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Stade Rennais FC 1901",
