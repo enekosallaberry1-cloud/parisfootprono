@@ -20,5 +20,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Getafe CF__Real Racing Club de Santander__2026-08-23T17:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Getafe CF",
+    "awayTeam": "Real Racing Club de Santander",
+    "kickoff": "2026-08-23T17:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Racing Club de Santander ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
