@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:58:53.973843+00:00",
+  "generated_at": "2026-08-22T12:59:03.387496+00:00",
   "date_from": "2026-08-19",
   "date_to": "2026-09-12",
   "count": 175,
@@ -78,15 +78,15 @@
     {
       "competition": "Premier League",
       "utcDate": "2026-08-22T11:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Hull City AFC",
       "homeCrest": "https://crests.football-data.org/322.png",
       "awayTeam": "Manchester United FC",
       "awayCrest": "https://crests.football-data.org/66.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 0,
       "analysis": null
     },
     {
@@ -367,7 +367,81 @@
       "awayCrest": "https://crests.football-data.org/94.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 15.0,
+          "goals_for": 10.0,
+          "goals_against": 0.0,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 0.0,
+          "matches_counted": 1,
+          "results": [
+            "V"
+          ],
+          "last_match_date": "2026-08-19T19:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "away_form": {
+          "points": 5.0,
+          "goals_for": 10.0,
+          "goals_against": 10.0,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 2.0,
+          "matches_counted": 1,
+          "results": [
+            "N"
+          ],
+          "last_match_date": "2026-08-16T15:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 60.6,
+          "draw_pct": 21.2,
+          "away_win_pct": 18.3,
+          "over_2_5_pct": 57.7,
+          "btts_pct": 54.7,
+          "lambda_home": 2.0,
+          "lambda_away": 1.0
+        },
+        "suggested_pick": "Double chance : Club Atlético de Madrid ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 12.7,
+        "rest_days_home": 3,
+        "rest_days_away": 7,
+        "fatigue_home": "enchaînement serré",
+        "fatigue_away": "fraîche",
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 0.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 2.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
+      }
     },
     {
       "competition": "Ligue 1",
