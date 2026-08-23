@@ -31,5 +31,38 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Málaga CF__RC Deportivo La Coruña__2026-08-24T19:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Málaga CF",
+    "awayTeam": "RC Deportivo La Coruña",
+    "kickoff": "2026-08-24T19:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Valencia CF__Real Betis Balompié__2026-08-25T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Valencia CF",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-08-25T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__Real Sociedad de Fútbol__2026-08-26T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "Real Sociedad de Fútbol",
+    "kickoff": "2026-08-26T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
