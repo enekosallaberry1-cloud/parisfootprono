@@ -18,8 +18,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Getafe CF__Real Racing Club de Santander__2026-08-23T17:30:00Z": {
     "competition": "Liga",
@@ -61,6 +61,39 @@
     "kickoff": "2026-08-26T19:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Crystal Palace FC__Manchester City FC__2026-08-28T19:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Crystal Palace FC",
+    "awayTeam": "Manchester City FC",
+    "kickoff": "2026-08-28T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Manchester City FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Deportivo Alavés__Villarreal CF__2026-08-28T19:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Deportivo Alavés",
+    "awayTeam": "Villarreal CF",
+    "kickoff": "2026-08-28T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Deportivo Alavés ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Liverpool FC__Nottingham Forest FC__2026-08-29T11:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Liverpool FC",
+    "awayTeam": "Nottingham Forest FC",
+    "kickoff": "2026-08-29T11:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
