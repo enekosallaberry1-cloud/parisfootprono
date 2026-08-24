@@ -141,5 +141,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "AFC Bournemouth__Everton FC__2026-08-29T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Everton FC",
+    "kickoff": "2026-08-29T14:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Everton FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }

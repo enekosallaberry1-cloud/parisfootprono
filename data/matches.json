@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:10:07.644315+00:00",
+  "generated_at": "2026-08-24T18:58:42.099339+00:00",
   "date_from": "2026-08-21",
   "date_to": "2026-09-14",
   "count": 187,
@@ -470,29 +470,29 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-08-24T16:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Bologna FC 1909",
       "homeCrest": "https://crests.football-data.org/103.png",
       "awayTeam": "SS Lazio",
       "awayCrest": "https://crests.football-data.org/110.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Liga",
       "utcDate": "2026-08-24T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "CA Osasuna",
       "homeCrest": "https://crests.football-data.org/79.png",
       "awayTeam": "Levante UD",
       "awayCrest": "https://crests.football-data.org/88.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
       "analysis": null
     },
     {
@@ -585,7 +585,7 @@
         "away_venue_record": null,
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (19e place actuelle)",
+        "stakes_home": "Lutte pour le maintien (20e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (10e place actuelle)"
       }
     },
@@ -732,7 +732,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (17e place actuelle)"
+        "stakes_away": "Lutte pour le maintien (18e place actuelle)"
       }
     },
     {
@@ -812,7 +812,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
-        "stakes_away": "Lutte pour le maintien (18e place actuelle)"
+        "stakes_away": "Lutte pour le maintien (19e place actuelle)"
       }
     },
     {
@@ -901,8 +901,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (17e place actuelle)"
       }
     },
     {
@@ -1362,7 +1362,59 @@
       "awayCrest": "https://crests.football-data.org/62.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 0.0,
+          "goals_for": 5.0,
+          "goals_against": 10.0,
+          "goals_for_avg": 1.0,
+          "goals_against_avg": 2.0,
+          "matches_counted": 1,
+          "results": [
+            "D"
+          ],
+          "last_match_date": "2026-08-23T13:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "away_form": {
+          "points": 15.0,
+          "goals_for": 10.0,
+          "goals_against": 0.0,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 0.0,
+          "matches_counted": 1,
+          "results": [
+            "V"
+          ],
+          "last_match_date": "2026-08-22T14:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": null,
+        "suggested_pick": "Double chance : Everton FC ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "away",
+        "score_diff": -18.0,
+        "rest_days_home": 6,
+        "rest_days_away": 7,
+        "fatigue_home": null,
+        "fatigue_away": "fraîche",
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": null,
+        "away_venue_record": null,
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (4e place actuelle)"
+      }
     },
     {
       "competition": "Premier League",
