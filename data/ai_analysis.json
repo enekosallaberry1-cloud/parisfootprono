@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-08-17T17:01:11.121808+00:00",
+  "generated_at": "2026-08-24T08:34:56.500215+00:00",
   "analyses": {
-    "Rayo Vallecano de Madrid__Deportivo Alavés__2026-08-20T19:00:00Z": {
-      "pick": "Double chance Deportivo Alavés ou nul",
+    "Málaga CF__RC Deportivo La Coruña__2026-08-24T19:30:00Z": {
+      "pick": "Double chance Deportivo ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Málaga arrive à domicile en grande difficulté : défaite 0-2 en 5 jours avec 0 but marqué et défense friable (2 buts encaissés en moyenne). Deportivo affiche un profil équilibré après un nul récent (5 buts pour/contre en 5 jours) et bénéficie d'un meilleur repos (7 jours vs 5). Bien que Málaga joue à domicile, sa fragilité défensive et son absence de buts les rendent très vulnérables face à une équipe plus stable. Le risque de surprise visiteuse justifie une double chance prudente."
+    },
+    "Valencia CF__Real Betis Balompié__2026-08-25T19:00:00Z": {
+      "pick": "Double chance Betis ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Valencia affiche un registre très fermé (0-0 au dernier match, enchaînement serré avec 3 jours de repos) et reste invaincu à domicile (1 match), mais sans crédibilité offensive (0 but). Betis arrive frais (4 jours, repos réduit) avec une victoire probante (5-0) et une défense imperméable (0 but encaissé). Malgré l'avantage du terrain de Valencia, les deux équipes jouent défensivement ; Betis affiche une dynamique supérieure et une défense impeccable. La double chance Betis/nul limite les risques face à une équipe valencienne étouffante mais stérile."
+    },
+    "Real Madrid CF__Real Sociedad de Fútbol__2026-08-26T19:00:00Z": {
+      "pick": "Double chance Real Madrid ou nul",
       "confidence": "Élevée",
-      "analysis": "Alavés arrive en excellente forme avec une victoire 3-0 le week-end précédent, défense imperméable (0 but encaissé) et style dominant. Rayo, au contraire, sort d'une défaite 1-5 avec une défense friable (2 buts encaissés par match en moyenne) et des enjeux critiques de maintien. Bien que Rayo jouisse de l'avantage du terrain réel et d'un repos de 4 jours, cet écart de forme est très significatif : Alavés en position de leader affiche une solidité incomparable. Le contraste entre une équipe lanterne rouge (lutte pour le maintien) et un leader de Ligue des Champions rend une victoire nette d'Alavés très probable. Le pari sur la double chance Alavés ou nul limite le risque tout en captant la valeur."
+      "analysis": "Real Madrid domine avec une victoire 10-5 récente, offensive dominante (2 buts/match) et solide défense (1 encaissé/match). Real Sociedad est en crise : défaite 0-5 sans aucun but et encaisse 1 but/match. Malgré un possible relâchement de Madrid après sa victoire à l'extérieur et un enchaînement serré (3 jours), l'écart de forme est considérable. Madrid reste favori net à domicile. Une double chance Madrid/nul offre protection raisonnable en cas de surprise, mais Madrid part très clairement avantagé."
+    },
+    "FC Barcelona__Athletic Club__2026-08-27T19:00:00Z": {
+      "pick": "Double chance Barcelona ou nul",
+      "confidence": "Élevée",
+      "analysis": "Barcelona écrase avec une victoire 25-0 impressionnante, domination offensive (5 buts/match) et défense impeccable (0 encaissé). Athletic Club est fragile : 5 buts seulement en 5 jours, défense poreuse (3 encaissés/match) et sans victoire. Bien que Barcelona accuserait un relâchement possible après sa victoire à l'extérieur et un enchaînement serré (3 jours), la supériorité affichée est écrasante. Le pari double chance Barcelona/nul sécurise face à une surprise peu probable face à une équipe en détresse."
+    },
+    "Real Racing Club de Santander__Elche CF__2026-08-28T17:00:00Z": {
+      "pick": "Double chance Racing ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Racing affiche un profil équilibré à domicile (2 nuls : 1.0 but pour/1.5 contre) avec repos réduit (4 jours) ; invaincu sur ses 10 derniers matchs à domicile. Elche souffre d'une défense fragile (3 buts encaissés/match) malgré une invincibilité récente (1 match non-perdant). Le modèle Poisson indique 37,8% pour chaque équipe et 24,3% pour le nul, suggérant un match ouvert. Racing bénéficie de l'avantage du terrain et d'une meilleure stabilité défensive ; la double chance Racing/nul reste prudente sur un match prévisible incertain."
+    },
+    "AC Milan__Venezia FC__2026-08-28T18:45:00Z": {
+      "pick": "Double chance Milan ou nul",
+      "confidence": "Élevée",
+      "analysis": "AC Milan affiche une forme dominante : victoire 10-5 avec 2 buts/match en moyenne et défense solide (1 encaissé/match). Venezia est en grande difficulté : défaite 0-10 sans marquer, défense friable (2 buts/match). Malgré un possible relâchement de Milan après sa victoire à l'extérieur, l'écart de classe est énorme. Les deux équipes sont bien reposées (5 jours). Milan reste très clairement favori à domicile ; la double chance Milan/nul sécurise le pari face à un favori dominant."
+    },
+    "Lille OSC__Paris Saint-Germain FC__2026-08-28T18:45:00Z": {
+      "pick": "Double chance Lille ou nul",
+      "confidence": "Élevée",
+      "analysis": "Lille affiche une domination impressionnante : victoire 10-0 à l'extérieur, défense impeccable (0 encaissé) et 2 buts/match. PSG reste équilibré (nul 10-10) sans victoire, encaissant 2 buts/match. Malgré un possible relâchement de Lille après sa victoire à l'extérieur, Lille bénéficie de l'avantage du terrain, d'une meilleure fraîcheur (5 jours de repos chacun) et d'une supériorité tactique claire. La double chance Lille/nul reste le choix prudent face à un duel déséquilibré favorable aux Nordistes."
+    },
+    "Crystal Palace FC__Manchester City FC__2026-08-28T19:00:00Z": {
+      "pick": "Double chance Manchester City ou nul",
+      "confidence": "Élevée",
+      "analysis": "Manchester City est dominant : victoire 10-5 avec 2 buts/match et défense solide (1 encaissé/match). Crystal Palace souffre : défaite 0-10, défense friable (2 buts/match) et aucun but marqué. City ne montre aucun signe de fatigue malgré un match récent. Palace n'offre aucune résistance offensive. City est clairement favori à l'extérieur. La double chance City/nul protège contre toute surprise face à un déséquilibre de forme maîtrisé."
+    },
+    "Deportivo Alavés__Villarreal CF__2026-08-28T19:30:00Z": {
+      "pick": "Double chance Alavés ou nul",
+      "confidence": "Élevée",
+      "analysis": "Alavés affiche une domination nette : victoire 10-2,5 avec 2 buts/match et défense imperméable (0,5 encaissé/match), invaincu à domicile, bien reposé (8 jours). Villarreal reste ouvert mais instable : deux nuls (10-10) sans victoire. Le modèle Poisson confirme la supériorité d'Alavés : 70% pour une victoire à domicile contre 13,1% pour Villarreal. Alavés bénéficie aussi d'enjeux majeurs (2e place) tandis que Villarreal occupe le milieu. La double chance Alavés/nul sécurise le pari sur favori clair."
+    },
+    "Liverpool FC__Nottingham Forest FC__2026-08-29T11:30:00Z": {
+      "pick": "Double chance Liverpool ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Liverpool arrive avec un profil offensif-ouvert (nul 10-10, 2 buts/match pour et contre) tandis que Nottingham affiche un profil équilibré (défaite 0-5, 0 marqué). Les deux équipes sont bien reposées (5-6 jours). Liverpool joue à domicile mais son inconstance récente (nul seulement) l'empêche d'être favori écrasant. Nottingham, malgré sa fragilité, pourrait profiter d'une équipe non-décisive. La double chance Liverpool/nul capture le léger avantage des Reds tout en reconnaissant l'imprévisibilité du match."
     }
   }
 }
