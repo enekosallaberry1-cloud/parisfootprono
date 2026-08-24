@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:49:35.862867+00:00",
+  "generated_at": "2026-08-24T07:18:00.131335+00:00",
   "date_from": "2026-08-21",
   "date_to": "2026-09-14",
   "count": 187,
@@ -1047,8 +1047,8 @@
         "away_venue_record": null,
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (1e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
+        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
