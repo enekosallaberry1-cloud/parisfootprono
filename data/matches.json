@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T07:18:00.131335+00:00",
+  "generated_at": "2026-08-24T13:10:07.644315+00:00",
   "date_from": "2026-08-21",
   "date_to": "2026-09-14",
   "count": 187,
@@ -1036,7 +1036,7 @@
         "suggested_pick": "Double chance : Lille OSC ou nul",
         "confidence": "Élevée",
         "predicted_side": "home",
-        "score_diff": 14.0,
+        "score_diff": 10.8,
         "rest_days_home": 5,
         "rest_days_away": 5,
         "fatigue_home": null,
@@ -1044,7 +1044,14 @@
         "letdown_home": true,
         "letdown_away": false,
         "home_venue_record": null,
-        "away_venue_record": null,
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 2.0
+        },
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
