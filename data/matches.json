@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:39:26.834336+00:00",
+  "generated_at": "2026-08-25T07:07:58.658197+00:00",
   "date_from": "2026-08-22",
   "date_to": "2026-09-15",
   "count": 193,
@@ -403,10 +403,10 @@
       "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "https://crests.football-data.org/524.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "https://crests.football-data.org/529.png",
+      "homeTeam": "Stade Rennais FC 1901",
+      "homeCrest": "https://crests.football-data.org/529.png",
+      "awayTeam": "Paris Saint-Germain FC",
+      "awayCrest": "https://crests.football-data.org/524.png",
       "homeScore": 2,
       "awayScore": 2,
       "analysis": null
