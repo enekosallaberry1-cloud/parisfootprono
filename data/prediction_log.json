@@ -40,8 +40,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Valencia CF__Real Betis Balompié__2026-08-25T19:00:00Z": {
     "competition": "Liga",
@@ -149,6 +149,50 @@
     "kickoff": "2026-08-29T14:00:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Everton FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "RC Celta de Vigo__CA Osasuna__2026-08-27T18:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RC Celta de Vigo",
+    "awayTeam": "CA Osasuna",
+    "kickoff": "2026-08-27T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RC Celta de Vigo ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Coventry City FC__Hull City AFC__2026-08-29T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Coventry City FC",
+    "awayTeam": "Hull City AFC",
+    "kickoff": "2026-08-29T14:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Hull City AFC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Levante UD__Real Betis Balompié__2026-08-29T15:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Levante UD",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-08-29T15:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "RC Strasbourg Alsace__Racing Club de Lens__2026-08-29T15:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "RC Strasbourg Alsace",
+    "awayTeam": "Racing Club de Lens",
+    "kickoff": "2026-08-29T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Racing Club de Lens ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
