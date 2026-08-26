@@ -51,8 +51,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Betis Balompié ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "Real Madrid CF__Real Sociedad de Fútbol__2026-08-26T19:00:00Z": {
     "competition": "Liga",
@@ -193,6 +193,17 @@
     "kickoff": "2026-08-29T15:15:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Racing Club de Lens ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Tottenham Hotspur FC__Newcastle United FC__2026-08-29T16:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Tottenham Hotspur FC",
+    "awayTeam": "Newcastle United FC",
+    "kickoff": "2026-08-29T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Newcastle United FC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
