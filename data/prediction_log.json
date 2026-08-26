@@ -207,5 +207,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Athletic Club__Club Atlético de Madrid__2026-09-05T14:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Club Atlético de Madrid",
+    "kickoff": "2026-09-05T14:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Club Atlético de Madrid ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
