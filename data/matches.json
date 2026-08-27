@@ -1,192 +1,10 @@
 {
-  "generated_at": "2026-08-26T20:06:27.913792+00:00",
-  "date_from": "2026-08-23",
-  "date_to": "2026-09-16",
-  "count": 176,
+  "generated_at": "2026-08-27T08:34:39.590116+00:00",
+  "date_from": "2026-08-24",
+  "date_to": "2026-09-17",
+  "count": 163,
   "deep_analysis_count": 20,
   "matches": [
-    {
-      "competition": "Premier League",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Manchester City FC",
-      "homeCrest": "https://crests.football-data.org/65.png",
-      "awayTeam": "AFC Bournemouth",
-      "awayCrest": "https://crests.football-data.org/bournemouth.png",
-      "homeScore": 2,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Premier League",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Brighton & Hove Albion FC",
-      "homeCrest": "https://crests.football-data.org/397.png",
-      "awayTeam": "Aston Villa FC",
-      "awayCrest": "https://crests.football-data.org/58.png",
-      "homeScore": 4,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-08-23T13:00:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Angers SCO",
-      "homeCrest": "https://crests.football-data.org/532.png",
-      "awayTeam": "Lille OSC",
-      "awayCrest": "https://crests.football-data.org/521.png",
-      "homeScore": 0,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-08-23T15:00:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Club Atlético de Madrid",
-      "homeCrest": "https://crests.football-data.org/78.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "https://crests.football-data.org/94.png",
-      "homeScore": 2,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-08-23T15:15:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Le Havre AC",
-      "homeCrest": "https://crests.football-data.org/533.png",
-      "awayTeam": "AS Monaco FC",
-      "awayCrest": "https://crests.football-data.org/548.png",
-      "homeScore": 0,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Premier League",
-      "utcDate": "2026-08-23T15:30:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Newcastle United FC",
-      "homeCrest": "https://crests.football-data.org/67.png",
-      "awayTeam": "Liverpool FC",
-      "awayCrest": "https://crests.football-data.org/64.png",
-      "homeScore": 2,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Serie A",
-      "utcDate": "2026-08-23T16:30:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Frosinone Calcio",
-      "homeCrest": "https://crests.football-data.org/470.png",
-      "awayTeam": "Juventus FC",
-      "awayCrest": "https://crests.football-data.org/109.png",
-      "homeScore": 0,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Serie A",
-      "utcDate": "2026-08-23T16:30:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Venezia FC",
-      "homeCrest": "https://crests.football-data.org/454.png",
-      "awayTeam": "US Lecce",
-      "awayCrest": "https://crests.football-data.org/5890.png",
-      "homeScore": 0,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-08-23T17:30:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Getafe CF",
-      "homeCrest": "https://crests.football-data.org/82.png",
-      "awayTeam": "Real Racing Club de Santander",
-      "awayCrest": "https://crests.football-data.org/5335.png",
-      "homeScore": 1,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Serie A",
-      "utcDate": "2026-08-23T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Atalanta BC",
-      "homeCrest": "https://crests.football-data.org/102.png",
-      "awayTeam": "US Sassuolo Calcio",
-      "awayCrest": "https://crests.football-data.org/471.png",
-      "homeScore": 2,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Serie A",
-      "utcDate": "2026-08-23T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Torino FC",
-      "homeCrest": "https://crests.football-data.org/586.png",
-      "awayTeam": "AC Milan",
-      "awayCrest": "https://crests.football-data.org/98.png",
-      "homeScore": 1,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-08-23T18:45:00Z",
-      "status": "FINISHED",
-      "matchday": 1,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Stade Rennais FC 1901",
-      "homeCrest": "https://crests.football-data.org/529.png",
-      "awayTeam": "Paris Saint-Germain FC",
-      "awayCrest": "https://crests.football-data.org/524.png",
-      "homeScore": 2,
-      "awayScore": 2,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-08-23T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 2,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Elche CF",
-      "homeCrest": "https://crests.football-data.org/285.png",
-      "awayTeam": "FC Barcelona",
-      "awayCrest": "https://crests.football-data.org/81.png",
-      "homeScore": 0,
-      "awayScore": 5,
-      "analysis": null
-    },
     {
       "competition": "Serie A",
       "utcDate": "2026-08-24T16:30:00Z",
@@ -274,15 +92,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-08-26T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Madrid CF",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayTeam": "Real Sociedad de Fútbol",
       "awayCrest": "https://crests.football-data.org/92.png",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 1,
       "analysis": null
     },
     {
@@ -414,7 +232,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
-        "stakes_away": "Lutte pour le maintien (20e place actuelle)"
+        "stakes_away": "Lutte pour le maintien (19e place actuelle)"
       }
     },
     {
@@ -504,7 +322,7 @@
         "surprise_risk": false,
         "true_home_advantage": "home",
         "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
-        "stakes_away": "Lutte pour le maintien (19e place actuelle)"
+        "stakes_away": "Lutte pour le maintien (18e place actuelle)"
       }
     },
     {
@@ -812,7 +630,7 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
+        "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
       }
     },
@@ -1155,8 +973,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (18e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (17e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (3e place actuelle)"
       }
     },
     {

@@ -62,8 +62,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-1"
   },
   "Crystal Palace FC__Manchester City FC__2026-08-28T19:00:00Z": {
     "competition": "Premier League",
