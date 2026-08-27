@@ -106,8 +106,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Real Racing Club de Santander__Elche CF__2026-08-28T17:00:00Z": {
     "competition": "Liga",
@@ -161,8 +161,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : RC Celta de Vigo ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-2"
   },
   "Coventry City FC__Hull City AFC__2026-08-29T14:00:00Z": {
     "competition": "Premier League",
@@ -215,6 +215,17 @@
     "kickoff": "2026-09-05T14:15:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AC Monza__Udinese Calcio__2026-08-29T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "AC Monza",
+    "awayTeam": "Udinese Calcio",
+    "kickoff": "2026-08-29T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Udinese Calcio ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
