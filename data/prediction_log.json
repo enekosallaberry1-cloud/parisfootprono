@@ -73,8 +73,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-4"
   },
   "Deportivo Alavés__Villarreal CF__2026-08-28T19:30:00Z": {
     "competition": "Liga",
@@ -84,8 +84,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Deportivo Alavés ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "Liverpool FC__Nottingham Forest FC__2026-08-29T11:30:00Z": {
     "competition": "Premier League",
@@ -117,8 +117,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Racing Club de Santander ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-2"
   },
   "AC Milan__Venezia FC__2026-08-28T18:45:00Z": {
     "competition": "Serie A",
@@ -128,8 +128,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : AC Milan ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Lille OSC__Paris Saint-Germain FC__2026-08-28T18:45:00Z": {
     "competition": "Ligue 1",
@@ -139,8 +139,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Lille OSC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "AFC Bournemouth__Everton FC__2026-08-29T14:00:00Z": {
     "competition": "Premier League",
@@ -226,6 +226,61 @@
     "kickoff": "2026-08-29T16:30:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Udinese Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Bayern München__VfB Stuttgart__2026-08-28T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "FC Bayern München",
+    "awayTeam": "VfB Stuttgart",
+    "kickoff": "2026-08-28T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "ACF Fiorentina__Frosinone Calcio__2026-08-29T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "ACF Fiorentina",
+    "awayTeam": "Frosinone Calcio",
+    "kickoff": "2026-08-29T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Sociedad de Fútbol__RCD Espanyol de Barcelona__2026-08-29T17:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Sociedad de Fútbol",
+    "awayTeam": "RCD Espanyol de Barcelona",
+    "kickoff": "2026-08-29T17:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : RCD Espanyol de Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Juventus FC__Parma Calcio 1913__2026-08-29T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Juventus FC",
+    "awayTeam": "Parma Calcio 1913",
+    "kickoff": "2026-08-29T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Juventus FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Olympique Lyonnais__Le Havre AC__2026-08-29T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Olympique Lyonnais",
+    "awayTeam": "Le Havre AC",
+    "kickoff": "2026-08-29T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Olympique Lyonnais ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
