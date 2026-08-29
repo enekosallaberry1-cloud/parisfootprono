@@ -95,8 +95,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "FC Barcelona__Athletic Club__2026-08-27T19:00:00Z": {
     "competition": "Liga",
@@ -150,8 +150,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Everton FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "RC Celta de Vigo__CA Osasuna__2026-08-27T18:30:00Z": {
     "competition": "Liga",
@@ -172,8 +172,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Hull City AFC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "Levante UD__Real Betis Balompié__2026-08-29T15:00:00Z": {
     "competition": "Liga",
@@ -281,6 +281,83 @@
     "kickoff": "2026-08-29T18:45:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : Olympique Lyonnais ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Stade Brestois 29__Toulouse FC__2026-08-29T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Stade Brestois 29",
+    "awayTeam": "Toulouse FC",
+    "kickoff": "2026-08-29T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Stade Brestois 29 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sevilla FC__Club Atlético de Madrid__2026-08-29T19:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Sevilla FC",
+    "awayTeam": "Club Atlético de Madrid",
+    "kickoff": "2026-08-29T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Sevilla FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sunderland AFC__Fulham FC__2026-08-30T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Sunderland AFC",
+    "awayTeam": "Fulham FC",
+    "kickoff": "2026-08-30T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Sunderland AFC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Chelsea FC__Brighton & Hove Albion FC__2026-08-30T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Chelsea FC",
+    "awayTeam": "Brighton & Hove Albion FC",
+    "kickoff": "2026-08-30T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__Málaga CF__2026-08-30T15:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "Málaga CF",
+    "kickoff": "2026-08-30T15:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Stade Rennais FC 1901__Le Mans FC__2026-08-30T15:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Stade Rennais FC 1901",
+    "awayTeam": "Le Mans FC",
+    "kickoff": "2026-08-30T15:15:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Stade Rennais FC 1901 ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Manchester United FC__Ipswich Town FC__2026-08-30T15:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Manchester United FC",
+    "awayTeam": "Ipswich Town FC",
+    "kickoff": "2026-08-30T15:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Ipswich Town FC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
