@@ -238,8 +238,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Bayern München ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-1"
   },
   "ACF Fiorentina__Frosinone Calcio__2026-08-29T16:30:00Z": {
     "competition": "Serie A",
