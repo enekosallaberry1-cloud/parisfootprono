@@ -183,8 +183,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Betis Balompié ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "5-2"
   },
   "RC Strasbourg Alsace__Racing Club de Lens__2026-08-29T15:15:00Z": {
     "competition": "Ligue 1",
@@ -194,8 +194,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Racing Club de Lens ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Tottenham Hotspur FC__Newcastle United FC__2026-08-29T16:30:00Z": {
     "competition": "Premier League",
@@ -205,8 +205,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Newcastle United FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "Athletic Club__Club Atlético de Madrid__2026-09-05T14:15:00Z": {
     "competition": "Liga",
@@ -227,8 +227,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Udinese Calcio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-3"
   },
   "FC Bayern München__VfB Stuttgart__2026-08-28T18:30:00Z": {
     "competition": "Bundesliga",
@@ -249,8 +249,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Frosinone Calcio ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-3"
   },
   "Real Sociedad de Fútbol__RCD Espanyol de Barcelona__2026-08-29T17:00:00Z": {
     "competition": "Liga",
@@ -260,8 +260,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : RCD Espanyol de Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Juventus FC__Parma Calcio 1913__2026-08-29T18:45:00Z": {
     "competition": "Serie A",
@@ -358,6 +358,105 @@
     "kickoff": "2026-08-30T15:30:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Ipswich Town FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SSC Napoli__Como 1907__2026-08-30T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SSC Napoli",
+    "awayTeam": "Como 1907",
+    "kickoff": "2026-08-30T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SSC Napoli ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "RC Deportivo La Coruña__Valencia CF__2026-08-30T17:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RC Deportivo La Coruña",
+    "awayTeam": "Valencia CF",
+    "kickoff": "2026-08-30T17:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SS Lazio__Genoa CFC__2026-08-30T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SS Lazio",
+    "awayTeam": "Genoa CFC",
+    "kickoff": "2026-08-30T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AS Monaco FC__Olympique de Marseille__2026-08-30T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "AS Monaco FC",
+    "awayTeam": "Olympique de Marseille",
+    "kickoff": "2026-08-30T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Olympique de Marseille ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "RC Celta de Vigo__Athletic Club__2026-08-30T19:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RC Celta de Vigo",
+    "awayTeam": "Athletic Club",
+    "kickoff": "2026-08-30T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RC Celta de Vigo ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "CA Osasuna__Getafe CF__2026-08-31T17:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "CA Osasuna",
+    "awayTeam": "Getafe CF",
+    "kickoff": "2026-08-31T17:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : CA Osasuna ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Atalanta BC__Bologna FC 1909__2026-08-31T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Atalanta BC",
+    "awayTeam": "Bologna FC 1909",
+    "kickoff": "2026-08-31T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Atalanta BC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Aston Villa FC__Arsenal FC__2026-08-31T19:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Arsenal FC",
+    "kickoff": "2026-08-31T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Arsenal FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Barcelona__Rayo Vallecano de Madrid__2026-08-31T19:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Rayo Vallecano de Madrid",
+    "kickoff": "2026-08-31T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
