@@ -460,5 +460,82 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "RB Leipzig__Borussia Mönchengladbach__2026-08-29T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "RB Leipzig",
+    "awayTeam": "Borussia Mönchengladbach",
+    "kickoff": "2026-08-29T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RB Leipzig ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SV 07 Elversberg__Bayer 04 Leverkusen__2026-08-29T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SV 07 Elversberg",
+    "awayTeam": "Bayer 04 Leverkusen",
+    "kickoff": "2026-08-29T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SV 07 Elversberg ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "1. FC Köln__TSG 1899 Hoffenheim__2026-08-29T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "1. FC Köln",
+    "awayTeam": "TSG 1899 Hoffenheim",
+    "kickoff": "2026-08-29T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : 1. FC Köln ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Borussia Dortmund__Hamburger SV__2026-08-29T16:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "Hamburger SV",
+    "kickoff": "2026-08-29T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Borussia Dortmund ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "US Sassuolo Calcio__Torino FC__2026-08-29T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "US Sassuolo Calcio",
+    "awayTeam": "Torino FC",
+    "kickoff": "2026-08-29T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : US Sassuolo Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Lorient__ES Troyes AC__2026-08-29T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "FC Lorient",
+    "awayTeam": "ES Troyes AC",
+    "kickoff": "2026-08-29T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : ES Troyes AC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AJ Auxerre__Angers SCO__2026-08-29T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "AJ Auxerre",
+    "awayTeam": "Angers SCO",
+    "kickoff": "2026-08-29T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Angers SCO ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
