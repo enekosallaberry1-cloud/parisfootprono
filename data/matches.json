@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:47:00.775613+00:00",
+  "generated_at": "2026-08-30T16:34:19.102566+00:00",
   "date_from": "2026-08-27",
   "date_to": "2026-09-20",
   "count": 204,
@@ -203,8 +203,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (12e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
       }
     },
     {
@@ -283,7 +283,7 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (2e place actuelle)",
+        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
         "stakes_away": "Lutte pour le maintien (17e place actuelle)"
       }
     },
@@ -363,8 +363,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (10e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (10e place actuelle)"
       }
     },
     {
@@ -451,8 +451,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
       }
     },
     {
@@ -539,8 +539,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
+        "stakes_home": "Zone Europe / Europa League (5e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
       }
     },
     {
@@ -627,8 +627,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
+        "stakes_home": "Zone Europe / Europa League (5e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
       }
     },
     {
@@ -717,8 +717,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (12e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (4e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
@@ -981,8 +981,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (9e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
@@ -1064,7 +1064,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (20e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (3e place actuelle)"
+        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
       }
     },
     {
@@ -1143,8 +1143,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
-        "stakes_away": "Lutte pour le maintien (16e place actuelle)"
+        "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
       }
     },
     {
@@ -1669,8 +1669,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (3e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (4e place actuelle)"
       }
     },
     {
@@ -1759,8 +1759,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (2e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
+        "stakes_home": "Course à la Ligue des Champions (3e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
       }
     },
     {
@@ -1850,7 +1850,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (18e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
       }
     },
     {
@@ -1884,127 +1884,127 @@
     {
       "competition": "Premier League",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Sunderland AFC",
       "homeCrest": "https://crests.football-data.org/71.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "https://crests.football-data.org/63.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "analysis": null
     },
     {
       "competition": "Premier League",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Chelsea FC",
       "homeCrest": "https://crests.football-data.org/61.png",
       "awayTeam": "Brighton & Hove Albion FC",
       "awayCrest": "https://crests.football-data.org/397.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 4,
+      "awayScore": 3,
       "analysis": null
     },
     {
       "competition": "Premier League",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Leeds United FC",
       "homeCrest": "https://crests.football-data.org/341.png",
       "awayTeam": "Brentford FC",
       "awayCrest": "https://crests.football-data.org/402.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-30T13:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Paris FC",
       "homeCrest": "https://crests.football-data.org/1045.png",
       "awayTeam": "OGC Nice",
       "awayCrest": "https://crests.football-data.org/522.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 0,
       "analysis": null
     },
     {
       "competition": "Bundesliga",
       "utcDate": "2026-08-30T13:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "SC Freiburg",
       "homeCrest": "https://crests.football-data.org/17.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "https://crests.football-data.org/12.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 4,
+      "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Liga",
       "utcDate": "2026-08-30T15:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Madrid CF",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayTeam": "Málaga CF",
       "awayCrest": "https://crests.football-data.org/84.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 3,
+      "awayScore": 0,
       "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-08-30T15:15:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Stade Rennais FC 1901",
       "homeCrest": "https://crests.football-data.org/529.png",
       "awayTeam": "Le Mans FC",
       "awayCrest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 2,
+      "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Premier League",
       "utcDate": "2026-08-30T15:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 2,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Manchester United FC",
       "homeCrest": "https://crests.football-data.org/66.png",
       "awayTeam": "Ipswich Town FC",
       "awayCrest": "https://crests.football-data.org/349.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Bundesliga",
       "utcDate": "2026-08-30T15:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 1,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Augsburg",
       "homeCrest": "https://crests.football-data.org/16.png",
       "awayTeam": "FC Schalke 04",
       "awayCrest": "https://crests.football-data.org/6.png",
-      "homeScore": null,
-      "awayScore": null,
+      "homeScore": 1,
+      "awayScore": 0,
       "analysis": null
     },
     {

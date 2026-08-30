@@ -315,8 +315,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Sunderland AFC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "Chelsea FC__Brighton & Hove Albion FC__2026-08-30T13:00:00Z": {
     "competition": "Premier League",
@@ -326,8 +326,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "4-3"
   },
   "Real Madrid CF__Málaga CF__2026-08-30T15:00:00Z": {
     "competition": "Liga",
