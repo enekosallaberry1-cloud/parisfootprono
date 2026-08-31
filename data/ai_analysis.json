@@ -1,55 +1,105 @@
 {
-  "generated_at": "2026-08-24T08:34:56.500215+00:00",
+  "generated_at": "2026-08-31T15:35:38.437853+00:00",
   "analyses": {
-    "Málaga CF__RC Deportivo La Coruña__2026-08-24T19:30:00Z": {
-      "pick": "Double chance Deportivo ou nul",
+    "RC Celta de Vigo__Athletic Club__2026-08-30T19:30:00Z": {
+      "pick": "Double chance Athletic Club ou nul",
       "confidence": "Moyenne",
-      "analysis": "Málaga arrive à domicile en grande difficulté : défaite 0-2 en 5 jours avec 0 but marqué et défense friable (2 buts encaissés en moyenne). Deportivo affiche un profil équilibré après un nul récent (5 buts pour/contre en 5 jours) et bénéficie d'un meilleur repos (7 jours vs 5). Bien que Málaga joue à domicile, sa fragilité défensive et son absence de buts les rendent très vulnérables face à une équipe plus stable. Le risque de surprise visiteuse justifie une double chance prudente."
+      "analysis": "Celta affiche une forme catastrophique : 1 point en 3 matchs, 0,33 but/match et 1,33 encaissé. Athletic domine avec 5 points, 1 but/match et une série positive. À domicile, Celta n'a remporté aucun match sur 2 (0 invincibilité). Le modèle Poisson donne 55,1% de victoire à Athletic. Enchaînement serré pour les deux équipes, mais Athletic affiche une résistance supérieure."
     },
-    "Valencia CF__Real Betis Balompié__2026-08-25T19:00:00Z": {
-      "pick": "Double chance Betis ou nul",
+    "US Lecce__AS Roma__2026-08-31T16:30:00Z": {
+      "pick": "Double chance US Lecce ou nul",
+      "confidence": "Faible",
+      "analysis": "Données très réduites (1 seul match par équipe). Lecce a remporté sa dernière rencontre (10 buts marqués, 0 encaissé) à domicile. Roma affiche aussi une victoire dominante (4 buts/match, 0 encaissé). Les deux équipes sont en excellent forme mais manque de données fiables pour trancher. Risque de relâchement pour Lecce après victoire marquante. Repos suffisant pour les deux clubs (6-8 jours)."
+    },
+    "CA Osasuna__Getafe CF__2026-08-31T17:30:00Z": {
+      "pick": "Double chance CA Osasuna ou nul",
       "confidence": "Moyenne",
-      "analysis": "Valencia affiche un registre très fermé (0-0 au dernier match, enchaînement serré avec 3 jours de repos) et reste invaincu à domicile (1 match), mais sans crédibilité offensive (0 but). Betis arrive frais (4 jours, repos réduit) avec une victoire probante (5-0) et une défense imperméable (0 but encaissé). Malgré l'avantage du terrain de Valencia, les deux équipes jouent défensivement ; Betis affiche une dynamique supérieure et une défense impeccable. La double chance Betis/nul limite les risques face à une équipe valencienne étouffante mais stérile."
+      "analysis": "Osasuna joue à domicile avec une série positive (1 victoire + 1 nul en 2 matchs) et affiche une solide défense (0,5 encaissé/match). Getafe en déplacement souffle (8 jours de repos) mais encaisse 1,5/match. Osasuna bénéficie de l'avantage du terrain et d'une invincibilité à domicile (1 match). Enchaînement serré pour Osasuna (3 jours), facteur défavorable limité face à un Getafe moins en forme."
     },
-    "Real Madrid CF__Real Sociedad de Fútbol__2026-08-26T19:00:00Z": {
-      "pick": "Double chance Real Madrid ou nul",
+    "Atalanta BC__Bologna FC 1909__2026-08-31T18:45:00Z": {
+      "pick": "Double chance Atalanta ou nul",
       "confidence": "Élevée",
-      "analysis": "Real Madrid domine avec une victoire 10-5 récente, offensive dominante (2 buts/match) et solide défense (1 encaissé/match). Real Sociedad est en crise : défaite 0-5 sans aucun but et encaisse 1 but/match. Malgré un possible relâchement de Madrid après sa victoire à l'extérieur et un enchaînement serré (3 jours), l'écart de forme est considérable. Madrid reste favori net à domicile. Une double chance Madrid/nul offre protection raisonnable en cas de surprise, mais Madrid part très clairement avantagé."
+      "analysis": "Atalanta domine largement : victoire récente (2 buts/match, 1 encaissé), profil offensif solide et invincibilité à domicile confirmée. Bologna en crise : 0 but en 1 match et 1 nul sans marquer. Repos égal pour les deux (7-8 jours). Atalanta affiche 2 buts/match à domicile contre 1 encaissé. La double chance privilégie Atalanta face à une équipe sans ressources offensives évidentes."
     },
-    "FC Barcelona__Athletic Club__2026-08-27T19:00:00Z": {
-      "pick": "Double chance Barcelona ou nul",
+    "Aston Villa FC__Arsenal FC__2026-08-31T19:00:00Z": {
+      "pick": "Double chance Arsenal ou nul",
       "confidence": "Élevée",
-      "analysis": "Barcelona écrase avec une victoire 25-0 impressionnante, domination offensive (5 buts/match) et défense impeccable (0 encaissé). Athletic Club est fragile : 5 buts seulement en 5 jours, défense poreuse (3 encaissés/match) et sans victoire. Bien que Barcelona accuserait un relâchement possible après sa victoire à l'extérieur et un enchaînement serré (3 jours), la supériorité affichée est écrasante. Le pari double chance Barcelona/nul sécurise face à une surprise peu probable face à une équipe en détresse."
+      "analysis": "Écart de formes massif : Aston Villa catastrophique (0 but, 20 encaissés en 1 match = défense friable) tandis qu'Arsenal présente une victoire dominante (3 buts/match, 0 encaissé). Arsenal frais (10 jours) et en série positive. Villa a 8 jours de repos mais montre une fragilité défensive chronique (4 buts encaissés/match). Arsenal en déplacement sur une phase positive doit prendre les 3 points ou au minimum le nul."
     },
-    "Real Racing Club de Santander__Elche CF__2026-08-28T17:00:00Z": {
-      "pick": "Double chance Racing ou nul",
-      "confidence": "Moyenne",
-      "analysis": "Racing affiche un profil équilibré à domicile (2 nuls : 1.0 but pour/1.5 contre) avec repos réduit (4 jours) ; invaincu sur ses 10 derniers matchs à domicile. Elche souffre d'une défense fragile (3 buts encaissés/match) malgré une invincibilité récente (1 match non-perdant). Le modèle Poisson indique 37,8% pour chaque équipe et 24,3% pour le nul, suggérant un match ouvert. Racing bénéficie de l'avantage du terrain et d'une meilleure stabilité défensive ; la double chance Racing/nul reste prudente sur un match prévisible incertain."
-    },
-    "AC Milan__Venezia FC__2026-08-28T18:45:00Z": {
-      "pick": "Double chance Milan ou nul",
+    "FC Barcelona__Rayo Vallecano de Madrid__2026-08-31T19:30:00Z": {
+      "pick": "Double chance FC Barcelona ou nul",
       "confidence": "Élevée",
-      "analysis": "AC Milan affiche une forme dominante : victoire 10-5 avec 2 buts/match en moyenne et défense solide (1 encaissé/match). Venezia est en grande difficulté : défaite 0-10 sans marquer, défense friable (2 buts/match). Malgré un possible relâchement de Milan après sa victoire à l'extérieur, l'écart de classe est énorme. Les deux équipes sont bien reposées (5 jours). Milan reste très clairement favori à domicile ; la double chance Milan/nul sécurise le pari face à un favori dominant."
+      "analysis": "Barcelone écrase la statistique : 3,5 buts/match, 0 encaissé sur 2 matchs, profil dominant à domicile (2 buts/match, 0 encaissé). Rayo en série faible (0,5 point/match) et encaisse 1,5/match. Modèle Poisson : 73,1% victoire Barcelone, 45,6% +2,5 buts. Malgré repos réduit (4 jours), Barcelone affiche une supériorité écrasante. Pari sûr sur la domination locale."
     },
-    "Lille OSC__Paris Saint-Germain FC__2026-08-28T18:45:00Z": {
+    "Toulouse FC__Lille OSC__2026-09-03T18:45:00Z": {
       "pick": "Double chance Lille ou nul",
       "confidence": "Élevée",
-      "analysis": "Lille affiche une domination impressionnante : victoire 10-0 à l'extérieur, défense impeccable (0 encaissé) et 2 buts/match. PSG reste équilibré (nul 10-10) sans victoire, encaissant 2 buts/match. Malgré un possible relâchement de Lille après sa victoire à l'extérieur, Lille bénéficie de l'avantage du terrain, d'une meilleure fraîcheur (5 jours de repos chacun) et d'une supériorité tactique claire. La double chance Lille/nul reste le choix prudent face à un duel déséquilibré favorable aux Nordistes."
+      "analysis": "Lille domine clairement : 2 buts/match, 1 encaissé en déplacement récent, invincibilité away (1 match). Toulouse à domicile encaisse 2/match et marque 1/match. Enjeu réel : Lille court la Ligue des Champions (3e) tandis que Toulouse lutte pour le maintien (16e). Lille frais (6 jours), Toulouse plus fatigué (5 jours). L'invincibilité de Lille en déplacement et la fragilité défensive de Toulouse privilégient le visiteur."
     },
-    "Crystal Palace FC__Manchester City FC__2026-08-28T19:00:00Z": {
-      "pick": "Double chance Manchester City ou nul",
-      "confidence": "Élevée",
-      "analysis": "Manchester City est dominant : victoire 10-5 avec 2 buts/match et défense solide (1 encaissé/match). Crystal Palace souffre : défaite 0-10, défense friable (2 buts/match) et aucun but marqué. City ne montre aucun signe de fatigue malgré un match récent. Palace n'offre aucune résistance offensive. City est clairement favori à l'extérieur. La double chance City/nul protège contre toute surprise face à un déséquilibre de forme maîtrisé."
-    },
-    "Deportivo Alavés__Villarreal CF__2026-08-28T19:30:00Z": {
-      "pick": "Double chance Alavés ou nul",
-      "confidence": "Élevée",
-      "analysis": "Alavés affiche une domination nette : victoire 10-2,5 avec 2 buts/match et défense imperméable (0,5 encaissé/match), invaincu à domicile, bien reposé (8 jours). Villarreal reste ouvert mais instable : deux nuls (10-10) sans victoire. Le modèle Poisson confirme la supériorité d'Alavés : 70% pour une victoire à domicile contre 13,1% pour Villarreal. Alavés bénéficie aussi d'enjeux majeurs (2e place) tandis que Villarreal occupe le milieu. La double chance Alavés/nul sécurise le pari sur favori clair."
-    },
-    "Liverpool FC__Nottingham Forest FC__2026-08-29T11:30:00Z": {
-      "pick": "Double chance Liverpool ou nul",
+    "Real Sociedad de Fútbol__RC Celta de Vigo__2026-09-03T19:00:00Z": {
+      "pick": "Double chance Real Sociedad ou nul",
       "confidence": "Moyenne",
-      "analysis": "Liverpool arrive avec un profil offensif-ouvert (nul 10-10, 2 buts/match pour et contre) tandis que Nottingham affiche un profil équilibré (défaite 0-5, 0 marqué). Les deux équipes sont bien reposées (5-6 jours). Liverpool joue à domicile mais son inconstance récente (nul seulement) l'empêche d'être favori écrasant. Nottingham, malgré sa fragilité, pourrait profiter d'une équipe non-décisive. La double chance Liverpool/nul capture le léger avantage des Reds tout en reconnaissant l'imprévisibilité du match."
+      "analysis": "Real Sociedad à domicile affiche une victoire récente (2 buts/match à domicile) mais défense friable (2 encaissés). Celta en déplacement en crise totale (0,33 buts/match, 1,33 encaissés) avec enchaînement serré (3 jours). Modèle Poisson : 47% victoire Sociedad, 34,9% nul. Sociedad bénéficie du terrain et d'une invincibilité (1 match) face à un Celta exsangue, mais les matchs fermés restent probables."
+    },
+    "Olympique Lyonnais__AJ Auxerre__2026-09-04T17:00:00Z": {
+      "pick": "Double chance Olympique Lyonnais ou nul",
+      "confidence": "Élevée",
+      "analysis": "Écart de forme évident : Lyon marque 1,5/match, encaisse 0,5 (profil solide) tandis qu'Auxerre en déplacement marque 1,5 mais encaisse 4/match (défense friable catastrophique). Modèle Poisson : 67,8% victoire Lyon, 82,6% +2,5 buts, 73,8% BTTS. Lyon en Ligue des Champions (4e), Auxerre en maintien (18e). Match ouvert probable à hauts scores, domination lyonnaise attendue."
+    },
+    "VfB Stuttgart__1. FC Köln__2026-09-04T18:30:00Z": {
+      "pick": "Double chance 1. FC Köln ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Stuttgart à domicile en crise (0 point, 5 encaissés en 1 match = défense friable massive). Köln en déplacement remporte victoire avec 3 buts/match. Matchs ouverts attendus (les deux styles offensifs/friables). Repos égal (6-7 jours). Köln affiche meilleure forme et moins de fragilité défensive. Risque de surprise pour le visiteur face à une équipe en maintien (18e) dépourvue de ressources."
+    },
+    "Genoa CFC__Como 1907__2026-09-04T18:45:00Z": {
+      "pick": "Double chance Como ou nul",
+      "confidence": "Élevée",
+      "analysis": "Décalage majeur : Genoa à domicile encaisse 1,5/match et marque 0 (2 nuls), profil très faible. Como en déplacement : 1,5 buts/match, 1 encaissé et invincibilité confirmée (2 matchs). Modèle Poisson : 68% victoire Como, 10% victoire Genoa. Como en Europa League (6e place) domine. Letdown effect possibile après victoire mais statistiques largement en faveur du visiteur."
+    },
+    "Ipswich Town FC__Liverpool FC__2026-09-04T19:00:00Z": {
+      "pick": "Double chance Ipswich Town ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Matchs ouverts pour les deux : 2 buts/match chacun mais Ipswich encaisse 3 (friable) tandis que Liverpool 2. Modèle Poisson : 49,3% victoire Ipswich, 67,9% +2,5 buts, 67,2% BTTS. Les deux sont proches et sans enjeu réel (12e-13e place). Invincibilité domicile Ipswich (1 match) face à streaks équilibrés. Match équilibré, pari sur la double chance domicile raisonné."
+    },
+    "Real Betis Balompié__Real Madrid CF__2026-09-04T19:00:00Z": {
+      "pick": "Double chance Real Betis ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Real Madrid affiche supériorité offensive : 3,33 buts/match, 0,67 encaissé en 3 victoires. Betis équilibré : 1,33/1,67. Modèle Poisson : probabilités égales (34,6% Betis, 34,6% Madrid), 32,3% +2,5 buts, 40% BTTS. Enjeu réel : Madrid course Ligue des Champions (1e), Betis Europa League (6e). Repos légèrement supérieur pour Betis (6 jours). Match très équilibré malgré domination offensive de Madrid ; la double chance domine."
+    },
+    "Paris Saint-Germain FC__AS Monaco FC__2026-09-04T19:05:00Z": {
+      "pick": "Double chance AS Monaco ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Monaco en déplacement affiche solidité : 2 victoires consécutives, 1,5 buts/match, 0 encaissé (invincibilité). PSG à domicile débile : 2 nuls, 2 buts/match mais 2 encaissés. Enjeu réel : Monaco course Ligue des Champions (1e), PSG milieu (11e). Monaco affiche forme supérieure malgré déplacement. Pas de modèle Poisson fourni mais statistiques avantages le visiteur très formé."
+    },
+    "Newcastle United FC__AFC Bournemouth__2026-09-05T11:30:00Z": {
+      "pick": "Double chance Newcastle ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Newcastle à domicile affiche supériorité : 2 buts/match, 1 encaissé, invincibilité (1 victoire). Bournemouth en déplacement : 1 but/match, 1,5 encaissé. Modèle Poisson : 49,3% Newcastle, 67,9% +2,5 buts, 67,2% BTTS. Enjeu réel : Newcastle Europa League (5e), Bournemouth milieu. Letdown effect possible pour Newcastle mais forme domicile solide. Match équilibré mais Newcastle légèrement avantagé."
+    },
+    "ACF Fiorentina__Torino FC__2026-09-05T13:00:00Z": {
+      "pick": "Double chance Torino ou nul",
+      "confidence": "Élevée",
+      "analysis": "Fiorentina à domicile en crise : 0 point sur 2, 0 but, 3,5 encaissés (défense friable majeure, 20e place maintien). Torino en déplacement : 0 point sur 2 mais 1 but/match, 2 encaissés (plus équilibré). Modèle Poisson : 60,6% victoire Torino, 57,7% +2,5 buts, 54,7% BTTS. Bien que Torino aussi en difficulté, Fiorentina montre fragilité extrême à domicile. Torino favori relatif malgré crise partagée."
+    },
+    "SV Werder Bremen__RB Leipzig__2026-09-05T13:30:00Z": {
+      "pick": "Double chance RB Leipzig ou nul",
+      "confidence": "Élevée",
+      "analysis": "Écart flagrant : Leipzig en déplacement parfait (3 buts/match, 0 encaissé, victoire). Bremen à domicile catastrophique (1 but/match, 4 encaissés, 1 nul). Leipzig en Ligue des Champions (3e), Bremen milieu (15e). Défense friable majeure de Bremen à domicile face à attaque redoutable. Repos égal (6-7 jours). Leipzig largement avantagée malgré déplacement."
+    },
+    "TSG 1899 Hoffenheim__Borussia Dortmund__2026-09-05T13:30:00Z": {
+      "pick": "Double chance Borussia Dortmund ou nul",
+      "confidence": "Élevée",
+      "analysis": "Dortmund en déplacement affiche profil dominant : victoire, 2 buts/match, 0 encaissé. Hoffenheim à domicile en nul (matchs ouverts : 2 buts/match encaissés, 3 encaissés). Dortmund en Europa League (5e), Hoffenheim milieu (12e). Dortmund montre solidité défensive tandis que Hoffenheim friable. Repos égal (6-7 jours). Dortmund largement supérieure malgré déplacement."
+    },
+    "Bayer 04 Leverkusen__1. FC Union Berlin__2026-09-05T13:30:00Z": {
+      "pick": "Double chance Bayer Leverkusen ou nul",
+      "confidence": "Faible",
+      "analysis": "Deux équipes en matchs ouverts : Leverkusen à domicile 2 buts/match, 3 encaissés (nul), Union en déplacement 3 buts/match, 3 encaissés (nul). Équilibre parfait. Repos égal (7 jours). Enjeux : Leverkusen milieu (12e), Union milieu (8e). Manque de modèle Poisson mais les styles offensifs-friables suggèrent match très ouvert sans favori clair. Pari équilibré."
+    },
+    "Borussia Mönchengladbach__SV 07 Elversberg__2026-09-05T13:30:00Z": {
+      "pick": "Double chance SV 07 Elversberg ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Écart net : Elversberg en déplacement victoire (3 buts/match, 2 encaissés, matchs ouverts). Mönchengladbach à domicile catastrophique (0 but, 3 encaissés, défense friable, nul). Elversberg en Europa League (6e), Mönchengladbach en maintien (16e). Repos égal (7 jours). Elversberg affiche forme supérieure et solidité relative face à défense friable majeure de Mönchengladbach."
     }
   }
 }
