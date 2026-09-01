@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:35:11.505319+00:00",
+  "generated_at": "2026-09-01T16:32:04.647664+00:00",
   "date_from": "2026-08-29",
   "date_to": "2026-09-22",
   "count": 214,
@@ -3743,6 +3743,20 @@
       "analysis": null
     },
     {
+      "competition": "Liga",
+      "utcDate": "2026-09-18T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "homeCrest": "https://crests.football-data.org/80.png",
+      "awayTeam": "Elche CF",
+      "awayCrest": "https://crests.football-data.org/285.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
       "competition": "Premier League",
       "utcDate": "2026-09-19T11:30:00Z",
       "status": "TIMED",
@@ -4079,34 +4093,6 @@
       "analysis": null
     },
     {
-      "competition": "Liga",
-      "utcDate": "2026-09-20T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 7,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Valencia CF",
-      "homeCrest": "https://crests.football-data.org/95.png",
-      "awayTeam": "Real Sociedad de Fútbol",
-      "awayCrest": "https://crests.football-data.org/92.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-09-20T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 7,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "homeCrest": "https://crests.football-data.org/80.png",
-      "awayTeam": "Elche CF",
-      "awayCrest": "https://crests.football-data.org/285.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
       "competition": "Serie A",
       "utcDate": "2026-09-20T10:30:00Z",
       "status": "TIMED",
@@ -4354,6 +4340,20 @@
       "homeCrest": "https://crests.football-data.org/516.png",
       "awayTeam": "Paris Saint-Germain FC",
       "awayCrest": "https://crests.football-data.org/524.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-09-20T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 7,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Valencia CF",
+      "homeCrest": "https://crests.football-data.org/95.png",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "awayCrest": "https://crests.football-data.org/92.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
