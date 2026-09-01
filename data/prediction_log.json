@@ -392,8 +392,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "AS Monaco FC__Olympique de Marseille__2026-08-30T18:45:00Z": {
     "competition": "Ligue 1",
@@ -403,8 +403,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Olympique de Marseille ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-0"
   },
   "RC Celta de Vigo__Athletic Club__2026-08-30T19:30:00Z": {
     "competition": "Liga",
@@ -414,8 +414,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : RC Celta de Vigo ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-2"
   },
   "CA Osasuna__Getafe CF__2026-08-31T17:30:00Z": {
     "competition": "Liga",
@@ -722,6 +722,17 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Brentford FC ou nul",
     "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Fulham FC__Crystal Palace FC__2026-09-05T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Fulham FC",
+    "awayTeam": "Crystal Palace FC",
+    "kickoff": "2026-09-05T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Fulham FC ou nul",
+    "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
   }
