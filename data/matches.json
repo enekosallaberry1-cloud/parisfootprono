@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:18:16.311641+00:00",
+  "generated_at": "2026-09-03T20:57:18.943400+00:00",
   "date_from": "2026-08-31",
   "date_to": "2026-09-24",
   "count": 177,
@@ -78,176 +78,30 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-03T18:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Toulouse FC",
       "homeCrest": "https://crests.football-data.org/511.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "https://crests.football-data.org/521.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 2.5,
-          "goals_for": 5.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 1.0,
-          "goals_against_avg": 2.0,
-          "matches_counted": 2,
-          "results": [
-            "D",
-            "N"
-          ],
-          "last_match_date": "2026-08-29T18:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 10.0,
-          "goals_for": 10.0,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 1.0,
-          "matches_counted": 2,
-          "results": [
-            "V",
-            "N"
-          ],
-          "last_match_date": "2026-08-28T18:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": null,
-        "suggested_pick": "Double chance : Lille OSC ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -11.7,
-        "rest_days_home": 5,
-        "rest_days_away": 6,
-        "fatigue_home": null,
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.0,
-          "avg_goals_against": 2.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 0.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (16e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (3e place actuelle)"
-      }
+      "homeScore": 0,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Liga",
       "utcDate": "2026-09-03T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Sociedad de Fútbol",
       "homeCrest": "https://crests.football-data.org/92.png",
       "awayTeam": "RC Celta de Vigo",
       "awayCrest": "https://crests.football-data.org/558.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 5.0,
-          "goals_for": 5.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 1.0,
-          "goals_against_avg": 2.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "D",
-            "V"
-          ],
-          "last_match_date": "2026-08-29T17:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 1.67,
-          "goals_for": 1.65,
-          "goals_against": 6.65,
-          "goals_for_avg": 0.33,
-          "goals_against_avg": 1.33,
-          "matches_counted": 3,
-          "results": [
-            "N",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-08-30T19:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 47.0,
-          "draw_pct": 34.9,
-          "away_win_pct": 18.1,
-          "over_2_5_pct": 19.1,
-          "btts_pct": 24.9,
-          "lambda_home": 1.0,
-          "lambda_away": 0.5
-        },
-        "suggested_pick": "Double chance : Real Sociedad de Fútbol ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "home",
-        "score_diff": 7.1,
-        "rest_days_home": 5,
-        "rest_days_away": 3,
-        "fatigue_home": null,
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 1.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 0.0,
-          "avg_goals_against": 0.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (16e place actuelle)"
-      }
+      "homeScore": 0,
+      "awayScore": 0,
+      "analysis": null
     },
     {
       "competition": "Ligue 1",
@@ -588,7 +442,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-04T19:00:00Z",
-      "status": "2026-09-05 13:15:00Z",
+      "status": "TIMED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Betis Balompié",
@@ -597,7 +451,85 @@
       "awayCrest": "https://crests.football-data.org/86.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 10.0,
+          "goals_for": 6.65,
+          "goals_against": 8.35,
+          "goals_for_avg": 1.33,
+          "goals_against_avg": 1.67,
+          "matches_counted": 3,
+          "results": [
+            "V",
+            "V",
+            "D"
+          ],
+          "last_match_date": "2026-08-29T15:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 15.0,
+          "goals_for": 16.65,
+          "goals_against": 3.35,
+          "goals_for_avg": 3.33,
+          "goals_against_avg": 0.67,
+          "matches_counted": 3,
+          "results": [
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-08-30T15:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 34.6,
+          "draw_pct": 30.9,
+          "away_win_pct": 34.6,
+          "over_2_5_pct": 32.3,
+          "btts_pct": 40.0,
+          "lambda_home": 1.0,
+          "lambda_away": 1.0
+        },
+        "suggested_pick": "Double chance : Real Madrid CF ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "away",
+        "score_diff": -7.5,
+        "rest_days_home": 6,
+        "rest_days_away": 5,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 0.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 1.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (7e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
+      }
     },
     {
       "competition": "Ligue 1",
@@ -671,7 +603,7 @@
         "surprise_risk": false,
         "true_home_advantage": "home",
         "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
+        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
       }
     },
     {
@@ -1637,7 +1569,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-05T14:15:00Z",
-      "status": "2026-09-05 14:15:00Z",
+      "status": "TIMED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Athletic Club",
@@ -1646,7 +1578,85 @@
       "awayCrest": "https://crests.football-data.org/78.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 5.0,
+          "goals_for": 5.0,
+          "goals_against": 8.35,
+          "goals_for_avg": 1.0,
+          "goals_against_avg": 1.67,
+          "matches_counted": 3,
+          "results": [
+            "D",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-08-30T19:30:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 11.67,
+          "goals_for": 11.65,
+          "goals_against": 5.0,
+          "goals_for_avg": 2.33,
+          "goals_against_avg": 1.0,
+          "matches_counted": 3,
+          "results": [
+            "V",
+            "N",
+            "V"
+          ],
+          "last_match_date": "2026-08-29T19:30:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 9.4,
+          "draw_pct": 13.2,
+          "away_win_pct": 77.4,
+          "over_2_5_pct": 76.1,
+          "btts_pct": 60.1,
+          "lambda_home": 1.0,
+          "lambda_away": 3.0
+        },
+        "suggested_pick": "Double chance : Club Atlético de Madrid ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "away",
+        "score_diff": -10.8,
+        "rest_days_home": 5,
+        "rest_days_away": 6,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": true,
+        "letdown_away": true,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 0,
+          "unbeaten_rate": 0.0,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 3.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 1.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (3e place actuelle)"
+      }
     },
     {
       "competition": "Ligue 1",

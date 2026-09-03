@@ -546,8 +546,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Lille OSC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "Real Sociedad de Fútbol__RC Celta de Vigo__2026-09-03T19:00:00Z": {
     "competition": "Liga",
