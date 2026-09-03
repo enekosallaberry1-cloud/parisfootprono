@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T03:54:00.884517+00:00",
+  "generated_at": "2026-09-03T11:08:42.255402+00:00",
   "date_from": "2026-08-31",
   "date_to": "2026-09-24",
   "count": 177,
@@ -588,7 +588,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-04T19:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-05 13:15:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Betis Balompié",
@@ -597,85 +597,7 @@
       "awayCrest": "https://crests.football-data.org/86.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 10.0,
-          "goals_for": 6.65,
-          "goals_against": 8.35,
-          "goals_for_avg": 1.33,
-          "goals_against_avg": 1.67,
-          "matches_counted": 3,
-          "results": [
-            "V",
-            "V",
-            "D"
-          ],
-          "last_match_date": "2026-08-29T15:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "away_form": {
-          "points": 15.0,
-          "goals_for": 16.65,
-          "goals_against": 3.35,
-          "goals_for_avg": 3.33,
-          "goals_against_avg": 0.67,
-          "matches_counted": 3,
-          "results": [
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-08-30T15:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 34.6,
-          "draw_pct": 30.9,
-          "away_win_pct": 34.6,
-          "over_2_5_pct": 32.3,
-          "btts_pct": 40.0,
-          "lambda_home": 1.0,
-          "lambda_away": 1.0
-        },
-        "suggested_pick": "Double chance : Real Madrid CF ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -7.5,
-        "rest_days_home": 6,
-        "rest_days_away": 5,
-        "fatigue_home": null,
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.0,
-          "avg_goals_against": 0.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 1.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (7e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
-      }
+      "analysis": null
     },
     {
       "competition": "Ligue 1",
@@ -1715,7 +1637,7 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-05T14:15:00Z",
-      "status": "TIMED",
+      "status": "2026-09-05 14:15:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Athletic Club",
@@ -1738,7 +1660,83 @@
       "awayCrest": "https://crests.football-data.org/525.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 7.5,
+          "goals_for": 15.0,
+          "goals_against": 10.0,
+          "goals_for_avg": 3.0,
+          "goals_against_avg": 2.0,
+          "matches_counted": 2,
+          "results": [
+            "V",
+            "D"
+          ],
+          "last_match_date": "2026-08-29T15:15:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "away_form": {
+          "points": 2.5,
+          "goals_for": 2.5,
+          "goals_against": 5.0,
+          "goals_for_avg": 0.5,
+          "goals_against_avg": 1.0,
+          "matches_counted": 2,
+          "results": [
+            "N",
+            "D"
+          ],
+          "last_match_date": "2026-08-29T18:45:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 70.0,
+          "draw_pct": 16.8,
+          "away_win_pct": 13.1,
+          "over_2_5_pct": 67.9,
+          "btts_pct": 58.0,
+          "lambda_home": 2.5,
+          "lambda_away": 1.0
+        },
+        "suggested_pick": "Double chance : Racing Club de Lens ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 9.8,
+        "rest_days_home": 7,
+        "rest_days_away": 6,
+        "fatigue_home": "fraîche",
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 5.0,
+          "avg_goals_against": 2.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 0.0,
+          "avg_goals_against": 0.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (7e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
+      }
     },
     {
       "competition": "Serie A",
