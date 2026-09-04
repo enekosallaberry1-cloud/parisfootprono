@@ -845,5 +845,82 @@
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
+  },
+  "Hamburger SV__1. FSV Mainz 05__2026-09-06T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Hamburger SV",
+    "awayTeam": "1. FSV Mainz 05",
+    "kickoff": "2026-09-06T13:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : 1. FSV Mainz 05 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Valencia CF__FC Barcelona__2026-09-06T14:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Valencia CF",
+    "awayTeam": "FC Barcelona",
+    "kickoff": "2026-09-06T14:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Eintracht Frankfurt__FC Augsburg__2026-09-06T15:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Eintracht Frankfurt",
+    "awayTeam": "FC Augsburg",
+    "kickoff": "2026-09-06T15:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Augsburg ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Deportivo Alavés__CA Osasuna__2026-09-06T16:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Deportivo Alavés",
+    "awayTeam": "CA Osasuna",
+    "kickoff": "2026-09-06T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Deportivo Alavés ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Málaga CF__Levante UD__2026-09-06T16:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Málaga CF",
+    "awayTeam": "Levante UD",
+    "kickoff": "2026-09-06T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Levante UD ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "RCD Espanyol de Barcelona__Sevilla FC__2026-09-06T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RCD Espanyol de Barcelona",
+    "awayTeam": "Sevilla FC",
+    "kickoff": "2026-09-06T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Sevilla FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Getafe CF__RC Celta de Vigo__2026-09-07T17:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Getafe CF",
+    "awayTeam": "RC Celta de Vigo",
+    "kickoff": "2026-09-07T17:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Getafe CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
