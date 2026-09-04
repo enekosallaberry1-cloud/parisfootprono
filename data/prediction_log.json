@@ -568,8 +568,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Olympique Lyonnais ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "VfB Stuttgart__1. FC Köln__2026-09-04T18:30:00Z": {
     "competition": "Bundesliga",
@@ -919,6 +919,17 @@
     "kickoff": "2026-09-07T17:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : Getafe CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Everton FC__Manchester United FC__2026-09-06T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Everton FC",
+    "awayTeam": "Manchester United FC",
+    "kickoff": "2026-09-06T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Everton FC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
