@@ -557,8 +557,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Sociedad de Fútbol ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "Olympique Lyonnais__AJ Auxerre__2026-09-04T17:00:00Z": {
     "competition": "Ligue 1",
