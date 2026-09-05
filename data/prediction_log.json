@@ -579,8 +579,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : 1. FC Köln ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "4-1"
   },
   "Genoa CFC__Como 1907__2026-09-04T18:45:00Z": {
     "competition": "Serie A",
@@ -590,8 +590,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-4"
   },
   "Ipswich Town FC__Liverpool FC__2026-09-04T19:00:00Z": {
     "competition": "Premier League",
@@ -601,8 +601,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Ipswich Town FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-2"
   },
   "Real Betis Balompié__Real Madrid CF__2026-09-04T19:00:00Z": {
     "competition": "Liga",
@@ -612,8 +612,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-0"
   },
   "Paris Saint-Germain FC__AS Monaco FC__2026-09-04T19:05:00Z": {
     "competition": "Ligue 1",
@@ -623,8 +623,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : AS Monaco FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "Newcastle United FC__AFC Bournemouth__2026-09-05T11:30:00Z": {
     "competition": "Premier League",
