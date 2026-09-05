@@ -634,8 +634,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Newcastle United FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "SV Werder Bremen__RB Leipzig__2026-09-05T13:30:00Z": {
     "competition": "Bundesliga",
@@ -930,6 +930,39 @@
     "kickoff": "2026-09-06T13:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : Everton FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Frosinone Calcio__Venezia FC__2026-09-06T13:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Frosinone Calcio",
+    "awayTeam": "Venezia FC",
+    "kickoff": "2026-09-06T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "ES Troyes AC__RC Strasbourg Alsace__2026-09-06T13:00:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "ES Troyes AC",
+    "awayTeam": "RC Strasbourg Alsace",
+    "kickoff": "2026-09-06T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : ES Troyes AC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Bologna FC 1909__US Sassuolo Calcio__2026-09-06T16:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Bologna FC 1909",
+    "awayTeam": "US Sassuolo Calcio",
+    "kickoff": "2026-09-06T16:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : US Sassuolo Calcio ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
