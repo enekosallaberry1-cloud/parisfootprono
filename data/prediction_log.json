@@ -843,8 +843,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Parma Calcio 1913 ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Hamburger SV__1. FSV Mainz 05__2026-09-06T13:30:00Z": {
     "competition": "Bundesliga",
@@ -931,8 +931,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Everton FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Frosinone Calcio__Venezia FC__2026-09-06T13:00:00Z": {
     "competition": "Serie A",
@@ -942,8 +942,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Frosinone Calcio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-2"
   },
   "ES Troyes AC__RC Strasbourg Alsace__2026-09-06T13:00:00Z": {
     "competition": "Ligue 1",
@@ -953,8 +953,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : ES Troyes AC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-6"
   },
   "Bologna FC 1909__US Sassuolo Calcio__2026-09-06T16:00:00Z": {
     "competition": "Serie A",
@@ -975,6 +975,50 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Porto__Manchester City FC__2026-09-08T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "FC Porto",
+    "awayTeam": "Manchester City FC",
+    "kickoff": "2026-09-08T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Porto ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Borussia Dortmund__Villarreal CF__2026-09-08T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "Villarreal CF",
+    "kickoff": "2026-09-08T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Borussia Dortmund ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Lille OSC__Real Betis Balompié__2026-09-08T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Lille OSC",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-09-08T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Lille OSC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Barcelona__Feyenoord Rotterdam__2026-09-09T16:45:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Feyenoord Rotterdam",
+    "kickoff": "2026-09-09T16:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Barcelona ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
