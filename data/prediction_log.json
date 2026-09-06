@@ -788,8 +788,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : AS Roma ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-1"
   },
   "FC Schalke 04__FC Bayern München__2026-09-05T16:30:00Z": {
     "competition": "Bundesliga",
@@ -810,8 +810,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Stade Brestois 29 ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "OGC Nice__Le Mans FC__2026-09-05T18:45:00Z": {
     "competition": "Ligue 1",
@@ -821,8 +821,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : OGC Nice ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Villarreal CF__RC Deportivo La Coruña__2026-09-05T19:00:00Z": {
     "competition": "Liga",
@@ -832,8 +832,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-3"
   },
   "Parma Calcio 1913__AC Monza__2026-09-06T13:00:00Z": {
     "competition": "Serie A",

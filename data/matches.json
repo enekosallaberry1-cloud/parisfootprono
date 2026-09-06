@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T20:20:21.269092+00:00",
-  "date_from": "2026-09-02",
-  "date_to": "2026-09-26",
+  "generated_at": "2026-09-06T03:56:29.336482+00:00",
+  "date_from": "2026-09-03",
+  "date_to": "2026-09-27",
   "count": 172,
   "deep_analysis_count": 20,
   "matches": [
@@ -372,35 +372,35 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-05T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AS Roma",
       "homeCrest": "https://crests.football-data.org/100.png",
       "awayTeam": "Atalanta BC",
       "awayCrest": "https://crests.football-data.org/102.png",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
       "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Le Havre AC",
       "homeCrest": "https://crests.football-data.org/533.png",
       "awayTeam": "Stade Brestois 29",
       "awayCrest": "https://crests.football-data.org/512.png",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 2,
       "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-05T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 3,
       "stage": "REGULAR_SEASON",
       "homeTeam": "OGC Nice",
@@ -414,15 +414,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-05T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Villarreal CF",
       "homeCrest": "https://crests.football-data.org/94.png",
       "awayTeam": "RC Deportivo La Coruña",
       "awayCrest": "https://crests.football-data.org/560.png",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 3,
       "analysis": null
     },
     {
@@ -1328,8 +1328,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
+        "stakes_home": "Zone Europe / Europa League (5e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
@@ -1510,8 +1510,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
+        "stakes_home": "Zone Europe / Europa League (5e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (4e place actuelle)"
       }
     },
     {
@@ -1851,7 +1851,7 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (16e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (17e place actuelle)"
       }
     },
@@ -1942,7 +1942,7 @@
         "surprise_risk": false,
         "true_home_advantage": "home",
         "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
