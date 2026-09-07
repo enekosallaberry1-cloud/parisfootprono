@@ -1043,5 +1043,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Como 1907__RB Leipzig__2026-09-10T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Como 1907",
+    "awayTeam": "RB Leipzig",
+    "kickoff": "2026-09-10T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
