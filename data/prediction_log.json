@@ -909,8 +909,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Sevilla FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Getafe CF__RC Celta de Vigo__2026-09-07T17:00:00Z": {
     "competition": "Liga",
