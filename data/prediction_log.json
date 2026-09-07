@@ -920,8 +920,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Getafe CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Everton FC__Manchester United FC__2026-09-06T13:00:00Z": {
     "competition": "Premier League",
@@ -975,8 +975,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "FC Porto__Manchester City FC__2026-09-08T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -1052,6 +1052,28 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "1. FC Union Berlin__FC Schalke 04__2026-09-11T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "1. FC Union Berlin",
+    "awayTeam": "FC Schalke 04",
+    "kickoff": "2026-09-11T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : 1. FC Union Berlin ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Venezia FC__ACF Fiorentina__2026-09-11T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Venezia FC",
+    "awayTeam": "ACF Fiorentina",
+    "kickoff": "2026-09-11T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Venezia FC ou nul",
+    "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
   }
