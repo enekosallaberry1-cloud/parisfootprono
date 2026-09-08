@@ -1076,5 +1076,71 @@
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
+  },
+  "Stade Rennais FC 1901__Olympique de Marseille__2026-09-11T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Stade Rennais FC 1901",
+    "awayTeam": "Olympique de Marseille",
+    "kickoff": "2026-09-11T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Stade Rennais FC 1901 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sevilla FC__Valencia CF__2026-09-11T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Sevilla FC",
+    "awayTeam": "Valencia CF",
+    "kickoff": "2026-09-11T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Sevilla FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Racing Club de Santander__Deportivo Alavés__2026-09-12T12:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Racing Club de Santander",
+    "awayTeam": "Deportivo Alavés",
+    "kickoff": "2026-09-12T12:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Deportivo Alavés ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Genoa CFC__Frosinone Calcio__2026-09-12T13:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Genoa CFC",
+    "awayTeam": "Frosinone Calcio",
+    "kickoff": "2026-09-12T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "TSG 1899 Hoffenheim__VfB Stuttgart__2026-09-12T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "TSG 1899 Hoffenheim",
+    "awayTeam": "VfB Stuttgart",
+    "kickoff": "2026-09-12T13:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : VfB Stuttgart ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Borussia Dortmund__SC Paderborn 07__2026-09-12T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "SC Paderborn 07",
+    "kickoff": "2026-09-12T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Borussia Dortmund ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
