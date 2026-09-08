@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:07:39.222884+00:00",
+  "generated_at": "2026-09-08T16:31:40.375614+00:00",
   "date_from": "2026-09-05",
   "date_to": "2026-09-29",
   "count": 164,
@@ -582,7 +582,7 @@
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Club Brugge KV",
@@ -596,7 +596,7 @@
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-09-08T16:45:00Z",
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "matchday": 1,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "PAE AEK",
