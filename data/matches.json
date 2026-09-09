@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:12:10.727350+00:00",
+  "generated_at": "2026-09-09T16:26:51.652760+00:00",
   "date_from": "2026-09-06",
   "date_to": "2026-09-30",
   "count": 142,
@@ -916,7 +916,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-11T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-11 18:45:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Venezia FC",
@@ -925,85 +925,7 @@
       "awayCrest": "https://crests.football-data.org/99.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 0.0,
-          "goals_for": 3.35,
-          "goals_against": 11.65,
-          "goals_for_avg": 0.67,
-          "goals_against_avg": 2.33,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-09-06T13:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 0.0,
-          "goals_for": 1.65,
-          "goals_against": 15.0,
-          "goals_for_avg": 0.33,
-          "goals_against_avg": 3.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-09-05T13:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 60.6,
-          "draw_pct": 21.2,
-          "away_win_pct": 18.3,
-          "over_2_5_pct": 57.7,
-          "btts_pct": 54.7,
-          "lambda_home": 2.0,
-          "lambda_away": 1.0
-        },
-        "suggested_pick": "Double chance : Venezia FC ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "home",
-        "score_diff": 3.5,
-        "rest_days_home": 5,
-        "rest_days_away": 6,
-        "fatigue_home": null,
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.0,
-          "avg_goals_against": 2.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.0,
-          "avg_goals_against": 4.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (18e place actuelle)",
-        "stakes_away": "Lutte pour le maintien (20e place actuelle)"
-      }
+      "analysis": null
     },
     {
       "competition": "Ligue 1",
@@ -1288,7 +1210,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-12T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-12 13:00:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Genoa CFC",
@@ -1297,85 +1219,7 @@
       "awayCrest": "https://crests.football-data.org/470.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 0.0,
-          "goals_for": 1.65,
-          "goals_against": 11.65,
-          "goals_for_avg": 0.33,
-          "goals_against_avg": 2.33,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-09-04T18:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 10.0,
-          "goals_for": 10.0,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 1.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-09-06T13:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 1.6,
-          "draw_pct": 7.4,
-          "away_win_pct": 91.0,
-          "over_2_5_pct": 62.9,
-          "btts_pct": 21.0,
-          "lambda_home": 0.25,
-          "lambda_away": 3.0
-        },
-        "suggested_pick": "Double chance : Frosinone Calcio ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -15.2,
-        "rest_days_home": 7,
-        "rest_days_away": 6,
-        "fatigue_home": "fraîche",
-        "fatigue_away": null,
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.5,
-          "avg_goals_against": 3.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 3.0,
-          "avg_goals_against": 0.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (19e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
-      }
+      "analysis": null
     },
     {
       "competition": "Bundesliga",
@@ -1570,7 +1414,83 @@
       "awayCrest": "https://crests.football-data.org/3.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 15.0,
+          "goals_for": 17.5,
+          "goals_against": 2.5,
+          "goals_for_avg": 3.5,
+          "goals_against_avg": 0.5,
+          "matches_counted": 2,
+          "results": [
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-09-06T15:30:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "away_form": {
+          "points": 7.5,
+          "goals_for": 15.0,
+          "goals_against": 7.5,
+          "goals_for_avg": 3.0,
+          "goals_against_avg": 1.5,
+          "matches_counted": 2,
+          "results": [
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-09-05T13:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 77.4,
+          "draw_pct": 13.2,
+          "away_win_pct": 9.4,
+          "over_2_5_pct": 76.1,
+          "btts_pct": 60.1,
+          "lambda_home": 3.0,
+          "lambda_away": 1.0
+        },
+        "suggested_pick": "Double chance : FC Augsburg ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 13.4,
+        "rest_days_home": 5,
+        "rest_days_away": 7,
+        "fatigue_home": null,
+        "fatigue_away": "fraîche",
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 0.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 0,
+          "unbeaten_rate": 0.0,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 3.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Course à la Ligue des Champions (1e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
+      }
     },
     {
       "competition": "Bundesliga",
@@ -1584,7 +1504,83 @@
       "awayCrest": "https://crests.football-data.org/19.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 10.0,
+          "goals_for": 12.5,
+          "goals_against": 0.0,
+          "goals_for_avg": 2.5,
+          "goals_against_avg": 0.0,
+          "matches_counted": 2,
+          "results": [
+            "N",
+            "V"
+          ],
+          "last_match_date": "2026-09-06T13:30:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "away_form": {
+          "points": 2.5,
+          "goals_for": 10.0,
+          "goals_against": 17.5,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 3.5,
+          "matches_counted": 2,
+          "results": [
+            "N",
+            "D"
+          ],
+          "last_match_date": "2026-09-06T15:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 37.8,
+          "draw_pct": 24.3,
+          "away_win_pct": 37.8,
+          "over_2_5_pct": 57.7,
+          "btts_pct": 60.4,
+          "lambda_home": 1.5,
+          "lambda_away": 1.5
+        },
+        "suggested_pick": "Double chance : 1. FSV Mainz 05 ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 14.5,
+        "rest_days_home": 6,
+        "rest_days_away": 5,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 0.0,
+          "avg_goals_against": 0.0
+        },
+        "away_venue_record": {
+          "matches_played": 1,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 3.0,
+          "avg_goals_against": 3.0
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Zone Europe / Europa League (5e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
+      }
     },
     {
       "competition": "Bundesliga",
@@ -1701,7 +1697,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-12T16:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-12 16:00:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "SS Lazio",
@@ -1757,7 +1753,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-12T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-12 18:45:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Atalanta BC",
@@ -1883,7 +1879,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-13T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-13 13:00:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Lecce",
@@ -1981,7 +1977,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-13T16:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-13 16:00:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "SSC Napoli",
@@ -2009,7 +2005,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-13T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-13 18:45:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Sassuolo Calcio",
@@ -2051,7 +2047,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-14 16:30:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Como 1907",
@@ -2065,7 +2061,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-14T16:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-14 16:30:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Torino FC",
@@ -2079,7 +2075,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-14T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-14 18:45:00Z",
       "matchday": 4,
       "stage": "REGULAR_SEASON",
       "homeTeam": "FC Internazionale Milano",
@@ -2261,7 +2257,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-18T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-18 18:45:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Monza",
@@ -2345,7 +2341,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-19T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-19 13:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Bologna FC 1909",
@@ -2359,7 +2355,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-19T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-19 13:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Udinese Calcio",
@@ -2499,7 +2495,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-19T16:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-19 16:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AS Roma",
@@ -2555,7 +2551,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-19T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-19 18:45:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Venezia FC",
@@ -2639,7 +2635,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T10:30:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 10:30:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ACF Fiorentina",
@@ -2709,7 +2705,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 13:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Frosinone Calcio",
@@ -2723,7 +2719,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T13:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 13:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Parma Calcio 1913",
@@ -2821,7 +2817,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T16:00:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 16:00:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Juventus FC",
@@ -2877,7 +2873,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "TIMED",
+      "status": "2026-09-20 18:45:00Z",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Milan",
