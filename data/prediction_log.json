@@ -986,8 +986,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Porto ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-2"
   },
   "Borussia Dortmund__Villarreal CF__2026-09-08T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -997,8 +997,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-2"
   },
   "Lille OSC__Real Betis Balompié__2026-09-08T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -1008,8 +1008,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Lille OSC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-3"
   },
   "FC Barcelona__Feyenoord Rotterdam__2026-09-09T16:45:00Z": {
     "competition": "Ligue des Champions",
