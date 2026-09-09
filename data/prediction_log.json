@@ -1019,8 +1019,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-1"
   },
   "Liverpool FC__Club Atlético de Madrid__2026-09-09T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -1161,6 +1161,50 @@
     "kickoff": "2026-09-12T13:30:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : 1. FSV Mainz 05 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SC Freiburg__Borussia Mönchengladbach__2026-09-12T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SC Freiburg",
+    "awayTeam": "Borussia Mönchengladbach",
+    "kickoff": "2026-09-12T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SC Freiburg ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Liverpool FC__Fulham FC__2026-09-12T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Liverpool FC",
+    "awayTeam": "Fulham FC",
+    "kickoff": "2026-09-12T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Liverpool FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Aston Villa FC__Nottingham Forest FC__2026-09-12T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Nottingham Forest FC",
+    "kickoff": "2026-09-12T14:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Nottingham Forest FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "AFC Bournemouth__Brentford FC__2026-09-12T14:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "AFC Bournemouth",
+    "awayTeam": "Brentford FC",
+    "kickoff": "2026-09-12T14:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Brentford FC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
