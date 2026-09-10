@@ -1208,5 +1208,82 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "CA Osasuna__RCD Espanyol de Barcelona__2026-09-12T14:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "CA Osasuna",
+    "awayTeam": "RCD Espanyol de Barcelona",
+    "kickoff": "2026-09-12T14:15:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : CA Osasuna ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Tottenham Hotspur FC__Everton FC__2026-09-12T16:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Tottenham Hotspur FC",
+    "awayTeam": "Everton FC",
+    "kickoff": "2026-09-12T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Everton FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Athletic Club__Elche CF__2026-09-12T16:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Elche CF",
+    "kickoff": "2026-09-12T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Athletic Club ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sunderland AFC__Arsenal FC__2026-09-12T19:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Sunderland AFC",
+    "awayTeam": "Arsenal FC",
+    "kickoff": "2026-09-12T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Arsenal FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__Rayo Vallecano de Madrid__2026-09-12T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "Rayo Vallecano de Madrid",
+    "kickoff": "2026-09-12T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "RC Celta de Vigo__Málaga CF__2026-09-13T12:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RC Celta de Vigo",
+    "awayTeam": "Málaga CF",
+    "kickoff": "2026-09-13T12:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RC Celta de Vigo ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Coventry City FC__Brighton & Hove Albion FC__2026-09-13T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Coventry City FC",
+    "awayTeam": "Brighton & Hove Albion FC",
+    "kickoff": "2026-09-13T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
