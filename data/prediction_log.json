@@ -1030,8 +1030,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-1"
   },
   "SSC Napoli__Arsenal FC__2026-09-09T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -1041,8 +1041,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "Como 1907__RB Leipzig__2026-09-10T19:00:00Z": {
     "competition": "Ligue des Champions",
