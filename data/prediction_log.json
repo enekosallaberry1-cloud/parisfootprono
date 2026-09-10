@@ -1285,5 +1285,71 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "RC Strasbourg Alsace__AS Monaco FC__2026-09-12T15:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "RC Strasbourg Alsace",
+    "awayTeam": "AS Monaco FC",
+    "kickoff": "2026-09-12T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : AS Monaco FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SS Lazio__AC Milan__2026-09-12T16:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SS Lazio",
+    "awayTeam": "AC Milan",
+    "kickoff": "2026-09-12T16:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Atalanta BC__Cagliari Calcio__2026-09-12T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Atalanta BC",
+    "awayTeam": "Cagliari Calcio",
+    "kickoff": "2026-09-12T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Atalanta BC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Lorient__Toulouse FC__2026-09-12T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "FC Lorient",
+    "awayTeam": "Toulouse FC",
+    "kickoff": "2026-09-12T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Lorient ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "AJ Auxerre__OGC Nice__2026-09-12T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "AJ Auxerre",
+    "awayTeam": "OGC Nice",
+    "kickoff": "2026-09-12T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : OGC Nice ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Le Havre AC__Angers SCO__2026-09-12T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Le Havre AC",
+    "awayTeam": "Angers SCO",
+    "kickoff": "2026-09-12T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Angers SCO ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
