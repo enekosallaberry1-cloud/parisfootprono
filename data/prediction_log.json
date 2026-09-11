@@ -1052,8 +1052,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-1"
   },
   "1. FC Union Berlin__FC Schalke 04__2026-09-11T18:30:00Z": {
     "competition": "Bundesliga",
