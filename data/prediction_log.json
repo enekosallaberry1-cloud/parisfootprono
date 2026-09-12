@@ -1129,8 +1129,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : VfB Stuttgart ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Borussia Dortmund__SC Paderborn 07__2026-09-12T13:30:00Z": {
     "competition": "Bundesliga",
@@ -1140,8 +1140,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-0"
   },
   "FC Augsburg__Bayer 04 Leverkusen__2026-09-12T13:30:00Z": {
     "competition": "Bundesliga",
@@ -1151,8 +1151,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Augsburg ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "1. FSV Mainz 05__Eintracht Frankfurt__2026-09-12T13:30:00Z": {
     "competition": "Bundesliga",
@@ -1162,8 +1162,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : 1. FSV Mainz 05 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-3"
   },
   "SC Freiburg__Borussia Mönchengladbach__2026-09-12T13:30:00Z": {
     "competition": "Bundesliga",
@@ -1173,8 +1173,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SC Freiburg ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-0"
   },
   "Liverpool FC__Fulham FC__2026-09-12T14:00:00Z": {
     "competition": "Premier League",
@@ -1184,8 +1184,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "Aston Villa FC__Nottingham Forest FC__2026-09-12T14:00:00Z": {
     "competition": "Premier League",
@@ -1195,8 +1195,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Nottingham Forest FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "AFC Bournemouth__Brentford FC__2026-09-12T14:00:00Z": {
     "competition": "Premier League",
@@ -1206,8 +1206,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Brentford FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "CA Osasuna__RCD Espanyol de Barcelona__2026-09-12T14:15:00Z": {
     "competition": "Liga",
@@ -1217,8 +1217,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : CA Osasuna ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-2"
   },
   "Tottenham Hotspur FC__Everton FC__2026-09-12T16:30:00Z": {
     "competition": "Premier League",
@@ -1228,8 +1228,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Everton FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "Athletic Club__Elche CF__2026-09-12T16:30:00Z": {
     "competition": "Liga",
@@ -1239,8 +1239,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Athletic Club ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Sunderland AFC__Arsenal FC__2026-09-12T19:00:00Z": {
     "competition": "Premier League",
@@ -1294,8 +1294,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : AS Monaco FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "SS Lazio__AC Milan__2026-09-12T16:00:00Z": {
     "competition": "Serie A",
@@ -1305,8 +1305,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Atalanta BC__Cagliari Calcio__2026-09-12T18:45:00Z": {
     "competition": "Serie A",
@@ -1360,8 +1360,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : 1. FC Köln ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "US Lecce__AC Monza__2026-09-13T13:00:00Z": {
     "competition": "Serie A",
@@ -1415,6 +1415,116 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SV 07 Elversberg__FC Bayern München__2026-09-13T15:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SV 07 Elversberg",
+    "awayTeam": "FC Bayern München",
+    "kickoff": "2026-09-13T15:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SV 07 Elversberg ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Getafe CF__RC Deportivo La Coruña__2026-09-13T16:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Getafe CF",
+    "awayTeam": "RC Deportivo La Coruña",
+    "kickoff": "2026-09-13T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "US Sassuolo Calcio__Juventus FC__2026-09-13T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "US Sassuolo Calcio",
+    "awayTeam": "Juventus FC",
+    "kickoff": "2026-09-13T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Juventus FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Stade Brestois 29__Paris Saint-Germain FC__2026-09-13T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Stade Brestois 29",
+    "awayTeam": "Paris Saint-Germain FC",
+    "kickoff": "2026-09-13T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Stade Brestois 29 ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Sociedad de Fútbol__Club Atlético de Madrid__2026-09-13T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Sociedad de Fútbol",
+    "awayTeam": "Club Atlético de Madrid",
+    "kickoff": "2026-09-13T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Sociedad de Fútbol ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Como 1907__Parma Calcio 1913__2026-09-14T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Como 1907",
+    "awayTeam": "Parma Calcio 1913",
+    "kickoff": "2026-09-14T16:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Torino FC__AS Roma__2026-09-14T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Torino FC",
+    "awayTeam": "AS Roma",
+    "kickoff": "2026-09-14T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : AS Roma ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Internazionale Milano__Udinese Calcio__2026-09-14T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "FC Internazionale Milano",
+    "awayTeam": "Udinese Calcio",
+    "kickoff": "2026-09-14T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Internazionale Milano ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Villarreal CF__Real Betis Balompié__2026-09-14T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Villarreal CF",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-09-14T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Rayo Vallecano de Madrid__RCD Espanyol de Barcelona__2026-09-15T17:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Rayo Vallecano de Madrid",
+    "awayTeam": "RCD Espanyol de Barcelona",
+    "kickoff": "2026-09-15T17:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Rayo Vallecano de Madrid ou nul",
+    "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
   }
