@@ -1250,8 +1250,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "Real Madrid CF__Rayo Vallecano de Madrid__2026-09-12T19:00:00Z": {
     "competition": "Liga",
@@ -1261,8 +1261,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-1"
   },
   "RC Celta de Vigo__Málaga CF__2026-09-13T12:00:00Z": {
     "competition": "Liga",
@@ -1316,8 +1316,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Atalanta BC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-2"
   },
   "FC Lorient__Toulouse FC__2026-09-12T18:45:00Z": {
     "competition": "Ligue 1",
@@ -1327,8 +1327,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Lorient ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "AJ Auxerre__OGC Nice__2026-09-12T18:45:00Z": {
     "competition": "Ligue 1",
@@ -1338,8 +1338,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : OGC Nice ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-0"
   },
   "Le Havre AC__Angers SCO__2026-09-12T18:45:00Z": {
     "competition": "Ligue 1",
@@ -1349,8 +1349,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Angers SCO ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "1. FC Köln__SV Werder Bremen__2026-09-12T16:30:00Z": {
     "competition": "Bundesliga",
