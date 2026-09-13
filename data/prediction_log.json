@@ -1404,8 +1404,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-4"
   },
   "Manchester United FC__Manchester City FC__2026-09-13T15:30:00Z": {
     "competition": "Premier League",
@@ -1415,8 +1415,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "SV 07 Elversberg__FC Bayern München__2026-09-13T15:30:00Z": {
     "competition": "Bundesliga",
@@ -1426,8 +1426,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SV 07 Elversberg ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-2"
   },
   "Getafe CF__RC Deportivo La Coruña__2026-09-13T16:30:00Z": {
     "competition": "Liga",
@@ -1437,8 +1437,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "US Sassuolo Calcio__Juventus FC__2026-09-13T18:45:00Z": {
     "competition": "Serie A",
@@ -1657,6 +1657,17 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Málaga CF ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "RCD Espanyol de Barcelona__Elche CF__2026-09-18T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RCD Espanyol de Barcelona",
+    "awayTeam": "Elche CF",
+    "kickoff": "2026-09-18T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : RCD Espanyol de Barcelona ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
