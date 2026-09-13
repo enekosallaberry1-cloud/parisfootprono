@@ -1527,5 +1527,49 @@
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
+  },
+  "FC Bayern München__1. FC Union Berlin__2026-09-18T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "FC Bayern München",
+    "awayTeam": "1. FC Union Berlin",
+    "kickoff": "2026-09-18T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AC Monza__US Sassuolo Calcio__2026-09-18T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "AC Monza",
+    "awayTeam": "US Sassuolo Calcio",
+    "kickoff": "2026-09-18T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : US Sassuolo Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AS Monaco FC__Racing Club de Lens__2026-09-18T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "AS Monaco FC",
+    "awayTeam": "Racing Club de Lens",
+    "kickoff": "2026-09-18T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : AS Monaco FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Brentford FC__Chelsea FC__2026-09-18T19:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Brentford FC",
+    "awayTeam": "Chelsea FC",
+    "kickoff": "2026-09-18T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Brentford FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
