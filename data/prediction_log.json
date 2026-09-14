@@ -1481,8 +1481,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-1"
   },
   "Torino FC__AS Roma__2026-09-14T16:30:00Z": {
     "competition": "Serie A",
@@ -1492,8 +1492,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : AS Roma ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "FC Internazionale Milano__Udinese Calcio__2026-09-14T18:45:00Z": {
     "competition": "Serie A",
@@ -1503,8 +1503,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Internazionale Milano ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-3"
   },
   "Villarreal CF__Real Betis Balompié__2026-09-14T19:00:00Z": {
     "competition": "Liga",
@@ -1514,8 +1514,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Betis Balompié ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "Rayo Vallecano de Madrid__RCD Espanyol de Barcelona__2026-09-15T17:00:00Z": {
     "competition": "Liga",
@@ -1667,6 +1667,50 @@
     "kickoff": "2026-09-18T19:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : RCD Espanyol de Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "CA Osasuna__Rayo Vallecano de Madrid__2026-09-19T12:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "CA Osasuna",
+    "awayTeam": "Rayo Vallecano de Madrid",
+    "kickoff": "2026-09-19T12:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : CA Osasuna ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Udinese Calcio__Cagliari Calcio__2026-09-19T13:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Udinese Calcio",
+    "awayTeam": "Cagliari Calcio",
+    "kickoff": "2026-09-19T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Cagliari Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Hamburger SV__1. FC Köln__2026-09-19T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Hamburger SV",
+    "awayTeam": "1. FC Köln",
+    "kickoff": "2026-09-19T13:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : 1. FC Köln ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Borussia Mönchengladbach__1. FSV Mainz 05__2026-09-19T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Borussia Mönchengladbach",
+    "awayTeam": "1. FSV Mainz 05",
+    "kickoff": "2026-09-19T13:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : 1. FSV Mainz 05 ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
