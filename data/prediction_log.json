@@ -1635,8 +1635,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "7-2"
   },
   "Real Betis Balompié__Getafe CF__2026-09-17T17:00:00Z": {
     "competition": "Liga",
