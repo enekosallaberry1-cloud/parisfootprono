@@ -1802,5 +1802,27 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "VfB Stuttgart__Borussia Dortmund__2026-09-19T16:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "Borussia Dortmund",
+    "kickoff": "2026-09-19T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Borussia Dortmund ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Venezia FC__SS Lazio__2026-09-19T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Venezia FC",
+    "awayTeam": "SS Lazio",
+    "kickoff": "2026-09-19T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
