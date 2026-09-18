@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T11:04:01.215670+00:00",
+  "generated_at": "2026-09-18T16:19:07.536375+00:00",
   "date_from": "2026-09-15",
   "date_to": "2026-10-09",
-  "count": 60,
+  "count": 59,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -45,20 +45,6 @@
       "awayCrest": "https://crests.football-data.org/86.png",
       "homeScore": 2,
       "awayScore": 3,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-09-16T00:00:00Z",
-      "status": "POSTPONED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Levante UD",
-      "homeCrest": "https://crests.football-data.org/88.png",
-      "awayTeam": "Athletic Club",
-      "awayCrest": "https://crests.football-data.org/77.png",
-      "homeScore": 0,
-      "awayScore": 0,
       "analysis": null
     },
     {
