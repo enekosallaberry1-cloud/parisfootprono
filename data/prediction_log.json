@@ -2066,5 +2066,16 @@
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
+  },
+  "Borussia Dortmund__SV Werder Bremen__2026-10-09T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Borussia Dortmund",
+    "awayTeam": "SV Werder Bremen",
+    "kickoff": "2026-10-09T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Borussia Dortmund ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }

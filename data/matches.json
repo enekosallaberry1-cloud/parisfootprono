@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T04:22:37.514616+00:00",
+  "generated_at": "2026-09-20T11:10:19.405143+00:00",
   "date_from": "2026-09-17",
   "date_to": "2026-10-11",
   "count": 94,
@@ -428,97 +428,16 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T10:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "ACF Fiorentina",
       "homeCrest": "https://crests.football-data.org/99.png",
       "awayTeam": "SSC Napoli",
       "awayCrest": "https://crests.football-data.org/113.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 3.75,
-          "goals_for": 6.25,
-          "goals_against": 13.75,
-          "goals_for_avg": 1.25,
-          "goals_against_avg": 2.75,
-          "matches_counted": 4,
-          "results": [
-            "D",
-            "D",
-            "D",
-            "V"
-          ],
-          "last_match_date": "2026-09-11T18:45:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 6.0,
-          "goals_for": 6.0,
-          "goals_against": 6.0,
-          "goals_for_avg": 1.2,
-          "goals_against_avg": 1.2,
-          "matches_counted": 5,
-          "results": [
-            "V",
-            "D",
-            "D",
-            "D",
-            "V"
-          ],
-          "last_match_date": "2026-09-13T16:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 15.5,
-          "draw_pct": 18.9,
-          "away_win_pct": 65.6,
-          "over_2_5_pct": 63.0,
-          "btts_pct": 56.5,
-          "lambda_home": 1.0,
-          "lambda_away": 2.25
-        },
-        "suggested_pick": "Double chance : SSC Napoli ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "away",
-        "score_diff": -4.5,
-        "rest_days_home": 8,
-        "rest_days_away": 6,
-        "fatigue_home": "fraîche",
-        "fatigue_away": null,
-        "letdown_home": true,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.5,
-          "avg_goals_against": 2.5
-        },
-        "away_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 0.5,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 1.5
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (16e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (10e place actuelle)"
-      }
+      "homeScore": 0,
+      "awayScore": 0,
+      "analysis": null
     },
     {
       "competition": "Liga",
@@ -991,7 +910,7 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (7e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
         "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
       }
     },
@@ -1744,7 +1663,7 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (8e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (9e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (11e place actuelle)"
       }
     },
@@ -2122,7 +2041,7 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (7e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
       }
     },
@@ -2329,7 +2248,88 @@
       "awayCrest": "https://crests.football-data.org/12.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 15.0,
+          "goals_for": 12.0,
+          "goals_against": 4.0,
+          "goals_for_avg": 2.4,
+          "goals_against_avg": 0.8,
+          "matches_counted": 5,
+          "results": [
+            "V",
+            "V",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-09-19T16:30:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Équipe dominante, efficace et solide"
+        },
+        "away_form": {
+          "points": 8.75,
+          "goals_for": 10.0,
+          "goals_against": 10.0,
+          "goals_for_avg": 2.0,
+          "goals_against_avg": 2.0,
+          "matches_counted": 4,
+          "results": [
+            "D",
+            "V",
+            "N",
+            "V"
+          ],
+          "last_match_date": "2026-09-19T13:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 75.0,
+          "draw_pct": 15.2,
+          "away_win_pct": 9.8,
+          "over_2_5_pct": 66.4,
+          "btts_pct": 52.3,
+          "lambda_home": 2.58,
+          "lambda_away": 0.83
+        },
+        "suggested_pick": "Double chance : Borussia Dortmund ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 11.4,
+        "rest_days_home": 20,
+        "rest_days_away": 20,
+        "fatigue_home": "fraîche",
+        "fatigue_away": "fraîche",
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 3,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 2.67,
+          "avg_goals_against": 0.67
+        },
+        "away_venue_record": {
+          "matches_played": 2,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 2.5
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Course à la Ligue des Champions (1e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
+      }
     },
     {
       "competition": "Ligue 1",
