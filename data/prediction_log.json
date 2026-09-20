@@ -1822,8 +1822,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "RC Celta de Vigo__Real Racing Club de Santander__2026-09-19T16:30:00Z": {
     "competition": "Liga",
@@ -1844,8 +1844,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Angers SCO ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Sevilla FC__FC Barcelona__2026-09-19T19:00:00Z": {
     "competition": "Liga",
@@ -1855,8 +1855,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-3"
   },
   "ACF Fiorentina__SSC Napoli__2026-09-20T10:30:00Z": {
     "competition": "Serie A",
