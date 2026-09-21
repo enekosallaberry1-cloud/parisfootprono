@@ -1,38 +1,10 @@
 {
-  "generated_at": "2026-09-20T20:46:21.109207+00:00",
-  "date_from": "2026-09-17",
-  "date_to": "2026-10-11",
-  "count": 94,
+  "generated_at": "2026-09-21T04:19:45.526291+00:00",
+  "date_from": "2026-09-18",
+  "date_to": "2026-10-12",
+  "count": 96,
   "deep_analysis_count": 20,
   "matches": [
-    {
-      "competition": "Liga",
-      "utcDate": "2026-09-17T17:00:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Real Betis Balompié",
-      "homeCrest": "https://crests.football-data.org/90.png",
-      "awayTeam": "Getafe CF",
-      "awayCrest": "https://crests.football-data.org/82.png",
-      "homeScore": 1,
-      "awayScore": 0,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-09-17T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 6,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Málaga CF",
-      "homeCrest": "https://crests.football-data.org/84.png",
-      "awayTeam": "Villarreal CF",
-      "awayCrest": "https://crests.football-data.org/94.png",
-      "homeScore": 1,
-      "awayScore": 3,
-      "analysis": null
-    },
     {
       "competition": "Bundesliga",
       "utcDate": "2026-09-18T18:30:00Z",
@@ -666,7 +638,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "AC Milan",
@@ -680,7 +652,7 @@
     {
       "competition": "Ligue 1",
       "utcDate": "2026-09-20T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 5,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique de Marseille",
@@ -694,15 +666,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-09-20T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Valencia CF",
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayTeam": "Real Sociedad de Fútbol",
       "awayCrest": "https://crests.football-data.org/92.png",
-      "homeScore": 1,
-      "awayScore": 1,
+      "homeScore": 2,
+      "awayScore": 3,
       "analysis": null
     },
     {
@@ -1180,8 +1152,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (12e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (10e place actuelle)"
       }
     },
     {
@@ -2613,7 +2585,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Course à la Ligue des Champions (1e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (10e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (11e place actuelle)"
       }
     },
     {
@@ -2948,6 +2920,62 @@
       "homeCrest": "https://crests.football-data.org/5335.png",
       "awayTeam": "Valencia CF",
       "awayCrest": "https://crests.football-data.org/95.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-12T16:30:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Atalanta BC",
+      "homeCrest": "https://crests.football-data.org/102.png",
+      "awayTeam": "Venezia FC",
+      "awayCrest": "https://crests.football-data.org/454.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-12T18:45:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Torino FC",
+      "homeCrest": "https://crests.football-data.org/586.png",
+      "awayTeam": "Udinese Calcio",
+      "awayCrest": "https://crests.football-data.org/115.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Premier League",
+      "utcDate": "2026-10-12T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 6,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Coventry City FC",
+      "homeCrest": "https://crests.football-data.org/1076.png",
+      "awayTeam": "Newcastle United FC",
+      "awayCrest": "https://crests.football-data.org/67.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-10-12T19:00:00Z",
+      "status": "TIMED",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Levante UD",
+      "homeCrest": "https://crests.football-data.org/88.png",
+      "awayTeam": "Sevilla FC",
+      "awayCrest": "https://crests.football-data.org/559.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
