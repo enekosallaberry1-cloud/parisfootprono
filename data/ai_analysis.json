@@ -1,4 +1,105 @@
 {
-  "generated_at": "2026-09-28T16:10:59.662695+00:00",
-  "analyses": {}
+  "generated_at": "2026-10-05T16:35:30.610553+00:00",
+  "analyses": {
+    "Borussia Dortmund__SV Werder Bremen__2026-10-09T18:30:00Z": {
+      "pick": "Double chance Borussia Dortmund ou nul",
+      "confidence": "Élevée",
+      "analysis": "Dortmund en forme exceptionnelle à domicile (5 victoires consécutives, 2,4 buts/match, défense solide à 0,8 encaissés). Bremen en transition offensive (2,0 buts/match) mais défense très fragile (2,0 encaissés). Le modèle Poisson donne 75% au favori. Malgré le risque de relâchement (letdown effect mentionné), la domination récente de Dortmund et l'avantage du terrain justifient une double chance prudente plutôt qu'une victoire sèche."
+    },
+    "Racing Club de Lens__Olympique Lyonnais__2026-10-09T18:45:00Z": {
+      "pick": "Double chance Olympique Lyonnais ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Lyon domine clairement en forme extérieure (11 pts en 5 matchs, défense imperméable à 0,4 buts/match) tandis que Lens stagne (5,83 pts, beaucoup de buts encaissés). Probabilities du modèle strictement équilibrées (36,5% chacun), mais Lyon's 2e place et série invincibilité loin (2 matchs) penche légèrement en sa faveur. Match prévisible par le BTTS (50,9%) suggère de ne pas exclure le nul."
+    },
+    "Málaga CF__RCD Espanyol de Barcelona__2026-10-09T19:00:00Z": {
+      "pick": "Double chance RCD Espanyol de Barcelona ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Málaga en crise (2,14 pts, 0,43 buts/match, 8e contre-attaque en Liga). Espanyol plus stable (5,0 pts, équilibré). Le modèle donne 44,2% à l'Espanyol vs 28,1% au favori, avec 27,7% de nul probable. Espanyol's invincibilité récente (1 match) et contexte de lutte pour le maintien de Málaga suggèrent une double chance prudente sur l'Espanyol."
+    },
+    "Arsenal FC__Leeds United FC__2026-10-10T11:30:00Z": {
+      "pick": "Double chance Arsenal ou nul",
+      "confidence": "Élevée",
+      "analysis": "Arsenal dominant à domicile (12,5 pts, 1,5 buts/match, solide défense à 0,67). Leeds plus mitigé (9,0 pts, équilibré). Le modèle Poisson donne 55,1% à Arsenal. Arsenal invincible à domicile (2 matchs, 2,5 buts/match), Leeds aussi en déplacement (2 matchs). La double chance limite le risque face à une équipe compétitive."
+    },
+    "Rayo Vallecano de Madrid__Athletic Club__2026-10-10T12:00:00Z": {
+      "pick": "Double chance Rayo Vallecano ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Rayo défense fragile à domicile (2,29 encaissés/match) mais invincible en 3 matchs récents. Athletic profil équilibré (1,17 buts, 1,0 encaissés). Probabilities du modèle : 44,9% Rayo, 29,5% Athletic. BTTS à 53,5% suggère un match ouvert. L'invincibilité locale de Rayo et sa tendance offensive justifient la double chance plutôt que de parier sur la victoire."
+    },
+    "Genoa CFC__ACF Fiorentina__2026-10-10T13:00:00Z": {
+      "pick": "Double chance ACF Fiorentina ou BTTS",
+      "confidence": "Moyenne",
+      "analysis": "Genoa en débâcle (1,0 pt, défense en ruine à 2,0 encaissés/match). Fiorentina aussi défaillante (4,0 pts, 2,4 encaissés). Le modèle donne 46,1% à Fiorentina, mais BTTS à 74,4% et Over 2,5 à 76,2% dominent l'analyse. Match imprévisible attendu très ouvert ; la double chance sur Fiorentina ou le BTTS sont les meilleures options."
+    },
+    "1. FSV Mainz 05__Bayer 04 Leverkusen__2026-10-10T13:30:00Z": {
+      "pick": "Double chance Bayer 04 Leverkusen ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Mainz et Leverkusen équilibrés en récente (Mainz 8,75 pts, Leverkusen 8,75 pts). Le modèle donne 43,8% à Leverkusen vs 33,2% à Mainz. Mainz avec letdown effect possible après une victoire récente en déplacement. Over 2,5 à 63,0% et BTTS à 64,2% indiquent un match ouvert. Double chance sur Leverkusen prudente."
+    },
+    "SC Paderborn 07__VfB Stuttgart__2026-10-10T13:30:00Z": {
+      "pick": "Double chance SC Paderborn ou nul",
+      "confidence": "Élevée",
+      "analysis": "Paderborn dominant à domicile (5,0 pts, mais invincible 1 match récent). Stuttgart défense fragile (2,0 encaissés/match, 0 invincibilité en déplacement). Le modèle Poisson donne 70,0% à Paderborn. Over 2,5 à 67,9% attend un match offensif. L'avantage du terrain local et la fragilité défensive de Stuttgart justifient une confiance élevée."
+    },
+    "1. FC Union Berlin__SV 07 Elversberg__2026-10-10T13:30:00Z": {
+      "pick": "Double chance SV 07 Elversberg ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Union Berlin en faillite défensive (1,25 pts, 4,25 encaissés/match). Elversberg en forme (8,75 pts, 2,0 buts/match, invincible 2 matchs en déplacement). Le modèle donne 54,3% à Elversberg. Over 2,5 à 79,6% et BTTS à 75,8% confirment un match hautement ouvert. Elversberg favori réel malgré les probabilities modérées."
+    },
+    "TSG 1899 Hoffenheim__Hamburger SV__2026-10-10T13:30:00Z": {
+      "pick": "Double chance TSG 1899 Hoffenheim ou nul",
+      "confidence": "Élevée",
+      "analysis": "Hoffenheim (3,75 pts) mais invincible à domicile (1 match). Hambourg en débâcle (3,75 pts, 3,25 encaissés/match, 0 invincibilité en déplacement). Le modèle donne 73,9% à Hoffenheim. Over 2,5 à 72,2% confirme un match offensif. L'avantage du terrain et la fragilité de Hambourg justifient une confiance élevée sur la double chance."
+    },
+    "FC Augsburg__FC Bayern München__2026-10-10T13:30:00Z": {
+      "pick": "Double chance FC Bayern München ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Bayern en excellence (13,0 pts, 3,8 buts/match, défense imperméable à 0,4). Augsburg compétitif (8,75 pts, 2,75 buts/match). Probabilities du modèle équilibrées entre favori (48,8%) et Bayern (25,2%), suggérant un match plus serré que prévu. Over 2,5 à 45,6% seulement. Double chance prudente face à Bayern's qualité malgré l'avantage local d'Augsburg."
+    },
+    "Sunderland AFC__Brighton & Hove Albion FC__2026-10-10T14:00:00Z": {
+      "pick": "Double chance Brighton & Hove Albion ou nul",
+      "confidence": "Élevée",
+      "analysis": "Brighton dominante en déplacement (10,0 pts, 3,2 buts/match, équipe efficace). Sunderland fragile à domicile (4,0 pts, défense à 2,0 encaissés/match). Le modèle donne 64,6% à Brighton. Over 2,5 à 72,3% et BTTS à 65,5% confirment un match ouvert. Brighton invincible en 2 matchs récents en déplacement. Double chance Brighton justifiée par la domination."
+    },
+    "Chelsea FC__AFC Bournemouth__2026-10-10T14:00:00Z": {
+      "pick": "Double chance Chelsea ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Chelsea (7,0 pts, 2,0 buts/match) vs Bournemouth (3,0 pts, stagnant). Probabilities du modèle : 49,5% Chelsea, 31,5% Bournemouth. Over 2,5 à 82,6% et BTTS à 79,4% dominent fortement ; match très offensif attendu. Chelsea invincible à domicile (2 matchs). BTTS ou Over 2,5 sont les meilleurs paris complémentaires à la double chance."
+    },
+    "Ipswich Town FC__Fulham FC__2026-10-10T14:00:00Z": {
+      "pick": "Double chance Ipswich ou nul",
+      "confidence": "Faible",
+      "analysis": "Ipswich (6,0 pts, défense friable à 2,2 encaissés/match) vs Fulham (2,0 pts, stagnant). Probabilities strictement équilibrées (31,6% chacun) avec 36,7% de nul. Over 2,5 seulement à 19,1% suggère un match fermé et peu prévisible. Les deux équipes en difficulté ; aucune supériorité claire. Double chance prudente avec confiance faible."
+    },
+    "Aston Villa FC__Brentford FC__2026-10-10T14:00:00Z": {
+      "pick": "Double chance Brentford FC ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Brentford domine (9,0 pts, 2,0 buts/match, équipe solide) en déplacement. Aston Villa fragile à domicile (5,83 pts, défense à 1,83 encaissés/match, 0 invincibilité récente). Le modèle donne 48,8% à Brentford. Brentford invincible 2 matchs en déplacement. Villa avec letdown effect possible. Double chance Brentford raisonnée."
+    },
+    "Deportivo Alavés__Club Atlético de Madrid__2026-10-10T14:15:00Z": {
+      "pick": "Double chance Deportivo Alavés ou nul",
+      "confidence": "Moyenne",
+      "analysis": "Alavés (7,86 pts, équilibré) vs Atlético (10,0 pts, 2,12 buts/match). Le modèle donne 52,0% à Alavés, 25,4% à Atlético. Alavés invincible 3 matchs à domicile (0,75 encaissés/match). Atlético invincible seulement 1 match en déplacement. BTTS à 60,4% suggère match ouvert. Double chance Alavés justifiée par l'avantage du terrain."
+    },
+    "Lille OSC__Le Havre AC__2026-10-10T15:15:00Z": {
+      "pick": "Double chance Lille ou nul",
+      "confidence": "Élevée",
+      "analysis": "Lille dominant (8,33 pts, 1,67 buts/match, solide à 1,17 encaissés). Le Havre en déclin (2,0 pts, 0,8 buts/match). Le modèle donne 47,6% à Lille, 30,9% au Havre. Lille invincible 2 matchs à domicile (2,0 buts/match). Over 2,5 à 69,5% et BTTS à 68,7% confirment un match ouvert. Double chance Lille avec confiance élevée."
+    },
+    "FC Internazionale Milano__Parma Calcio 1913__2026-10-10T16:00:00Z": {
+      "pick": "Double chance FC Internazionale Milano ou nul",
+      "confidence": "Élevée",
+      "analysis": "Inter dominant (10,83 pts, 2,67 buts/match, invincible 3 matchs à domicile). Parma fragile (4,0 pts, 0,8 buts/match, 0 invincibilité en déplacement). Le modèle donne 72,6% à Inter. Over 2,5 à 79,6% attend un match offensif. Inter en 2e place avec enjeu clair. Double chance très prudente face à l'écrasante supériorité."
+    },
+    "Manchester United FC__Tottenham Hotspur FC__2026-10-10T16:30:00Z": {
+      "pick": "Double chance Manchester United ou nul",
+      "confidence": "Élevée",
+      "analysis": "Manchester United dominant à domicile (6,67 pts, 2,0 buts/match, invincible 2 matchs). Tottenham en déclin (2,0 pts, 0,4 buts/match, 0 invincibilité en déplacement). Le modèle donne 77,4% à United. Over 2,5 seulement à 51,8% suggère un match plus fermé. Double chance sur United très prudente face à la domination évidente."
+    },
+    "FC Barcelona__Getafe CF__2026-10-10T16:30:00Z": {
+      "pick": "Double chance FC Barcelona ou nul",
+      "confidence": "Élevée",
+      "analysis": "Barcelone en excellence absolue (15,0 pts, 4,5 buts/match, leader 1e place, invincible 4 matchs à domicile). Getafe très faible (5,71 pts, 0,57 buts/match, 0 invincibilité en déplacement). Le modèle donne 86,5% à Barcelone. Over 2,5 à 73,5% attend un match très offensif. Barcelone avec letdown effect possible. Double chance fortement prudente."
+    }
+  }
 }
