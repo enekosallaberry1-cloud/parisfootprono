@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T21:16:22.995075+00:00",
-  "date_from": "2026-10-01",
-  "date_to": "2026-10-25",
-  "count": 180,
+  "generated_at": "2026-10-05T05:02:32.634765+00:00",
+  "date_from": "2026-10-02",
+  "date_to": "2026-10-26",
+  "count": 181,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -4152,6 +4152,20 @@
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "https://crests.football-data.org/86.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-10-26T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sevilla FC",
+      "homeCrest": "https://crests.football-data.org/559.png",
+      "awayTeam": "CA Osasuna",
+      "awayCrest": "https://crests.football-data.org/79.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
