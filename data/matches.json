@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T00:06:46.439092+00:00",
-  "date_from": "2026-10-02",
-  "date_to": "2026-10-26",
-  "count": 181,
+  "generated_at": "2026-10-06T05:49:37.208637+00:00",
+  "date_from": "2026-10-03",
+  "date_to": "2026-10-27",
+  "count": 184,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -4166,6 +4166,48 @@
       "homeCrest": "https://crests.football-data.org/559.png",
       "awayTeam": "CA Osasuna",
       "awayCrest": "https://crests.football-data.org/79.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-27T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "US Sassuolo Calcio",
+      "homeCrest": "https://crests.football-data.org/471.png",
+      "awayTeam": "SS Lazio",
+      "awayCrest": "https://crests.football-data.org/110.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-27T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AS Roma",
+      "homeCrest": "https://crests.football-data.org/100.png",
+      "awayTeam": "Cagliari Calcio",
+      "awayCrest": "https://crests.football-data.org/104.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-27T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Torino FC",
+      "homeCrest": "https://crests.football-data.org/586.png",
+      "awayTeam": "Como 1907",
+      "awayCrest": "https://crests.football-data.org/7397.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
