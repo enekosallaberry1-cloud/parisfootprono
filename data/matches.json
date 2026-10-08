@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T23:07:54.578817+00:00",
-  "date_from": "2026-10-04",
-  "date_to": "2026-10-28",
-  "count": 189,
+  "generated_at": "2026-10-08T05:30:29.016394+00:00",
+  "date_from": "2026-10-05",
+  "date_to": "2026-10-29",
+  "count": 191,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -4278,6 +4278,34 @@
       "homeCrest": "https://crests.football-data.org/5911.png",
       "awayTeam": "SSC Napoli",
       "awayCrest": "https://crests.football-data.org/113.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-29T17:30:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Frosinone Calcio",
+      "homeCrest": "https://crests.football-data.org/470.png",
+      "awayTeam": "US Lecce",
+      "awayCrest": "https://crests.football-data.org/5890.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-10-29T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "ACF Fiorentina",
+      "homeCrest": "https://crests.football-data.org/99.png",
+      "awayTeam": "Atalanta BC",
+      "awayCrest": "https://crests.football-data.org/102.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
