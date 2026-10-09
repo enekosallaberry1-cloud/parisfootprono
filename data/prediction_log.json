@@ -2075,8 +2075,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Racing Club de Lens__Olympique Lyonnais__2026-10-09T18:45:00Z": {
     "competition": "Ligue 1",
@@ -2086,8 +2086,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Olympique Lyonnais ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Arsenal FC__Leeds United FC__2026-10-10T11:30:00Z": {
     "competition": "Premier League",
@@ -2228,6 +2228,17 @@
     "kickoff": "2026-10-10T16:30:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : FC Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SSC Napoli__Frosinone Calcio__2026-10-10T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SSC Napoli",
+    "awayTeam": "Frosinone Calcio",
+    "kickoff": "2026-10-10T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
