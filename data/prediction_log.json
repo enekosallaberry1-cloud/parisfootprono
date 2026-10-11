@@ -2429,5 +2429,27 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Levante UD__Sevilla FC__2026-10-12T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Levante UD",
+    "awayTeam": "Sevilla FC",
+    "kickoff": "2026-10-12T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Sevilla FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Racing Club de Lens__Sporting Clube de Portugal__2026-10-13T16:45:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Racing Club de Lens",
+    "awayTeam": "Sporting Clube de Portugal",
+    "kickoff": "2026-10-13T16:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Sporting Clube de Portugal ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
