@@ -2572,5 +2572,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "OGC Nice__RC Strasbourg Alsace__2026-10-11T13:00:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "OGC Nice",
+    "awayTeam": "RC Strasbourg Alsace",
+    "kickoff": "2026-10-11T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : OGC Nice ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
