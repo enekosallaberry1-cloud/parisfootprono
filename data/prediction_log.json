@@ -2416,8 +2416,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Atalanta BC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "Coventry City FC__Newcastle United FC__2026-10-12T19:00:00Z": {
     "competition": "Premier League",
@@ -2427,8 +2427,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Newcastle United FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "4-1"
   },
   "Levante UD__Sevilla FC__2026-10-12T19:00:00Z": {
     "competition": "Liga",
@@ -2438,8 +2438,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Sevilla FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-3"
   },
   "Racing Club de Lens__Sporting Clube de Portugal__2026-10-13T16:45:00Z": {
     "competition": "Ligue des Champions",
@@ -2580,6 +2580,39 @@
     "kickoff": "2026-10-11T13:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : OGC Nice ou nul",
+    "confidence": "Élevée",
+    "status": "correct",
+    "final_score": "2-1"
+  },
+  "FK Shakhtar Donetsk__PAE AEK__2026-10-14T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "FK Shakhtar Donetsk",
+    "awayTeam": "PAE AEK",
+    "kickoff": "2026-10-14T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : PAE AEK ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "ŠK Slovan Bratislava__VfB Stuttgart__2026-10-14T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "ŠK Slovan Bratislava",
+    "awayTeam": "VfB Stuttgart",
+    "kickoff": "2026-10-14T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : VfB Stuttgart ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Frosinone Calcio__US Sassuolo Calcio__2026-10-16T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Frosinone Calcio",
+    "awayTeam": "US Sassuolo Calcio",
+    "kickoff": "2026-10-16T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
