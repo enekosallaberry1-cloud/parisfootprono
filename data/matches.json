@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:41:40.942372+00:00",
+  "generated_at": "2026-10-14T17:03:41.014050+00:00",
   "date_from": "2026-10-11",
   "date_to": "2026-11-04",
   "count": 230,
@@ -498,8 +498,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (27e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (26e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
       }
     },
     {
@@ -594,8 +594,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (33e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (6e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (28e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
       }
     },
     {
@@ -691,7 +691,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Milieu de tableau, enjeu limité (22e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (16e place actuelle)"
       }
     },
     {
@@ -786,8 +786,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (9e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (10e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
       }
     },
     {
@@ -864,7 +864,7 @@
         "surprise_risk": false,
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (36e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
       }
     },
     {
@@ -940,7 +940,7 @@
         "away_venue_record": null,
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (12e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (24e place actuelle)"
       }
     },
@@ -1036,8 +1036,8 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (29e place actuelle)"
+        "stakes_home": "Milieu de tableau, enjeu limité (12e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (30e place actuelle)"
       }
     },
     {
@@ -1180,7 +1180,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (35e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
       }
     },
     {
