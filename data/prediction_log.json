@@ -2614,8 +2614,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Frosinone Calcio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-2"
   },
   "RC Deportivo La Coruña__Levante UD__2026-10-16T19:00:00Z": {
     "competition": "Liga",
@@ -2625,8 +2625,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : RC Deportivo La Coruña ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Everton FC__Chelsea FC__2026-10-17T11:30:00Z": {
     "competition": "Premier League",
