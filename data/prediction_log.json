@@ -2669,8 +2669,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "SV Werder Bremen__SC Paderborn 07__2026-10-17T13:30:00Z": {
     "competition": "Bundesliga",
@@ -2680,8 +2680,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SV Werder Bremen ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Fulham FC__Hull City AFC__2026-10-17T14:00:00Z": {
     "competition": "Premier League",
@@ -2691,8 +2691,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Hull City AFC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-0"
   },
   "Manchester City FC__Ipswich Town FC__2026-10-17T14:00:00Z": {
     "competition": "Premier League",
@@ -2702,8 +2702,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-2"
   },
   "Brentford FC__Liverpool FC__2026-10-17T14:00:00Z": {
     "competition": "Premier League",
@@ -2713,8 +2713,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Brentford FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-2"
   },
   "RC Strasbourg Alsace__Paris Saint-Germain FC__2026-10-17T15:15:00Z": {
     "competition": "Ligue 1",
@@ -2724,8 +2724,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Paris Saint-Germain FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-3"
   },
   "Bologna FC 1909__FC Internazionale Milano__2026-10-17T16:00:00Z": {
     "competition": "Serie A",
@@ -2735,8 +2735,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Internazionale Milano ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-3"
   },
   "Real Betis Balompié__FC Barcelona__2026-10-17T16:30:00Z": {
     "competition": "Liga",
@@ -2746,8 +2746,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-5"
   },
   "Aston Villa FC__Fenerbahçe SK__2026-10-14T19:00:00Z": {
     "competition": "Ligue des Champions",
@@ -2779,8 +2779,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Bayern München ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "6-1"
   },
   "AS Roma__Genoa CFC__2026-10-17T18:45:00Z": {
     "competition": "Serie A",
@@ -2823,6 +2823,171 @@
     "predicted_side": "home",
     "pick_label": "Double chance : CA Osasuna ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Leeds United FC__Manchester United FC__2026-10-18T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Leeds United FC",
+    "awayTeam": "Manchester United FC",
+    "kickoff": "2026-10-18T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Leeds United FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Brighton & Hove Albion FC__Crystal Palace FC__2026-10-18T13:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Brighton & Hove Albion FC",
+    "awayTeam": "Crystal Palace FC",
+    "kickoff": "2026-10-18T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "ACF Fiorentina__Como 1907__2026-10-18T13:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "ACF Fiorentina",
+    "awayTeam": "Como 1907",
+    "kickoff": "2026-10-18T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Angers SCO__Olympique de Marseille__2026-10-18T13:00:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Angers SCO",
+    "awayTeam": "Olympique de Marseille",
+    "kickoff": "2026-10-18T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Angers SCO ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Bayer 04 Leverkusen__SC Freiburg__2026-10-18T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Bayer 04 Leverkusen",
+    "awayTeam": "SC Freiburg",
+    "kickoff": "2026-10-18T13:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SC Freiburg ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Lorient__AS Monaco FC__2026-10-18T15:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "FC Lorient",
+    "awayTeam": "AS Monaco FC",
+    "kickoff": "2026-10-18T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : AS Monaco FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Paris FC__Stade Rennais FC 1901__2026-10-18T15:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Paris FC",
+    "awayTeam": "Stade Rennais FC 1901",
+    "kickoff": "2026-10-18T15:15:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Paris FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Nottingham Forest FC__Arsenal FC__2026-10-18T15:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Nottingham Forest FC",
+    "awayTeam": "Arsenal FC",
+    "kickoff": "2026-10-18T15:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Arsenal FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Borussia Mönchengladbach__TSG 1899 Hoffenheim__2026-10-18T15:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Borussia Mönchengladbach",
+    "awayTeam": "TSG 1899 Hoffenheim",
+    "kickoff": "2026-10-18T15:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : TSG 1899 Hoffenheim ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "AC Milan__Atalanta BC__2026-10-18T16:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "AC Milan",
+    "awayTeam": "Atalanta BC",
+    "kickoff": "2026-10-18T16:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : AC Milan ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Málaga CF__Real Sociedad de Fútbol__2026-10-18T16:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Málaga CF",
+    "awayTeam": "Real Sociedad de Fútbol",
+    "kickoff": "2026-10-18T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Sociedad de Fútbol ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Juventus FC__SS Lazio__2026-10-18T18:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Juventus FC",
+    "awayTeam": "SS Lazio",
+    "kickoff": "2026-10-18T18:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Olympique Lyonnais__OGC Nice__2026-10-18T18:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Olympique Lyonnais",
+    "awayTeam": "OGC Nice",
+    "kickoff": "2026-10-18T18:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Olympique Lyonnais ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__Sevilla FC__2026-10-18T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "Sevilla FC",
+    "kickoff": "2026-10-18T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AC Monza__Cagliari Calcio__2026-10-19T16:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "AC Monza",
+    "awayTeam": "Cagliari Calcio",
+    "kickoff": "2026-10-19T16:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Cagliari Calcio ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
