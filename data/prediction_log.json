@@ -2823,8 +2823,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : CA Osasuna ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Leeds United FC__Manchester United FC__2026-10-18T13:00:00Z": {
     "competition": "Premier League",
@@ -2834,8 +2834,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Leeds United FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Brighton & Hove Albion FC__Crystal Palace FC__2026-10-18T13:00:00Z": {
     "competition": "Premier League",
@@ -2845,8 +2845,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-0"
   },
   "ACF Fiorentina__Como 1907__2026-10-18T13:00:00Z": {
     "competition": "Serie A",
@@ -2856,8 +2856,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-3"
   },
   "Angers SCO__Olympique de Marseille__2026-10-18T13:00:00Z": {
     "competition": "Ligue 1",
@@ -2867,8 +2867,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Angers SCO ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-5"
   },
   "Bayer 04 Leverkusen__SC Freiburg__2026-10-18T13:30:00Z": {
     "competition": "Bundesliga",
@@ -2878,8 +2878,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SC Freiburg ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "FC Lorient__AS Monaco FC__2026-10-18T15:15:00Z": {
     "competition": "Ligue 1",
@@ -2987,6 +2987,116 @@
     "kickoff": "2026-10-19T16:30:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Cagliari Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Getafe CF__Rayo Vallecano de Madrid__2026-10-19T19:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Getafe CF",
+    "awayTeam": "Rayo Vallecano de Madrid",
+    "kickoff": "2026-10-19T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Getafe CF ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Fenerbahçe SK__SK Slavia Praha__2026-10-20T16:45:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Fenerbahçe SK",
+    "awayTeam": "SK Slavia Praha",
+    "kickoff": "2026-10-20T16:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Fenerbahçe SK ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Manchester City FC__PAE AEK__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Manchester City FC",
+    "awayTeam": "PAE AEK",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Manchester City FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Liverpool FC__Villarreal CF__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Liverpool FC",
+    "awayTeam": "Villarreal CF",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Liverpool FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "AS Roma__ŠK Slovan Bratislava__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "AS Roma",
+    "awayTeam": "ŠK Slovan Bratislava",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : AS Roma ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Porto__PSV__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "FC Porto",
+    "awayTeam": "PSV",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Porto ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SSC Napoli__FK Bodø/Glimt__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "SSC Napoli",
+    "awayTeam": "FK Bodø/Glimt",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SSC Napoli ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Paris Saint-Germain FC__FC Barcelona__2026-10-20T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Paris Saint-Germain FC",
+    "awayTeam": "FC Barcelona",
+    "kickoff": "2026-10-20T19:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Como 1907__Manchester United FC__2026-10-21T16:45:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Como 1907",
+    "awayTeam": "Manchester United FC",
+    "kickoff": "2026-10-21T16:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Lille OSC__Galatasaray SK__2026-10-21T16:45:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Lille OSC",
+    "awayTeam": "Galatasaray SK",
+    "kickoff": "2026-10-21T16:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Lille OSC ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
