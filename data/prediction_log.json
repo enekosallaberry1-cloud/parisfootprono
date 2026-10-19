@@ -2988,8 +2988,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Cagliari Calcio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "4-0"
   },
   "Getafe CF__Rayo Vallecano de Madrid__2026-10-19T19:00:00Z": {
     "competition": "Liga",
@@ -2999,8 +2999,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Getafe CF ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Fenerbahçe SK__SK Slavia Praha__2026-10-20T16:45:00Z": {
     "competition": "Ligue des Champions",
@@ -3119,6 +3119,39 @@
     "kickoff": "2026-10-21T19:00:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Aston Villa FC__Viking FK__2026-10-21T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Viking FK",
+    "kickoff": "2026-10-21T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Aston Villa FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sporting Clube de Portugal__LASK Linz__2026-10-21T19:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Sporting Clube de Portugal",
+    "awayTeam": "LASK Linz",
+    "kickoff": "2026-10-21T19:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Sporting Clube de Portugal ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "VfB Stuttgart__Borussia Mönchengladbach__2026-10-23T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "Borussia Mönchengladbach",
+    "kickoff": "2026-10-23T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : VfB Stuttgart ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
