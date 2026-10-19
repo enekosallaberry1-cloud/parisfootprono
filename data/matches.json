@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T20:32:49.022156+00:00",
-  "date_from": "2026-10-15",
-  "date_to": "2026-11-08",
+  "generated_at": "2026-10-19T04:08:26.724809+00:00",
+  "date_from": "2026-10-16",
+  "date_to": "2026-11-09",
   "count": 239,
   "deep_analysis_count": 20,
   "matches": [
@@ -540,15 +540,15 @@
     {
       "competition": "Bundesliga",
       "utcDate": "2026-10-18T15:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 6,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Borussia Mönchengladbach",
       "homeCrest": "https://crests.football-data.org/18.png",
       "awayTeam": "TSG 1899 Hoffenheim",
       "awayCrest": "https://crests.football-data.org/2.png",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "analysis": null
     },
     {
@@ -582,7 +582,7 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-10-18T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Juventus FC",
@@ -590,13 +590,13 @@
       "awayTeam": "SS Lazio",
       "awayCrest": "https://crests.football-data.org/110.png",
       "homeScore": 0,
-      "awayScore": 2,
+      "awayScore": 3,
       "analysis": null
     },
     {
       "competition": "Ligue 1",
       "utcDate": "2026-10-18T18:45:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 7,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Olympique Lyonnais",
@@ -610,15 +610,15 @@
     {
       "competition": "Liga",
       "utcDate": "2026-10-18T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Real Madrid CF",
       "homeCrest": "https://crests.football-data.org/86.png",
       "awayTeam": "Sevilla FC",
       "awayCrest": "https://crests.football-data.org/559.png",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 1,
       "analysis": null
     },
     {
@@ -2151,20 +2151,20 @@
       "analysis": {
         "home_form": {
           "points": 12.0,
-          "goals_for": 12.5,
+          "goals_for": 13.5,
           "goals_against": 6.0,
-          "goals_for_avg": 2.5,
+          "goals_for_avg": 2.7,
           "goals_against_avg": 1.2,
           "matches_counted": 10,
           "results": [
             "V",
-            "V",
             "D",
+            "V",
             "V",
             "V"
           ],
-          "last_match_date": "2026-10-14T19:00:00Z",
-          "last_match_away_win": true,
+          "last_match_date": "2026-10-18T19:00:00Z",
+          "last_match_away_win": false,
           "style_tag": "Profil équilibré"
         },
         "away_form": {
@@ -2192,31 +2192,31 @@
           "draws": 0
         },
         "poisson": {
-          "home_win_pct": 87.2,
-          "draw_pct": 8.7,
-          "away_win_pct": 4.1,
-          "over_2_5_pct": 76.7,
-          "btts_pct": 47.4,
-          "lambda_home": 3.38,
-          "lambda_away": 0.68
+          "home_win_pct": 87.3,
+          "draw_pct": 8.5,
+          "away_win_pct": 4.2,
+          "over_2_5_pct": 78.4,
+          "btts_pct": 49.2,
+          "lambda_home": 3.46,
+          "lambda_away": 0.71
         },
         "suggested_pick": "Double chance : Real Madrid CF ou nul",
         "confidence": "Élevée",
         "predicted_side": "home",
-        "score_diff": 11.9,
-        "rest_days_home": 7,
+        "score_diff": 11.1,
+        "rest_days_home": 3,
         "rest_days_away": 4,
-        "fatigue_home": "fraîche",
+        "fatigue_home": "enchaînement serré",
         "fatigue_away": "repos réduit",
-        "letdown_home": true,
+        "letdown_home": false,
         "letdown_away": false,
         "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 5,
+          "matches_played": 6,
+          "unbeaten_count": 6,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 3.0,
-          "avg_goals_against": 0.6
+          "current_unbeaten_streak": 6,
+          "avg_goals_for": 3.17,
+          "avg_goals_against": 0.67
         },
         "away_venue_record": {
           "matches_played": 4,
