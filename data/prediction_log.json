@@ -3155,5 +3155,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Villarreal CF__Elche CF__2026-10-17T14:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Villarreal CF",
+    "awayTeam": "Elche CF",
+    "kickoff": "2026-10-17T14:15:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Villarreal CF ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
