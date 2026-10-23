@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:29:07.274191+00:00",
+  "generated_at": "2026-10-23T16:57:58.323768+00:00",
   "date_from": "2026-10-20",
   "date_to": "2026-11-13",
   "count": 191,
@@ -2542,20 +2542,6 @@
       "analysis": null
     },
     {
-      "competition": "Ligue 1",
-      "utcDate": "2026-10-25T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 8,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "https://crests.football-data.org/524.png",
-      "awayTeam": "Olympique Lyonnais",
-      "awayCrest": "https://crests.football-data.org/523.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
       "competition": "Liga",
       "utcDate": "2026-10-25T20:00:00Z",
       "status": "TIMED",
@@ -2565,6 +2551,20 @@
       "homeCrest": "https://crests.football-data.org/81.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "https://crests.football-data.org/86.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-10-26T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 8,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Paris Saint-Germain FC",
+      "homeCrest": "https://crests.football-data.org/524.png",
+      "awayTeam": "Olympique Lyonnais",
+      "awayCrest": "https://crests.football-data.org/523.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
