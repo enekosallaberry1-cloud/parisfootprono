@@ -3329,8 +3329,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "SS Lazio__Parma Calcio 1913__2026-10-24T18:45:00Z": {
     "competition": "Serie A",
