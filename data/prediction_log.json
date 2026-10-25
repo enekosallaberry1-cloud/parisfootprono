@@ -3219,8 +3219,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Rayo Vallecano de Madrid__Elche CF__2026-10-24T12:00:00Z": {
     "competition": "Liga",
@@ -3230,8 +3230,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Rayo Vallecano de Madrid ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-3"
   },
   "Cagliari Calcio__Bologna FC 1909__2026-10-24T13:00:00Z": {
     "competition": "Serie A",
@@ -3296,8 +3296,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "SSC Napoli__AS Roma__2026-10-24T16:00:00Z": {
     "competition": "Serie A",
@@ -3318,8 +3318,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Chelsea FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-2"
   },
   "Borussia Dortmund__Eintracht Frankfurt__2026-10-24T16:30:00Z": {
     "competition": "Bundesliga",
@@ -3362,8 +3362,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "FC Internazionale Milano__ACF Fiorentina__2026-10-25T11:30:00Z": {
     "competition": "Serie A",
@@ -3471,6 +3471,17 @@
     "kickoff": "2026-10-25T16:15:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : FC Lorient ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "SC Paderborn 07__Hamburger SV__2026-10-24T13:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SC Paderborn 07",
+    "awayTeam": "Hamburger SV",
+    "kickoff": "2026-10-24T13:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SC Paderborn 07 ou nul",
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
