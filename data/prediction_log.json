@@ -3727,5 +3727,27 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "RC Celta de Vigo__Real Betis Balompié__2026-10-25T15:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "RC Celta de Vigo",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-10-25T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "US Lecce__Juventus FC__2026-10-25T17:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "US Lecce",
+    "awayTeam": "Juventus FC",
+    "kickoff": "2026-10-25T17:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Juventus FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
