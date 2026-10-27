@@ -3593,8 +3593,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-6"
   },
   "AS Roma__Cagliari Calcio__2026-10-27T19:45:00Z": {
     "competition": "Serie A",
@@ -3604,8 +3604,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : AS Roma ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-2"
   },
   "AC Milan__Bologna FC 1909__2026-10-28T17:30:00Z": {
     "competition": "Serie A",
@@ -3749,5 +3749,27 @@
     "confidence": "Moyenne",
     "status": "correct",
     "final_score": "0-2"
+  },
+  "SV Werder Bremen__TSG 1899 Hoffenheim__2026-10-31T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SV Werder Bremen",
+    "awayTeam": "TSG 1899 Hoffenheim",
+    "kickoff": "2026-10-31T14:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SV Werder Bremen ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Bayer 04 Leverkusen__VfB Stuttgart__2026-10-31T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Bayer 04 Leverkusen",
+    "awayTeam": "VfB Stuttgart",
+    "kickoff": "2026-10-31T14:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Bayer 04 Leverkusen ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
