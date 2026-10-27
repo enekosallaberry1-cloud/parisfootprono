@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:02:55.467444+00:00",
+  "generated_at": "2026-10-27T17:57:04.547139+00:00",
   "date_from": "2026-10-24",
   "date_to": "2026-11-17",
   "count": 167,
@@ -610,98 +610,16 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-10-27T17:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Sassuolo Calcio",
       "homeCrest": "https://crests.football-data.org/471.png",
       "awayTeam": "SS Lazio",
       "awayCrest": "https://crests.football-data.org/110.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 5.0,
-          "goals_for": 7.5,
-          "goals_against": 10.0,
-          "goals_for_avg": 1.5,
-          "goals_against_avg": 2.0,
-          "matches_counted": 8,
-          "results": [
-            "V",
-            "D",
-            "N",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-10-24T13:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 13.75,
-          "goals_for": 10.0,
-          "goals_against": 3.1,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 0.62,
-          "matches_counted": 8,
-          "results": [
-            "N",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-10-24T18:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 25.7,
-          "draw_pct": 24.3,
-          "away_win_pct": 50.0,
-          "over_2_5_pct": 52.8,
-          "btts_pct": 54.8,
-          "lambda_home": 1.12,
-          "lambda_away": 1.67
-        },
-        "suggested_pick": "Double chance : SS Lazio ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -9.7,
-        "rest_days_home": 3,
-        "rest_days_away": 2,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 3,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 1.33
-        },
-        "away_venue_record": {
-          "matches_played": 4,
-          "unbeaten_count": 4,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 4,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 0.25
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
-      }
+      "homeScore": 0,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Serie A",
@@ -988,7 +906,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Course à la Ligue des Champions (4e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (14e place actuelle)"
       }
     },
     {
@@ -1084,7 +1002,7 @@
         "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (20e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
+        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
       }
     },
     {
@@ -1468,7 +1386,7 @@
         "surprise_risk": false,
         "true_home_advantage": "home",
         "stakes_home": "Zone Europe / Europa League (6e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
+        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
       }
     },
     {
@@ -1661,6 +1579,102 @@
         "true_home_advantage": "home",
         "stakes_home": "Lutte pour le maintien (18e place actuelle)",
         "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
+      }
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-10-30T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "OGC Nice",
+      "homeCrest": "https://crests.football-data.org/522.png",
+      "awayTeam": "Stade Rennais FC 1901",
+      "awayCrest": "https://crests.football-data.org/529.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": {
+        "home_form": {
+          "points": 6.88,
+          "goals_for": 5.0,
+          "goals_against": 6.25,
+          "goals_for_avg": 1.0,
+          "goals_against_avg": 1.25,
+          "matches_counted": 8,
+          "results": [
+            "D",
+            "V",
+            "V",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-10-23T18:45:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 10.0,
+          "goals_for": 11.25,
+          "goals_against": 8.75,
+          "goals_for_avg": 2.25,
+          "goals_against_avg": 1.75,
+          "matches_counted": 8,
+          "results": [
+            "V",
+            "D",
+            "V",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-10-25T16:15:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 58.3,
+          "draw_pct": 20.6,
+          "away_win_pct": 21.1,
+          "over_2_5_pct": 64.7,
+          "btts_pct": 61.8,
+          "lambda_home": 2.12,
+          "lambda_away": 1.21
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": -0.6,
+        "rest_days_home": 6,
+        "rest_days_away": 5,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 4,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 4,
+          "avg_goals_for": 1.25,
+          "avg_goals_against": 0.75
+        },
+        "away_venue_record": {
+          "matches_played": 3,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.33,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.67,
+          "avg_goals_against": 3.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (10e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
       }
     },
     {
@@ -2235,7 +2249,7 @@
         },
         "surprise_risk": true,
         "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
+        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
       }
     },
@@ -2640,20 +2654,6 @@
       "analysis": null
     },
     {
-      "competition": "Ligue 1",
-      "utcDate": "2026-10-31T16:15:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "OGC Nice",
-      "homeCrest": "https://crests.football-data.org/522.png",
-      "awayTeam": "Stade Rennais FC 1901",
-      "awayCrest": "https://crests.football-data.org/529.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
       "competition": "Serie A",
       "utcDate": "2026-10-31T17:00:00Z",
       "status": "TIMED",
@@ -2719,34 +2719,6 @@
       "homeCrest": "https://crests.football-data.org/98.png",
       "awayTeam": "FC Internazionale Milano",
       "awayCrest": "https://crests.football-data.org/108.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Olympique Lyonnais",
-      "homeCrest": "https://crests.football-data.org/523.png",
-      "awayTeam": "Angers SCO",
-      "awayCrest": "https://crests.football-data.org/532.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-10-31T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 9,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Lorient",
-      "homeCrest": "https://crests.football-data.org/525.png",
-      "awayTeam": "Stade Brestois 29",
-      "awayCrest": "https://crests.football-data.org/512.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
@@ -2897,6 +2869,20 @@
       "status": "TIMED",
       "matchday": 9,
       "stage": "REGULAR_SEASON",
+      "homeTeam": "Olympique Lyonnais",
+      "homeCrest": "https://crests.football-data.org/523.png",
+      "awayTeam": "Angers SCO",
+      "awayCrest": "https://crests.football-data.org/532.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-11-01T16:15:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
       "homeTeam": "Paris FC",
       "homeCrest": "https://crests.football-data.org/1045.png",
       "awayTeam": "AS Monaco FC",
@@ -3027,6 +3013,20 @@
       "homeCrest": "https://crests.football-data.org/102.png",
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "https://crests.football-data.org/112.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-11-02T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 9,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Lorient",
+      "homeCrest": "https://crests.football-data.org/525.png",
+      "awayTeam": "Stade Brestois 29",
+      "awayCrest": "https://crests.football-data.org/512.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
