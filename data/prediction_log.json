@@ -3692,8 +3692,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Chelsea FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Levante UD__Club Atlético de Madrid__2026-10-31T13:00:00Z": {
     "competition": "Liga",
@@ -3703,8 +3703,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "Bologna FC 1909__AC Monza__2026-10-31T14:00:00Z": {
     "competition": "Serie A",
@@ -3714,8 +3714,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Bologna FC 1909 ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-1"
   },
   "Borussia Mönchengladbach__SC Paderborn 07__2026-10-31T14:30:00Z": {
     "competition": "Bundesliga",
@@ -3780,8 +3780,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-1"
   },
   "Coventry City FC__Sunderland AFC__2026-10-31T15:00:00Z": {
     "competition": "Premier League",
@@ -3813,8 +3813,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Brentford FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Udinese Calcio__AS Roma__2026-10-31T17:00:00Z": {
     "competition": "Serie A",
@@ -3857,6 +3857,72 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Bayern München ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Aston Villa FC__Fulham FC__2026-10-31T20:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Aston Villa FC",
+    "awayTeam": "Fulham FC",
+    "kickoff": "2026-10-31T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Aston Villa FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Barcelona__Deportivo Alavés__2026-10-31T20:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "FC Barcelona",
+    "awayTeam": "Deportivo Alavés",
+    "kickoff": "2026-10-31T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Barcelona ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Como 1907__Venezia FC__2026-11-01T11:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Como 1907",
+    "awayTeam": "Venezia FC",
+    "kickoff": "2026-11-01T11:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Frosinone Calcio__Torino FC__2026-11-01T14:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Frosinone Calcio",
+    "awayTeam": "Torino FC",
+    "kickoff": "2026-11-01T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "SS Lazio__Cagliari Calcio__2026-11-01T14:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SS Lazio",
+    "awayTeam": "Cagliari Calcio",
+    "kickoff": "2026-11-01T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Racing Club de Santander__Real Madrid CF__2026-11-01T15:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Racing Club de Santander",
+    "awayTeam": "Real Madrid CF",
+    "kickoff": "2026-11-01T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
