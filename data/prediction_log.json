@@ -3868,8 +3868,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Aston Villa FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "FC Barcelona__Deportivo Alavés__2026-10-31T20:00:00Z": {
     "competition": "Liga",
@@ -3879,8 +3879,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "6-1"
   },
   "Como 1907__Venezia FC__2026-11-01T11:30:00Z": {
     "competition": "Serie A",
