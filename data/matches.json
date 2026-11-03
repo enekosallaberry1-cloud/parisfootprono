@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:58:25.202172+00:00",
+  "generated_at": "2026-11-03T14:05:09.472210+00:00",
   "date_from": "2026-10-31",
   "date_to": "2026-11-24",
   "count": 166,
@@ -540,194 +540,30 @@
     {
       "competition": "Serie A",
       "utcDate": "2026-11-02T17:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "homeTeam": "US Sassuolo Calcio",
       "homeCrest": "https://crests.football-data.org/471.png",
       "awayTeam": "ACF Fiorentina",
       "awayCrest": "https://crests.football-data.org/99.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 4.0,
-          "goals_for": 8.0,
-          "goals_against": 13.0,
-          "goals_for_avg": 1.6,
-          "goals_against_avg": 2.6,
-          "matches_counted": 10,
-          "results": [
-            "N",
-            "D",
-            "D",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-11-02T17:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 4.0,
-          "goals_for": 7.5,
-          "goals_against": 11.5,
-          "goals_for_avg": 1.5,
-          "goals_against_avg": 2.3,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "D",
-            "D",
-            "N",
-            "V"
-          ],
-          "last_match_date": "2026-11-02T17:30:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 36.8,
-          "draw_pct": 19.1,
-          "away_win_pct": 44.0,
-          "over_2_5_pct": 83.7,
-          "btts_pct": 80.8,
-          "lambda_home": 2.2,
-          "lambda_away": 2.4
-        },
-        "suggested_pick": "Double chance : US Sassuolo Calcio ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "home",
-        "score_diff": 3.2,
-        "rest_days_home": 0,
-        "rest_days_away": 0,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": true,
-        "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 0.6,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 2.8
-        },
-        "away_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 2,
-          "unbeaten_rate": 0.4,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 2.4
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (17e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (16e place actuelle)"
-      }
+      "homeScore": 2,
+      "awayScore": 4,
+      "analysis": null
     },
     {
       "competition": "Serie A",
       "utcDate": "2026-11-02T19:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 10,
       "stage": "REGULAR_SEASON",
       "homeTeam": "Atalanta BC",
       "homeCrest": "https://crests.football-data.org/102.png",
       "awayTeam": "Parma Calcio 1913",
       "awayCrest": "https://crests.football-data.org/112.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 5.5,
-          "goals_for": 8.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 1.6,
-          "goals_against_avg": 2.0,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "D",
-            "N",
-            "N",
-            "D"
-          ],
-          "last_match_date": "2026-11-02T19:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 4.0,
-          "goals_for": 4.0,
-          "goals_against": 7.5,
-          "goals_for_avg": 0.8,
-          "goals_against_avg": 1.5,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "D",
-            "D",
-            "N",
-            "V"
-          ],
-          "last_match_date": "2026-11-02T19:45:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 47.0,
-          "draw_pct": 22.8,
-          "away_win_pct": 30.1,
-          "over_2_5_pct": 62.6,
-          "btts_pct": 63.4,
-          "lambda_home": 1.81,
-          "lambda_away": 1.42
-        },
-        "suggested_pick": "Double chance : Atalanta BC ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "home",
-        "score_diff": 6.2,
-        "rest_days_home": 0,
-        "rest_days_away": 0,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": true,
-        "home_venue_record": {
-          "matches_played": 6,
-          "unbeaten_count": 4,
-          "unbeaten_rate": 0.67,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 1.83,
-          "avg_goals_against": 1.83
-        },
-        "away_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 0.2,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.0,
-          "avg_goals_against": 1.8
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (13e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (15e place actuelle)"
-      }
+      "homeScore": 0,
+      "awayScore": 3,
+      "analysis": null
     },
     {
       "competition": "Ligue 1",
@@ -2489,7 +2325,89 @@
       "awayCrest": "https://crests.football-data.org/18.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 5.62,
+          "goals_for": 4.4,
+          "goals_against": 11.9,
+          "goals_for_avg": 0.88,
+          "goals_against_avg": 2.38,
+          "matches_counted": 8,
+          "results": [
+            "V",
+            "V",
+            "V",
+            "D",
+            "D"
+          ],
+          "last_match_date": "2026-11-01T16:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "away_form": {
+          "points": 2.5,
+          "goals_for": 6.9,
+          "goals_against": 13.75,
+          "goals_for_avg": 1.38,
+          "goals_against_avg": 2.75,
+          "matches_counted": 8,
+          "results": [
+            "D",
+            "D",
+            "D",
+            "V",
+            "N"
+          ],
+          "last_match_date": "2026-10-31T14:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 49.3,
+          "draw_pct": 21.6,
+          "away_win_pct": 29.0,
+          "over_2_5_pct": 67.9,
+          "btts_pct": 67.2,
+          "lambda_home": 2.0,
+          "lambda_away": 1.5
+        },
+        "suggested_pick": "Double chance : Hamburger SV ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 6.3,
+        "rest_days_home": 5,
+        "rest_days_away": 6,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 3,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.67,
+          "current_unbeaten_streak": 2,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 2.0
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.25,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 3.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
+        "stakes_away": "Lutte pour le maintien (18e place actuelle)"
+      }
     },
     {
       "competition": "Serie A",
@@ -2503,7 +2421,89 @@
       "awayCrest": "https://crests.football-data.org/115.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 1.5,
+          "goals_for": 3.0,
+          "goals_against": 10.0,
+          "goals_for_avg": 0.6,
+          "goals_against_avg": 2.0,
+          "matches_counted": 10,
+          "results": [
+            "D",
+            "V",
+            "D",
+            "D",
+            "D"
+          ],
+          "last_match_date": "2026-11-01T11:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "away_form": {
+          "points": 2.5,
+          "goals_for": 5.5,
+          "goals_against": 11.5,
+          "goals_for_avg": 1.1,
+          "goals_against_avg": 2.3,
+          "matches_counted": 10,
+          "results": [
+            "D",
+            "D",
+            "D",
+            "N",
+            "D"
+          ],
+          "last_match_date": "2026-10-31T17:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 29.4,
+          "draw_pct": 22.4,
+          "away_win_pct": 48.2,
+          "over_2_5_pct": 64.1,
+          "btts_pct": 64.3,
+          "lambda_home": 1.43,
+          "lambda_away": 1.88
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": -0.4,
+        "rest_days_home": 5,
+        "rest_days_away": 6,
+        "fatigue_home": null,
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.2,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 0.6,
+          "avg_goals_against": 2.0
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.75,
+          "avg_goals_against": 2.25
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Lutte pour le maintien (20e place actuelle)",
+        "stakes_away": "Lutte pour le maintien (19e place actuelle)"
+      }
     },
     {
       "competition": "Ligue 1",
