@@ -4110,8 +4110,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-3"
   },
   "Fenerbahçe SK__Liverpool FC__2026-11-04T17:45:00Z": {
     "competition": "Ligue des Champions",
@@ -4121,8 +4121,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "3-2"
   },
   "SK Slavia Praha__Arsenal FC__2026-11-04T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4132,8 +4132,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "FC Porto__SSC Napoli__2026-11-04T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4143,8 +4143,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Porto ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-1"
   },
   "Racing Club de Lens__Como 1907__2026-11-04T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4154,8 +4154,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-9"
   },
   "Hamburger SV__Borussia Mönchengladbach__2026-11-06T19:30:00Z": {
     "competition": "Bundesliga",
@@ -4253,6 +4253,61 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Borussia Dortmund ou nul",
     "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "1. FSV Mainz 05__FC Bayern München__2026-11-07T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "1. FSV Mainz 05",
+    "awayTeam": "FC Bayern München",
+    "kickoff": "2026-11-07T14:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Arsenal FC__Hull City AFC__2026-11-07T15:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Hull City AFC",
+    "kickoff": "2026-11-07T15:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Arsenal FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Parma Calcio 1913__Bologna FC 1909__2026-11-07T17:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Parma Calcio 1913",
+    "awayTeam": "Bologna FC 1909",
+    "kickoff": "2026-11-07T17:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Bologna FC 1909 ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Nottingham Forest FC__Manchester City FC__2026-11-07T17:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Nottingham Forest FC",
+    "awayTeam": "Manchester City FC",
+    "kickoff": "2026-11-07T17:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Manchester City FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "VfB Stuttgart__SV Werder Bremen__2026-11-07T17:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "SV Werder Bremen",
+    "kickoff": "2026-11-07T17:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SV Werder Bremen ou nul",
+    "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
   }

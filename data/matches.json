@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:12:52.567367+00:00",
+  "generated_at": "2026-11-04T23:38:40.152078+00:00",
   "date_from": "2026-11-01",
   "date_to": "2026-11-25",
   "count": 153,
@@ -428,854 +428,128 @@
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T17:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "PAE AEK",
       "homeCrest": "https://crests.football-data.org/1899.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "https://crests.football-data.org/86.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 5.0,
-          "goals_for": 5.0,
-          "goals_against": 13.35,
-          "goals_for_avg": 1.0,
-          "goals_against_avg": 2.67,
-          "matches_counted": 3,
-          "results": [
-            "V",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-10-20T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 13.5,
-          "goals_for": 14.0,
-          "goals_against": 6.0,
-          "goals_for_avg": 2.8,
-          "goals_against_avg": 1.2,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-11-01T15:15:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 2,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 39.4,
-          "draw_pct": 28.4,
-          "away_win_pct": 32.2,
-          "over_2_5_pct": 40.0,
-          "btts_pct": 46.2,
-          "lambda_home": 1.21,
-          "lambda_away": 1.07
-        },
-        "suggested_pick": "Double chance : Real Madrid CF ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -7.5,
-        "rest_days_home": 14,
-        "rest_days_away": 3,
-        "fatigue_home": "fraîche",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": true,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.0,
-          "avg_goals_against": 0.0
-        },
-        "away_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 0.71,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 2.14,
-          "avg_goals_against": 1.43
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (27e place actuelle)",
-        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
-      }
+      "homeScore": 2,
+      "awayScore": 3,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T17:45:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Fenerbahçe SK",
       "homeCrest": "https://crests.football-data.org/613.png",
       "awayTeam": "Liverpool FC",
       "awayCrest": "https://crests.football-data.org/64.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 3.33,
-          "goals_for": 5.0,
-          "goals_against": 15.0,
-          "goals_for_avg": 1.0,
-          "goals_against_avg": 3.0,
-          "matches_counted": 3,
-          "results": [
-            "N",
-            "D",
-            "N"
-          ],
-          "last_match_date": "2026-10-20T16:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 11.0,
-          "goals_for": 9.5,
-          "goals_against": 6.0,
-          "goals_for_avg": 1.9,
-          "goals_against_avg": 1.2,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "D"
-          ],
-          "last_match_date": "2026-11-01T16:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 0,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 25.1,
-          "draw_pct": 21.3,
-          "away_win_pct": 53.6,
-          "over_2_5_pct": 66.0,
-          "btts_pct": 64.5,
-          "lambda_home": 1.35,
-          "lambda_away": 2.05
-        },
-        "suggested_pick": "Double chance : Liverpool FC ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -7.9,
-        "rest_days_home": 15,
-        "rest_days_away": 3,
-        "fatigue_home": "fraîche",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 2,
-          "unbeaten_count": 2,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 2,
-          "avg_goals_for": 1.5,
-          "avg_goals_against": 1.5
-        },
-        "away_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 2.6,
-          "avg_goals_against": 1.2
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (31e place actuelle)",
-        "stakes_away": "Course à la Ligue des Champions (4e place actuelle)"
-      }
+      "homeScore": 3,
+      "awayScore": 2,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "RB Leipzig",
       "homeCrest": "https://crests.football-data.org/721.png",
       "awayTeam": "Manchester City FC",
       "awayCrest": "https://crests.football-data.org/65.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 7.5,
-          "goals_for": 11.0,
-          "goals_against": 9.5,
-          "goals_for_avg": 2.2,
-          "goals_against_avg": 1.9,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "D",
-            "D",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-10-31T14:30:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
-        },
-        "away_form": {
-          "points": 10.5,
-          "goals_for": 11.5,
-          "goals_against": 6.5,
-          "goals_for_avg": 2.3,
-          "goals_against_avg": 1.3,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "V",
-            "V",
-            "D",
-            "D"
-          ],
-          "last_match_date": "2026-10-31T15:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 62.3,
-          "draw_pct": 19.7,
-          "away_win_pct": 18.0,
-          "over_2_5_pct": 64.0,
-          "btts_pct": 59.3,
-          "lambda_home": 2.2,
-          "lambda_away": 1.1
-        },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "predicted_side": null,
-        "score_diff": -1.7,
-        "rest_days_home": 4,
-        "rest_days_away": 4,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "repos réduit",
-        "letdown_home": true,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 3.8,
-          "avg_goals_against": 0.0
-        },
-        "away_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 4,
-          "unbeaten_rate": 0.8,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 2.2,
-          "avg_goals_against": 0.6
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (27e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (12e place actuelle)"
-      }
+      "homeScore": 2,
+      "awayScore": 3,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "SK Slavia Praha",
       "homeCrest": "https://crests.football-data.org/930.png",
       "awayTeam": "Arsenal FC",
       "awayCrest": "https://crests.football-data.org/57.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 1.67,
-          "goals_for": 6.65,
-          "goals_against": 11.65,
-          "goals_for_avg": 1.33,
-          "goals_against_avg": 2.33,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "D",
-            "N"
-          ],
-          "last_match_date": "2026-10-20T16:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 12.5,
-          "goals_for": 8.0,
-          "goals_against": 3.5,
-          "goals_for_avg": 1.6,
-          "goals_against_avg": 0.7,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "V",
-            "N",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-11-01T16:30:00Z",
-          "last_match_away_win": true,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 24.9,
-          "draw_pct": 21.2,
-          "away_win_pct": 53.9,
-          "over_2_5_pct": 66.5,
-          "btts_pct": 64.8,
-          "lambda_home": 1.35,
-          "lambda_away": 2.07
-        },
-        "suggested_pick": "Double chance : Arsenal FC ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "away",
-        "score_diff": -11.4,
-        "rest_days_home": 15,
-        "rest_days_away": 3,
-        "fatigue_home": "fraîche",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": true,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 2.0,
-          "avg_goals_against": 3.0
-        },
-        "away_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 6,
-          "unbeaten_rate": 0.86,
-          "current_unbeaten_streak": 3,
-          "avg_goals_for": 1.14,
-          "avg_goals_against": 0.71
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (32e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
-      }
+      "homeScore": 1,
+      "awayScore": 2,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "PSV",
       "homeCrest": "https://crests.football-data.org/674.png",
       "awayTeam": "Club Brugge KV",
       "awayCrest": "https://crests.football-data.org/851.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 8.5,
-          "goals_for": 11.0,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.2,
-          "goals_against_avg": 1.0,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "D",
-            "V",
-            "N",
-            "V"
-          ],
-          "last_match_date": "2026-10-31T17:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 10.0,
-          "goals_for": 15.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 3.0,
-          "goals_against_avg": 2.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-10-21T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 51.9,
-          "draw_pct": 17.0,
-          "away_win_pct": 31.1,
-          "over_2_5_pct": 91.1,
-          "btts_pct": 86.9,
-          "lambda_home": 3.07,
-          "lambda_away": 2.43
-        },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "predicted_side": null,
-        "score_diff": 0.4,
-        "rest_days_home": 4,
-        "rest_days_away": 14,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "fraîche",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 7,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 7,
-          "avg_goals_for": 3.14,
-          "avg_goals_against": 0.86
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 4.0,
-          "avg_goals_against": 3.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (21e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
-      }
+      "homeScore": 1,
+      "awayScore": 2,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Borussia Dortmund",
       "homeCrest": "https://crests.football-data.org/4.png",
       "awayTeam": "Real Betis Balompié",
       "awayCrest": "https://crests.football-data.org/90.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 10.5,
-          "goals_for": 8.5,
-          "goals_against": 5.0,
-          "goals_for_avg": 1.7,
-          "goals_against_avg": 1.0,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "N",
-            "V",
-            "V",
-            "N"
-          ],
-          "last_match_date": "2026-10-31T17:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "away_form": {
-          "points": 11.5,
-          "goals_for": 10.0,
-          "goals_against": 7.0,
-          "goals_for_avg": 2.0,
-          "goals_against_avg": 1.4,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "D",
-            "V",
-            "N",
-            "V"
-          ],
-          "last_match_date": "2026-10-31T17:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
-        },
-        "head_to_head": {
-          "total_matches": 0,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 53.7,
-          "draw_pct": 22.7,
-          "away_win_pct": 23.5,
-          "over_2_5_pct": 57.7,
-          "btts_pct": 57.6,
-          "lambda_home": 1.85,
-          "lambda_away": 1.15
-        },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "predicted_side": null,
-        "score_diff": 1.8,
-        "rest_days_home": 4,
-        "rest_days_away": 4,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "repos réduit",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 2.2,
-          "avg_goals_against": 0.8
-        },
-        "away_venue_record": {
-          "matches_played": 6,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 0.83,
-          "current_unbeaten_streak": 4,
-          "avg_goals_for": 1.5,
-          "avg_goals_against": 1.5
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (16e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
-      }
+      "homeScore": 2,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "FC Porto",
       "homeCrest": "https://crests.football-data.org/503.png",
       "awayTeam": "SSC Napoli",
       "awayCrest": "https://crests.football-data.org/113.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 10.5,
-          "goals_for": 10.5,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.1,
-          "goals_against_avg": 1.0,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "D",
-            "D",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-10-31T20:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "away_form": {
-          "points": 7.0,
-          "goals_for": 8.5,
-          "goals_against": 7.5,
-          "goals_for_avg": 1.7,
-          "goals_against_avg": 1.5,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "V",
-            "N",
-            "V",
-            "D"
-          ],
-          "last_match_date": "2026-11-01T19:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "head_to_head": {
-          "total_matches": 0,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 52.5,
-          "draw_pct": 23.9,
-          "away_win_pct": 23.6,
-          "over_2_5_pct": 52.7,
-          "btts_pct": 53.9,
-          "lambda_home": 1.72,
-          "lambda_away": 1.07
-        },
-        "suggested_pick": "Double chance : FC Porto ou nul",
-        "confidence": "Élevée",
-        "predicted_side": "home",
-        "score_diff": 7.8,
-        "rest_days_home": 3,
-        "rest_days_away": 3,
-        "fatigue_home": "enchaînement serré",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 0.71,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.86,
-          "avg_goals_against": 0.71
-        },
-        "away_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 0.43,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 1.43,
-          "avg_goals_against": 1.57
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (35e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (24e place actuelle)"
-      }
+      "homeScore": 4,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Racing Club de Lens",
       "homeCrest": "https://crests.football-data.org/546.png",
       "awayTeam": "Como 1907",
       "awayCrest": "https://crests.football-data.org/7397.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 6.5,
-          "goals_for": 6.5,
-          "goals_against": 8.0,
-          "goals_for_avg": 1.3,
-          "goals_against_avg": 1.6,
-          "matches_counted": 10,
-          "results": [
-            "D",
-            "V",
-            "D",
-            "V",
-            "D"
-          ],
-          "last_match_date": "2026-10-30T20:05:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Profil équilibré"
-        },
-        "away_form": {
-          "points": 11.0,
-          "goals_for": 10.5,
-          "goals_against": 5.0,
-          "goals_for_avg": 2.1,
-          "goals_against_avg": 1.0,
-          "matches_counted": 10,
-          "results": [
-            "V",
-            "V",
-            "V",
-            "V",
-            "V"
-          ],
-          "last_match_date": "2026-11-01T11:30:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Équipe dominante, efficace et solide"
-        },
-        "head_to_head": {
-          "total_matches": 0,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 35.5,
-          "draw_pct": 22.6,
-          "away_win_pct": 41.9,
-          "over_2_5_pct": 65.7,
-          "btts_pct": 66.5,
-          "lambda_home": 1.61,
-          "lambda_away": 1.77
-        },
-        "suggested_pick": "Double chance : Como 1907 ou nul",
-        "confidence": "Moyenne",
-        "predicted_side": "away",
-        "score_diff": -4.1,
-        "rest_days_home": 4,
-        "rest_days_away": 3,
-        "fatigue_home": "repos réduit",
-        "fatigue_away": "enchaînement serré",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 3,
-          "unbeaten_rate": 0.6,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 1.8,
-          "avg_goals_against": 1.4
-        },
-        "away_venue_record": {
-          "matches_played": 7,
-          "unbeaten_count": 5,
-          "unbeaten_rate": 0.71,
-          "current_unbeaten_streak": 2,
-          "avg_goals_for": 2.14,
-          "avg_goals_against": 1.43
-        },
-        "surprise_risk": true,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (26e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (11e place actuelle)"
-      }
+      "homeScore": 1,
+      "awayScore": 9,
+      "analysis": null
     },
     {
       "competition": "Ligue des Champions",
       "utcDate": "2026-11-04T20:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 4,
       "stage": "LEAGUE_STAGE",
       "homeTeam": "Viking FK",
       "homeCrest": "https://crests.football-data.org/5720.png",
       "awayTeam": "Sabah FK",
       "awayCrest": "https://crests.football-data.org/10233.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": {
-        "home_form": {
-          "points": 1.67,
-          "goals_for": 8.35,
-          "goals_against": 15.0,
-          "goals_for_avg": 1.67,
-          "goals_against_avg": 3.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "N",
-            "D"
-          ],
-          "last_match_date": "2026-10-21T19:00:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "away_form": {
-          "points": 5.0,
-          "goals_for": 5.0,
-          "goals_against": 10.0,
-          "goals_for_avg": 1.0,
-          "goals_against_avg": 2.0,
-          "matches_counted": 3,
-          "results": [
-            "D",
-            "V",
-            "D"
-          ],
-          "last_match_date": "2026-10-20T16:45:00Z",
-          "last_match_away_win": false,
-          "style_tag": "Défense friable, susceptible d'encaisser"
-        },
-        "head_to_head": {
-          "total_matches": 0,
-          "home_wins": 0,
-          "away_wins": 0,
-          "draws": 0
-        },
-        "poisson": {
-          "home_win_pct": 74.7,
-          "draw_pct": 12.8,
-          "away_win_pct": 12.5,
-          "over_2_5_pct": 87.4,
-          "btts_pct": 75.3,
-          "lambda_home": 3.5,
-          "lambda_away": 1.5
-        },
-        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
-        "confidence": "Faible",
-        "predicted_side": null,
-        "score_diff": 1.3,
-        "rest_days_home": 14,
-        "rest_days_away": 15,
-        "fatigue_home": "fraîche",
-        "fatigue_away": "fraîche",
-        "letdown_home": false,
-        "letdown_away": false,
-        "home_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 1,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 1,
-          "avg_goals_for": 3.0,
-          "avg_goals_against": 3.0
-        },
-        "away_venue_record": {
-          "matches_played": 1,
-          "unbeaten_count": 0,
-          "unbeaten_rate": 0.0,
-          "current_unbeaten_streak": 0,
-          "avg_goals_for": 0.0,
-          "avg_goals_against": 4.0
-        },
-        "surprise_risk": false,
-        "true_home_advantage": "home",
-        "stakes_home": "Milieu de tableau, enjeu limité (33e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (25e place actuelle)"
-      }
+      "homeScore": 4,
+      "awayScore": 1,
+      "analysis": null
     },
     {
       "competition": "Bundesliga",
@@ -2156,20 +1430,20 @@
       "analysis": {
         "home_form": {
           "points": 7.5,
-          "goals_for": 11.0,
+          "goals_for": 11.5,
           "goals_against": 9.5,
-          "goals_for_avg": 2.2,
+          "goals_for_avg": 2.3,
           "goals_against_avg": 1.9,
           "matches_counted": 10,
           "results": [
-            "V",
             "D",
             "D",
             "V",
-            "V"
+            "V",
+            "D"
           ],
-          "last_match_date": "2026-10-31T14:30:00Z",
-          "last_match_away_win": true,
+          "last_match_date": "2026-11-04T20:00:00Z",
+          "last_match_away_win": false,
           "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
         },
         "away_form": {
@@ -2197,31 +1471,31 @@
           "draws": 0
         },
         "poisson": {
-          "home_win_pct": 71.2,
-          "draw_pct": 14.2,
-          "away_win_pct": 14.6,
-          "over_2_5_pct": 85.0,
-          "btts_pct": 74.6,
-          "lambda_home": 3.23,
-          "lambda_away": 1.5
+          "home_win_pct": 64.4,
+          "draw_pct": 15.9,
+          "away_win_pct": 19.7,
+          "over_2_5_pct": 86.0,
+          "btts_pct": 78.8,
+          "lambda_home": 3.08,
+          "lambda_away": 1.75
         },
         "suggested_pick": "Double chance : RB Leipzig ou nul",
-        "confidence": "Élevée",
+        "confidence": "Moyenne",
         "predicted_side": "home",
-        "score_diff": 5.5,
-        "rest_days_home": 7,
+        "score_diff": 3.1,
+        "rest_days_home": 2,
         "rest_days_away": 7,
-        "fatigue_home": "fraîche",
+        "fatigue_home": "enchaînement serré",
         "fatigue_away": "fraîche",
-        "letdown_home": true,
+        "letdown_home": false,
         "letdown_away": false,
         "home_venue_record": {
-          "matches_played": 5,
+          "matches_played": 6,
           "unbeaten_count": 5,
-          "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 3.8,
-          "avg_goals_against": 0.0
+          "unbeaten_rate": 0.83,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 3.5,
+          "avg_goals_against": 0.5
         },
         "away_venue_record": {
           "matches_played": 3,
@@ -2252,19 +1526,19 @@
       "analysis": {
         "home_form": {
           "points": 10.5,
-          "goals_for": 8.5,
-          "goals_against": 5.0,
-          "goals_for_avg": 1.7,
-          "goals_against_avg": 1.0,
+          "goals_for": 8.0,
+          "goals_against": 4.5,
+          "goals_for_avg": 1.6,
+          "goals_against_avg": 0.9,
           "matches_counted": 10,
           "results": [
-            "D",
             "N",
             "V",
             "V",
-            "N"
+            "N",
+            "V"
           ],
-          "last_match_date": "2026-10-31T17:30:00Z",
+          "last_match_date": "2026-11-04T20:00:00Z",
           "last_match_away_win": false,
           "style_tag": "Profil équilibré"
         },
@@ -2293,31 +1567,31 @@
           "draws": 0
         },
         "poisson": {
-          "home_win_pct": 65.0,
-          "draw_pct": 19.9,
-          "away_win_pct": 15.1,
+          "home_win_pct": 64.3,
+          "draw_pct": 20.1,
+          "away_win_pct": 15.6,
           "over_2_5_pct": 57.7,
-          "btts_pct": 52.1,
-          "lambda_home": 2.1,
-          "lambda_away": 0.9
+          "btts_pct": 52.5,
+          "lambda_home": 2.08,
+          "lambda_away": 0.92
         },
         "suggested_pick": "Double chance : Borussia Dortmund ou nul",
         "confidence": "Élevée",
         "predicted_side": "home",
-        "score_diff": 7.2,
-        "rest_days_home": 6,
+        "score_diff": 5.5,
+        "rest_days_home": 2,
         "rest_days_away": 7,
-        "fatigue_home": null,
+        "fatigue_home": "enchaînement serré",
         "fatigue_away": "fraîche",
         "letdown_home": false,
         "letdown_away": false,
         "home_venue_record": {
-          "matches_played": 5,
-          "unbeaten_count": 5,
+          "matches_played": 6,
+          "unbeaten_count": 6,
           "unbeaten_rate": 1.0,
-          "current_unbeaten_streak": 5,
-          "avg_goals_for": 2.2,
-          "avg_goals_against": 0.8
+          "current_unbeaten_streak": 6,
+          "avg_goals_for": 2.17,
+          "avg_goals_against": 0.83
         },
         "away_venue_record": {
           "matches_played": 4,
@@ -2327,7 +1601,7 @@
           "avg_goals_for": 1.0,
           "avg_goals_against": 2.0
         },
-        "surprise_risk": false,
+        "surprise_risk": true,
         "true_home_advantage": "home",
         "stakes_home": "Course à la Ligue des Champions (2e place actuelle)",
         "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
@@ -2345,7 +1619,89 @@
       "awayCrest": "https://crests.football-data.org/5.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 6.25,
+          "goals_for": 10.6,
+          "goals_against": 10.6,
+          "goals_for_avg": 2.12,
+          "goals_against_avg": 2.12,
+          "matches_counted": 8,
+          "results": [
+            "V",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "last_match_date": "2026-10-30T19:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "away_form": {
+          "points": 11.0,
+          "goals_for": 17.0,
+          "goals_against": 6.0,
+          "goals_for_avg": 3.4,
+          "goals_against_avg": 1.2,
+          "matches_counted": 10,
+          "results": [
+            "V",
+            "N",
+            "V",
+            "N",
+            "V"
+          ],
+          "last_match_date": "2026-11-03T20:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 22.0,
+          "draw_pct": 19.9,
+          "away_win_pct": 58.1,
+          "over_2_5_pct": 69.4,
+          "btts_pct": 65.9,
+          "lambda_home": 1.33,
+          "lambda_away": 2.25
+        },
+        "suggested_pick": "Double chance : FC Bayern München ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "away",
+        "score_diff": -5.9,
+        "rest_days_home": 7,
+        "rest_days_away": 3,
+        "fatigue_home": "fraîche",
+        "fatigue_away": "enchaînement serré",
+        "letdown_home": false,
+        "letdown_away": true,
+        "home_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.25,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.5,
+          "avg_goals_against": 2.5
+        },
+        "away_venue_record": {
+          "matches_played": 6,
+          "unbeaten_count": 6,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 6,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 1.17
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (9e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (1e place actuelle)"
+      }
     },
     {
       "competition": "Bundesliga",
@@ -2359,7 +1715,89 @@
       "awayCrest": "https://crests.football-data.org/19.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 5.62,
+          "goals_for": 3.75,
+          "goals_against": 5.6,
+          "goals_for_avg": 0.75,
+          "goals_against_avg": 1.12,
+          "matches_counted": 8,
+          "results": [
+            "V",
+            "D",
+            "N",
+            "V",
+            "N"
+          ],
+          "last_match_date": "2026-10-31T14:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 6.88,
+          "goals_for": 8.1,
+          "goals_against": 11.25,
+          "goals_for_avg": 1.62,
+          "goals_against_avg": 2.25,
+          "matches_counted": 8,
+          "results": [
+            "N",
+            "D",
+            "V",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-11-01T16:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 52.0,
+          "draw_pct": 22.6,
+          "away_win_pct": 25.4,
+          "over_2_5_pct": 60.4,
+          "btts_pct": 60.4,
+          "lambda_home": 1.88,
+          "lambda_away": 1.25
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": 1.8,
+        "rest_days_home": 7,
+        "rest_days_away": 5,
+        "fatigue_home": "fraîche",
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 1.0
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.5,
+          "avg_goals_against": 2.75
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
+      }
     },
     {
       "competition": "Premier League",
@@ -2373,7 +1811,89 @@
       "awayCrest": "https://crests.football-data.org/322.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 12.5,
+          "goals_for": 8.0,
+          "goals_against": 3.5,
+          "goals_for_avg": 1.6,
+          "goals_against_avg": 0.7,
+          "matches_counted": 10,
+          "results": [
+            "V",
+            "N",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-11-04T20:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 6.11,
+          "goals_for": 6.1,
+          "goals_against": 5.55,
+          "goals_for_avg": 1.22,
+          "goals_against_avg": 1.11,
+          "matches_counted": 9,
+          "results": [
+            "D",
+            "N",
+            "D",
+            "N",
+            "N"
+          ],
+          "last_match_date": "2026-10-31T15:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 64.3,
+          "draw_pct": 22.0,
+          "away_win_pct": 13.7,
+          "over_2_5_pct": 46.3,
+          "btts_pct": 42.2,
+          "lambda_home": 1.82,
+          "lambda_away": 0.7
+        },
+        "suggested_pick": "Double chance : Arsenal FC ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "home",
+        "score_diff": 8.5,
+        "rest_days_home": 2,
+        "rest_days_away": 7,
+        "fatigue_home": "enchaînement serré",
+        "fatigue_away": "fraîche",
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 5,
+          "unbeaten_rate": 1.0,
+          "current_unbeaten_streak": 5,
+          "avg_goals_for": 2.4,
+          "avg_goals_against": 0.4
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.0,
+          "avg_goals_against": 1.25
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Course à la Ligue des Champions (1e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (11e place actuelle)"
+      }
     },
     {
       "competition": "Premier League",
@@ -2387,7 +1907,89 @@
       "awayCrest": "https://crests.football-data.org/67.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 5.0,
+          "goals_for": 5.0,
+          "goals_against": 6.1,
+          "goals_for_avg": 1.0,
+          "goals_against_avg": 1.22,
+          "matches_counted": 9,
+          "results": [
+            "N",
+            "D",
+            "V",
+            "V",
+            "N"
+          ],
+          "last_match_date": "2026-10-31T20:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 6.11,
+          "goals_for": 6.65,
+          "goals_against": 8.35,
+          "goals_for_avg": 1.33,
+          "goals_against_avg": 1.67,
+          "matches_counted": 9,
+          "results": [
+            "V",
+            "D",
+            "D",
+            "V",
+            "D"
+          ],
+          "last_match_date": "2026-11-02T20:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 41.3,
+          "draw_pct": 22.7,
+          "away_win_pct": 36.0,
+          "over_2_5_pct": 65.5,
+          "btts_pct": 66.4,
+          "lambda_home": 1.75,
+          "lambda_away": 1.62
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": 2.0,
+        "rest_days_home": 6,
+        "rest_days_away": 4,
+        "fatigue_home": null,
+        "fatigue_away": "repos réduit",
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 2,
+          "avg_goals_for": 1.5,
+          "avg_goals_against": 1.75
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 1.5,
+          "avg_goals_against": 2.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (13e place actuelle)"
+      }
     },
     {
       "competition": "Liga",
@@ -2401,21 +2003,89 @@
       "awayCrest": "https://crests.football-data.org/560.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-11-07T16:15:00Z",
-      "status": "TIMED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "AJ Auxerre",
-      "homeCrest": "https://crests.football-data.org/519.png",
-      "awayTeam": "Paris FC",
-      "awayCrest": "https://crests.football-data.org/1045.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 4.0,
+          "goals_for": 5.0,
+          "goals_against": 7.0,
+          "goals_for_avg": 1.0,
+          "goals_against_avg": 1.4,
+          "matches_counted": 10,
+          "results": [
+            "D",
+            "N",
+            "D",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-10-30T20:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 6.5,
+          "goals_for": 7.0,
+          "goals_against": 6.5,
+          "goals_for_avg": 1.4,
+          "goals_against_avg": 1.3,
+          "matches_counted": 10,
+          "results": [
+            "N",
+            "D",
+            "N",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-11-02T20:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 37.4,
+          "draw_pct": 25.3,
+          "away_win_pct": 37.4,
+          "over_2_5_pct": 53.1,
+          "btts_pct": 56.8,
+          "lambda_home": 1.4,
+          "lambda_away": 1.4
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": -1.5,
+        "rest_days_home": 7,
+        "rest_days_away": 4,
+        "fatigue_home": "fraîche",
+        "fatigue_away": "repos réduit",
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.4,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.2,
+          "avg_goals_against": 1.4
+        },
+        "away_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 0.6,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 1.4,
+          "avg_goals_against": 1.6
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (14e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (8e place actuelle)"
+      }
     },
     {
       "competition": "Serie A",
@@ -2429,7 +2099,89 @@
       "awayCrest": "https://crests.football-data.org/103.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 4.0,
+          "goals_for": 4.0,
+          "goals_against": 7.5,
+          "goals_for_avg": 0.8,
+          "goals_against_avg": 1.5,
+          "matches_counted": 10,
+          "results": [
+            "D",
+            "D",
+            "D",
+            "N",
+            "V"
+          ],
+          "last_match_date": "2026-11-02T19:45:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 7.0,
+          "goals_for": 7.0,
+          "goals_against": 6.5,
+          "goals_for_avg": 1.4,
+          "goals_against_avg": 1.3,
+          "matches_counted": 10,
+          "results": [
+            "V",
+            "D",
+            "V",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-10-31T14:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 21.4,
+          "draw_pct": 27.4,
+          "away_win_pct": 51.1,
+          "over_2_5_pct": 37.7,
+          "btts_pct": 41.5,
+          "lambda_home": 0.8,
+          "lambda_away": 1.4
+        },
+        "suggested_pick": "Double chance : Bologna FC 1909 ou nul",
+        "confidence": "Moyenne",
+        "predicted_side": "away",
+        "score_diff": -4.8,
+        "rest_days_home": 4,
+        "rest_days_away": 7,
+        "fatigue_home": "repos réduit",
+        "fatigue_away": "fraîche",
+        "letdown_home": true,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 0.6,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 0.6,
+          "avg_goals_against": 1.2
+        },
+        "away_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 0.6,
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 1.6,
+          "avg_goals_against": 1.0
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
+      }
     },
     {
       "competition": "Premier League",
@@ -2443,7 +2195,89 @@
       "awayCrest": "https://crests.football-data.org/65.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 3.33,
+          "goals_for": 3.35,
+          "goals_against": 6.65,
+          "goals_for_avg": 0.67,
+          "goals_against_avg": 1.33,
+          "matches_counted": 9,
+          "results": [
+            "D",
+            "D",
+            "D",
+            "N",
+            "D"
+          ],
+          "last_match_date": "2026-10-31T15:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 10.5,
+          "goals_for": 12.5,
+          "goals_against": 7.5,
+          "goals_for_avg": 2.5,
+          "goals_against_avg": 1.5,
+          "matches_counted": 10,
+          "results": [
+            "V",
+            "V",
+            "D",
+            "D",
+            "V"
+          ],
+          "last_match_date": "2026-11-04T20:00:00Z",
+          "last_match_away_win": true,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 9.7,
+          "draw_pct": 24.8,
+          "away_win_pct": 65.6,
+          "over_2_5_pct": 31.1,
+          "btts_pct": 26.7,
+          "lambda_home": 0.41,
+          "lambda_away": 1.54
+        },
+        "suggested_pick": "Double chance : Manchester City FC ou nul",
+        "confidence": "Élevée",
+        "predicted_side": "away",
+        "score_diff": -6.2,
+        "rest_days_home": 7,
+        "rest_days_away": 2,
+        "fatigue_home": "fraîche",
+        "fatigue_away": "enchaînement serré",
+        "letdown_home": false,
+        "letdown_away": true,
+        "home_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 1,
+          "unbeaten_rate": 0.25,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 0.0,
+          "avg_goals_against": 0.75
+        },
+        "away_venue_record": {
+          "matches_played": 6,
+          "unbeaten_count": 5,
+          "unbeaten_rate": 0.83,
+          "current_unbeaten_streak": 1,
+          "avg_goals_for": 2.33,
+          "avg_goals_against": 0.83
+        },
+        "surprise_risk": true,
+        "true_home_advantage": "home",
+        "stakes_home": "Lutte pour le maintien (19e place actuelle)",
+        "stakes_away": "Course à la Ligue des Champions (2e place actuelle)"
+      }
     },
     {
       "competition": "Liga",
@@ -2457,7 +2291,89 @@
       "awayCrest": "https://crests.football-data.org/77.png",
       "homeScore": null,
       "awayScore": null,
-      "analysis": null
+      "analysis": {
+        "home_form": {
+          "points": 5.0,
+          "goals_for": 5.5,
+          "goals_against": 11.0,
+          "goals_for_avg": 1.1,
+          "goals_against_avg": 2.2,
+          "matches_counted": 10,
+          "results": [
+            "N",
+            "D",
+            "V",
+            "D",
+            "D"
+          ],
+          "last_match_date": "2026-11-02T20:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Défense friable, susceptible d'encaisser"
+        },
+        "away_form": {
+          "points": 7.5,
+          "goals_for": 7.0,
+          "goals_against": 5.0,
+          "goals_for_avg": 1.4,
+          "goals_against_avg": 1.0,
+          "matches_counted": 10,
+          "results": [
+            "N",
+            "N",
+            "D",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-11-01T20:00:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 43.1,
+          "draw_pct": 33.3,
+          "away_win_pct": 23.6,
+          "over_2_5_pct": 24.3,
+          "btts_pct": 31.5,
+          "lambda_home": 1.02,
+          "lambda_away": 0.68
+        },
+        "suggested_pick": "Match équilibré / risque de surprise — aucune tendance statistique fiable",
+        "confidence": "Faible",
+        "predicted_side": null,
+        "score_diff": -2.3,
+        "rest_days_home": 4,
+        "rest_days_away": 5,
+        "fatigue_home": "repos réduit",
+        "fatigue_away": null,
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 4,
+          "unbeaten_rate": 0.8,
+          "current_unbeaten_streak": 2,
+          "avg_goals_for": 0.8,
+          "avg_goals_against": 0.6
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 2,
+          "unbeaten_rate": 0.5,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 0.75,
+          "avg_goals_against": 1.25
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (15e place actuelle)",
+        "stakes_away": "Milieu de tableau, enjeu limité (7e place actuelle)"
+      }
     },
     {
       "competition": "Bundesliga",
@@ -2469,6 +2385,102 @@
       "homeCrest": "https://crests.football-data.org/10.png",
       "awayTeam": "SV Werder Bremen",
       "awayCrest": "https://crests.football-data.org/12.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": {
+        "home_form": {
+          "points": 6.5,
+          "goals_for": 8.0,
+          "goals_against": 6.5,
+          "goals_for_avg": 1.6,
+          "goals_against_avg": 1.3,
+          "matches_counted": 10,
+          "results": [
+            "D",
+            "N",
+            "D",
+            "V",
+            "D"
+          ],
+          "last_match_date": "2026-11-03T17:45:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Profil équilibré"
+        },
+        "away_form": {
+          "points": 9.38,
+          "goals_for": 10.6,
+          "goals_against": 8.75,
+          "goals_for_avg": 2.12,
+          "goals_against_avg": 1.75,
+          "matches_counted": 8,
+          "results": [
+            "V",
+            "N",
+            "N",
+            "V",
+            "V"
+          ],
+          "last_match_date": "2026-10-31T14:30:00Z",
+          "last_match_away_win": false,
+          "style_tag": "Matchs ouverts, beaucoup de buts des deux côtés"
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 0,
+          "away_wins": 0,
+          "draws": 0
+        },
+        "poisson": {
+          "home_win_pct": 50.4,
+          "draw_pct": 20.9,
+          "away_win_pct": 28.7,
+          "over_2_5_pct": 71.4,
+          "btts_pct": 69.8,
+          "lambda_home": 2.12,
+          "lambda_away": 1.57
+        },
+        "suggested_pick": "Double chance : SV Werder Bremen ou nul",
+        "confidence": "Moyenne",
+        "predicted_side": "away",
+        "score_diff": -4.2,
+        "rest_days_home": 3,
+        "rest_days_away": 7,
+        "fatigue_home": "enchaînement serré",
+        "fatigue_away": "fraîche",
+        "letdown_home": false,
+        "letdown_away": false,
+        "home_venue_record": {
+          "matches_played": 5,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 0.6,
+          "current_unbeaten_streak": 0,
+          "avg_goals_for": 2.0,
+          "avg_goals_against": 1.4
+        },
+        "away_venue_record": {
+          "matches_played": 4,
+          "unbeaten_count": 3,
+          "unbeaten_rate": 0.75,
+          "current_unbeaten_streak": 3,
+          "avg_goals_for": 1.75,
+          "avg_goals_against": 2.25
+        },
+        "surprise_risk": false,
+        "true_home_advantage": "home",
+        "stakes_home": "Milieu de tableau, enjeu limité (11e place actuelle)",
+        "stakes_away": "Zone Europe / Europa League (5e place actuelle)"
+      }
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-11-07T18:00:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AJ Auxerre",
+      "homeCrest": "https://crests.football-data.org/519.png",
+      "awayTeam": "Paris FC",
+      "awayCrest": "https://crests.football-data.org/1045.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
@@ -2488,20 +2500,6 @@
       "analysis": null
     },
     {
-      "competition": "Ligue 1",
-      "utcDate": "2026-11-07T19:45:00Z",
-      "status": "TIMED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Paris Saint-Germain FC",
-      "homeCrest": "https://crests.football-data.org/524.png",
-      "awayTeam": "ES Troyes AC",
-      "awayCrest": "https://crests.football-data.org/531.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
       "competition": "Liga",
       "utcDate": "2026-11-07T20:00:00Z",
       "status": "TIMED",
@@ -2511,6 +2509,20 @@
       "homeCrest": "https://crests.football-data.org/95.png",
       "awayTeam": "Real Madrid CF",
       "awayCrest": "https://crests.football-data.org/86.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-11-07T20:05:00Z",
+      "status": "TIMED",
+      "matchday": 10,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Paris Saint-Germain FC",
+      "homeCrest": "https://crests.football-data.org/524.png",
+      "awayTeam": "ES Troyes AC",
+      "awayCrest": "https://crests.football-data.org/531.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
