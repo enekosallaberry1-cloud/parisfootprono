@@ -4165,8 +4165,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Hamburger SV ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "Toulouse FC__RC Strasbourg Alsace__2026-11-06T19:45:00Z": {
     "competition": "Ligue 1",
@@ -4176,8 +4176,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Toulouse FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "Everton FC__Coventry City FC__2026-11-06T20:00:00Z": {
     "competition": "Premier League",
@@ -4187,8 +4187,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Everton FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "Sevilla FC__Deportivo Alavés__2026-11-06T20:00:00Z": {
     "competition": "Liga",
@@ -4198,8 +4198,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Sevilla FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "Leeds United FC__Tottenham Hotspur FC__2026-11-07T12:30:00Z": {
     "competition": "Premier League",
@@ -4308,6 +4308,61 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SV Werder Bremen ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "AJ Auxerre__Paris FC__2026-11-07T18:00:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "AJ Auxerre",
+    "awayTeam": "Paris FC",
+    "kickoff": "2026-11-07T18:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Paris FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "AS Roma__US Sassuolo Calcio__2026-11-07T19:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "AS Roma",
+    "awayTeam": "US Sassuolo Calcio",
+    "kickoff": "2026-11-07T19:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : AS Roma ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Valencia CF__Real Madrid CF__2026-11-07T20:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Valencia CF",
+    "awayTeam": "Real Madrid CF",
+    "kickoff": "2026-11-07T20:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Paris Saint-Germain FC__ES Troyes AC__2026-11-07T20:05:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Paris Saint-Germain FC",
+    "awayTeam": "ES Troyes AC",
+    "kickoff": "2026-11-07T20:05:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Paris Saint-Germain FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SSC Napoli__SS Lazio__2026-11-08T11:30:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SSC Napoli",
+    "awayTeam": "SS Lazio",
+    "kickoff": "2026-11-08T11:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
