@@ -4365,5 +4365,16 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "Elche CF__Real Betis Balompié__2026-11-08T13:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Elche CF",
+    "awayTeam": "Real Betis Balompié",
+    "kickoff": "2026-11-08T13:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
