@@ -4363,8 +4363,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : SS Lazio ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Elche CF__Real Betis Balompié__2026-11-08T13:00:00Z": {
     "competition": "Liga",
@@ -4385,8 +4385,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-3"
   },
   "Sunderland AFC__Chelsea FC__2026-11-08T14:00:00Z": {
     "competition": "Premier League",
@@ -4396,8 +4396,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Chelsea FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "1-0"
   },
   "Brighton & Hove Albion FC__Brentford FC__2026-11-08T14:00:00Z": {
     "competition": "Premier League",
@@ -4407,8 +4407,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Genoa CFC__AC Milan__2026-11-08T14:00:00Z": {
     "competition": "Serie A",
@@ -4418,8 +4418,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : AC Milan ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-2"
   },
   "Stade Rennais FC 1901__Lille OSC__2026-11-08T14:00:00Z": {
     "competition": "Ligue 1",
@@ -4484,8 +4484,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Aston Villa FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-4"
   },
   "SC Freiburg__1. FC Union Berlin__2026-11-08T16:30:00Z": {
     "competition": "Bundesliga",
@@ -4495,8 +4495,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SC Freiburg ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "RC Celta de Vigo__Levante UD__2026-11-08T17:30:00Z": {
     "competition": "Liga",
@@ -4527,6 +4527,116 @@
     "kickoff": "2026-11-08T18:30:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : TSG 1899 Hoffenheim ou nul",
+    "confidence": "Moyenne",
+    "status": "correct",
+    "final_score": "2-1"
+  },
+  "Angers SCO__OGC Nice__2026-11-08T16:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Angers SCO",
+    "awayTeam": "OGC Nice",
+    "kickoff": "2026-11-08T16:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : OGC Nice ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Racing Club de Lens__Olympique de Marseille__2026-11-08T19:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Racing Club de Lens",
+    "awayTeam": "Olympique de Marseille",
+    "kickoff": "2026-11-08T19:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Olympique de Marseille ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Bayern München__1. FC Köln__2026-11-20T19:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "FC Bayern München",
+    "awayTeam": "1. FC Köln",
+    "kickoff": "2026-11-20T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "ES Troyes AC__Le Havre AC__2026-11-20T19:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "ES Troyes AC",
+    "awayTeam": "Le Havre AC",
+    "kickoff": "2026-11-20T19:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : ES Troyes AC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Athletic Club__RCD Espanyol de Barcelona__2026-11-20T20:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "RCD Espanyol de Barcelona",
+    "kickoff": "2026-11-20T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Athletic Club ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Manchester City FC__Fulham FC__2026-11-21T12:30:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Manchester City FC",
+    "awayTeam": "Fulham FC",
+    "kickoff": "2026-11-21T12:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Manchester City FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Como 1907__Cagliari Calcio__2026-11-21T14:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Como 1907",
+    "awayTeam": "Cagliari Calcio",
+    "kickoff": "2026-11-21T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Como 1907 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SS Lazio__US Lecce__2026-11-21T14:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "SS Lazio",
+    "awayTeam": "US Lecce",
+    "kickoff": "2026-11-21T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Bayer 04 Leverkusen__SC Paderborn 07__2026-11-21T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Bayer 04 Leverkusen",
+    "awayTeam": "SC Paderborn 07",
+    "kickoff": "2026-11-21T14:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Bayer 04 Leverkusen ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "1. FC Union Berlin__RB Leipzig__2026-11-21T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "1. FC Union Berlin",
+    "awayTeam": "RB Leipzig",
+    "kickoff": "2026-11-21T14:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : RB Leipzig ou nul",
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
