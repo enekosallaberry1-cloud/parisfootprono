@@ -4519,5 +4519,16 @@
     "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
+  },
+  "TSG 1899 Hoffenheim__FC Schalke 04__2026-11-08T18:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "TSG 1899 Hoffenheim",
+    "awayTeam": "FC Schalke 04",
+    "kickoff": "2026-11-08T18:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : TSG 1899 Hoffenheim ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
   }
 }
