@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T23:34:34.439707+00:00",
-  "date_from": "2026-11-09",
-  "date_to": "2026-12-03",
-  "count": 126,
+  "generated_at": "2026-11-13T06:01:36.858173+00:00",
+  "date_from": "2026-11-10",
+  "date_to": "2026-12-04",
+  "count": 129,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -3405,6 +3405,48 @@
       "homeCrest": "https://crests.football-data.org/73.png",
       "awayTeam": "Fulham FC",
       "awayCrest": "https://crests.football-data.org/63.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Bundesliga",
+      "utcDate": "2026-12-04T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 12,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "FC Bayern München",
+      "homeCrest": "https://crests.football-data.org/5.png",
+      "awayTeam": "SC Paderborn 07",
+      "awayCrest": "https://crests.football-data.org/29.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-12-04T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Bologna FC 1909",
+      "homeCrest": "https://crests.football-data.org/103.png",
+      "awayTeam": "AS Roma",
+      "awayCrest": "https://crests.football-data.org/100.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-12-04T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Toulouse FC",
+      "homeCrest": "https://crests.football-data.org/511.png",
+      "awayTeam": "Paris Saint-Germain FC",
+      "awayCrest": "https://crests.football-data.org/524.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
