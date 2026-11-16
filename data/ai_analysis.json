@@ -1,105 +1,105 @@
 {
-  "generated_at": "2026-11-09T17:54:02.352036+00:00",
+  "generated_at": "2026-11-16T17:35:50.450555+00:00",
   "analyses": {
     "FC Bayern München__1. FC Köln__2026-11-20T19:30:00Z": {
       "pick": "Double chance Bayern ou nul",
       "confidence": "Élevée",
-      "analysis": "Bayern domine nettement avec 3,1 buts marqués en moyenne à domicile contre 1,3 encaissés, tandis que Cologne affiche un profil très faible (1,11 buts pour, 1,56 contre). L'invincibilité bavaroise à domicile (6 matchs) et une série de 3 victoires en 5 matchs contrastent avec les 1 victoire en 9 de Cologne. Le modèle Poisson attribue 82,6 % au Bayern. Bien que Bayern joue légèrement relâché après une victoire à l'extérieur, la domination est trop importante pour risquer une victoire sèche ; double chance Bayern ou nul sécurise le pronostic."
+      "analysis": "Bayern domine largement à domicile avec 6 matchs d'invincibilité (4,5 buts marqués/match en moyenne) face à une défense de Köln très poreuse (1,56 buts encaissés/match en moyenne, 75% de défaites à l'extérieur). Le modèle Poisson indique 82,6% de victoire Bayern, et 77,8% de probabilité over 2,5 buts. Malgré un possible effet de relâchement après la victoire précédente à l'extérieur, Bayern reste nettement favori sur son terrain. La double chance Bayern ou nul offre une couverture sécurisée avec probabilités très favorables."
     },
     "ES Troyes AC__Le Havre AC__2026-11-20T19:45:00Z": {
       "pick": "Double chance Le Havre ou nul",
-      "confidence": "Faible",
-      "analysis": "Situation critique pour les deux équipes (17e et 18e) avec une défense très friable à l'extérieur pour Troyes et un profil largement négatif pour Le Havre (1 point en 5 matchs, 11 buts encaissés). Cependant, le modèle Poisson place Le Havre légèrement favori (43,5 %). Troyes joue mieux à domicile mais reste fragile défensivement (1,7 buts encaissés). La probabilité de plus de 2,5 buts est forte (67,4 %), suggérant un match instable où la double chance sur Le Havre ou nul offre une meilleure protection que de parier sur Troyes."
+      "confidence": "Moyenne",
+      "analysis": "Match très équilibré entre deux équipes en lutte pour le maintien. Le Havre affiche légèrement mieux (43,5% de probabilité victoire selon Poisson contre 34,3% pour Troyes), avec une meilleure série récente malgré 5 nuls consécutifs. Les deux défenses sont friables, expliquant la probabilité élevée de BTTS (67,7%) et over 2,5 buts (67,4%). La double chance Le Havre ou nul reflète l'équilibre tout en capitalisant sur la légère supériorité statistique du visiteur."
     },
     "Athletic Club__RCD Espanyol de Barcelona__2026-11-20T20:00:00Z": {
       "pick": "Double chance Athletic ou nul",
       "confidence": "Moyenne",
-      "analysis": "Athletic affiche une domination relative à domicile (5 matchs invincibles, 1,4 buts marqués) contre Espanyol très faible en déplacements (0,5 victoires en 4 matchs, 2 buts encaissés). Le modèle Poisson favorise Athletic (48,8 %), mais le match reste équilibré (26 % nul). Les deux équipes jouent un profil équilibré, limitant la probabilité de buts (45,6 % sur 2,5). Double chance Athletic ou nul capture la confiance dans la domicile sans surexposer au risque d'une surprise."
+      "analysis": "Match équilibré au milieu de tableau (Liga). Athletic domine légèrement à domicile avec 83% d'invincibilité (5 sur 6 matchs) et 1,83 but/match marqué. Espanyol plus irrégulier (50% d'invincibilité à l'extérieur, 1,17 but/match marqué). Le modèle Poisson accorde 48,8% victoire Athletic contre 25,2% pour Espanyol. Les deux équipes jouent profil équilibré. La double chance Athletic ou nul capture la supériorité du terrain tout en limitant le risque sur une équipe sans enjeu majeur."
     },
     "Manchester City FC__Fulham FC__2026-11-21T12:30:00Z": {
       "pick": "Double chance Manchester City ou nul",
       "confidence": "Moyenne",
-      "analysis": "Manchester City affiche une forme décente à domicile (2,4 buts marqués, 71 % invincibilité) malgré des défenses friables des deux côtés. Fulham reste solide en déplacements avec 3 matchs invincibles sur 5 dernier mais ne marque que 1 but en moyenne. Le modèle Poisson place Manchester City très légèrement favori (49,8 %), suggérant un match très serré où la double chance protège contre un possible partage ou une performance défensive de Fulham. La probabilité BTTS (55,8 %) justifie une vigilance sur les buts."
+      "analysis": "Probabilités quasi équilibrées selon Poisson (49,8% Man City, 26,1% Fulham). Manchester City affiche 71% d'invincibilité à domicile mais avec seulement 2,57 buts/match en moyenne, révélant une défense vulnérable (1,71 encaissé/match). Fulham montre une forme équilibrée mais peu menaçante. L'over 2,5 buts est probable (54%) malgré le style équilibré de Fulham. La double chance City ou nul offre une protection prudente face aux probabilités resserrées."
     },
     "Deportivo Alavés__RC Deportivo La Coruña__2026-11-21T13:00:00Z": {
       "pick": "Double chance Alavés ou nul",
       "confidence": "Moyenne",
-      "analysis": "Équilibre relatif entre les deux équipes avec Alavés dominant légèrement à domicile (1,83 buts marqués, 67 % invincibilité). La Coruña joue mieux en déplacements (67 % invincibilité) avec un profil similaire (1,3 buts marqués). Le modèle Poisson place Alavés favori (48,8 % victoire) mais reconnaît l'importance des 25,1 % de nul. Repos égal (14 vs 13 jours), aucun enjeu majeur. Double chance Alavés ou nul offre une sécurité face à cette rencontre équilibrée."
+      "analysis": "Match très serré en Liga avec probabilités quasi identiques (48,8% Alavés vs 26,1% Deportivo selon Poisson). Alavés affiche 67% d'invincibilité à domicile (1,83 but/match) mais subit 1,0 but encaissé en moyenne. Les deux équipes ont profil équilibré et enjeu limité. Probabilité over 2,5 buts modérée (49,8%), BTTS à 52,6%. La double chance Alavés ou nul reflète l'avantage du terrain minime tout en sécurisant le pari."
     },
     "Como 1907__Cagliari Calcio__2026-11-21T14:00:00Z": {
       "pick": "Double chance Como ou nul",
       "confidence": "Élevée",
-      "analysis": "Como est dominant avec 4 victoires en 5 matchs, 2,4 buts marqués à domicile et une invincibilité parfaite (6 matchs). Cagliari montre une série faible (1 victoire en 5) et encaisse 1,5 buts en moyenne. Le modèle Poisson attribue 64,6 % à Como, justifiant un pari plus agressif. Cependant, l'enjeu réel pour Como (Zone Europe) et la présence de matchs invincibles loin d'une victoire certaine suggèrent une double chance Como ou nul pour limiter le risque de surprise."
+      "analysis": "Como domine nettement : 100% d'invincibilité à domicile (6 sur 6) avec 2,17 buts/match et seulement 0,5 encaissé. Cagliari très fragile à l'extérieur (50% invincibilité, 1,17 but/match, 1,83 encaissé). Le modèle Poisson indique 64,6% victoire Como contre 14,8% Cagliari. Serie A montre une hiérarchie claire : Como en zone Europa, Cagliari au milieu de tableau. La double chance Como ou nul capture la domination domestique tout en offrant protection maximale."
     },
     "SS Lazio__US Lecce__2026-11-21T14:00:00Z": {
       "pick": "Double chance Lazio ou nul",
       "confidence": "Élevée",
-      "analysis": "Lazio domine clairement avec 4 victoires en 5 matchs, 2,4 buts marqués, 0,9 encaissés à domicile, et 5 matchs invincibles. Lecce affiche une défense très friable (2,2 buts encaissés en moyenne) avec seulement 1 victoire en 5. Le modèle Poisson place Lazio à 54,9 %, confirmant la domination. Bien que Lazio soit leader, une double chance Lazio ou nul protège contre le relâchement possible et offre un bon rapport risque/rendement sur ce match très asymétrique."
+      "analysis": "Lazio affiche une forme dominante : 13 points sur 10 matchs, 100% invincibilité à domicile (5 sur 5) avec 2,0 buts/match et 1,0 encaissé seulement. Lecce très faible en déplacement (défense friable, 2,2 buts encaissés/match). Le modèle Poisson indique 54,9% victoire Lazio. Lazio en tête de Série A (enjeu Ligue des Champions), Lecce en lutte pour le maintien. BTTS à 55,6% et over 2,5 buts à 55,9%. Double chance Lazio ou nul offre un excellent ratio risque/récompense."
     },
     "Bayer 04 Leverkusen__SC Paderborn 07__2026-11-21T14:30:00Z": {
       "pick": "Double chance Leverkusen ou nul",
       "confidence": "Élevée",
-      "analysis": "Leverkusen affiche une forme solide (2,22 buts marqués, 75 % invincibilité à domicile) avec un style ouvert générant des buts des deux côtés. Paderborn reste défensif et peu dangereux (0,89 buts marqués). Le modèle Poisson place Leverkusen à 60,9 %, et la probabilité BTTS (49,4 %) reste modérée. Leverkusen pourrait avoir un léger relâchement après une victoire à l'extérieur, d'où la double chance Leverkusen ou nul maintient la confiance sans excès."
+      "analysis": "Leverkusen nettement supérieur à domicile : 2,22 buts/match en moyenne, 75% invincibilité, face à Paderborn fragile (0,89 but/match, 75% d'invincibilité mais sur une base de 4 matchs seulement). Le modèle Poisson accorde 60,9% à Leverkusen contre 17% à Paderborn. Matchs ouverts pour Leverkusen, profil équilibré pour Paderborn. Over 2,5 buts à 51,8%. Possible effet de relâchement après victoire précédente en déplacement, mais supériorité affichée justifie la confiance."
     },
     "1. FC Union Berlin__RB Leipzig__2026-11-21T14:30:00Z": {
-      "pick": "Double chance Union Berlin ou nul",
-      "confidence": "Moyenne",
-      "analysis": "Situation inverse : Union Berlin joue à domicile mais avec une défense friable (2,33 buts encaissés), tandis que Leipzig affiche une forme offensive (2,7 buts marqués) avec un style ouvert. Le modèle Poisson place cependant Union Berlin favori (59,7 %), probablement grâce à l'avantage du terrain malgré les statistiques défensives pauvres. La probabilité très élevée de plus de 2,5 buts (65,7 %) confirme un match ouvert. Double chance Union Berlin ou nul capture l'avantage du terrain avec prudence."
+      "pick": "Double chance Leipzig ou nul",
+      "confidence": "Élevée",
+      "analysis": "Leipzig en nette supériorité : 9,0 points sur 10 matchs, 2,7 buts/match marqués face à une défense fragile, style matchs ouverts. Union Berlin très faible à domicile (0,78 but/match, 2,33 encaissé) avec défense friable, lutte pour le maintien. Le modèle Poisson indique 59,7% pour Leipzig malgré une statistique affichant 59,7% (note : probabilités très proches). Leipzig 4e en Ligue des Champions, Union 16e. Over 2,5 buts hautement probable (65,7%), BTTS à 62%. Double chance Leipzig ou nul protège contre un coup d'arrêt à domicile."
     },
     "SV 07 Elversberg__SC Freiburg__2026-11-21T14:30:00Z": {
       "pick": "Double chance Freiburg ou nul",
-      "confidence": "Moyenne",
-      "analysis": "Freiburg affiche une supériorité claire en tant que visiteur avec 2,22 buts marqués et une défense solide (1,11 encaissés), tandis qu'Elversberg encaisse 2 buts à domicile malgré un repos légèrement plus long. Le modèle Poisson place Freiburg favori (32,3 % victoire) mais Elversberg domine statistiquement (46,9 %). La probabilité très élevée de plus de 2,5 buts (74,3 %) et BTTS (72,7 %) indique un match très ouvert. Double chance Freiburg ou nul protège contre cette incertitude en reconnaissant la force de Freiburg à l'extérieur."
+      "confidence": "Élevée",
+      "analysis": "Freiburg surpasse clairement Elversberg : 10,56 points sur 9 matchs (2,22 buts/match, 1,11 encaissé, 75% invincibilité) versus Elversberg 7,22 points (1,89 buts/match, 2,0 encaissé, défense friable). Le modèle Poisson indique 32,3% pour Freiburg mais les données brutes et l'invincibilité à l'extérieur (75% sur 4 matchs) contredisent cette projection. Freiburg 3e (Ligue des Champions), Elversberg 7e. Très haute probabilité over 2,5 buts (74,3%) et BTTS (72,7%). Double chance Freiburg ou nul offre la meilleure couverture."
     },
     "Borussia Mönchengladbach__Borussia Dortmund__2026-11-21T14:30:00Z": {
       "pick": "Double chance Dortmund ou nul",
       "confidence": "Élevée",
-      "analysis": "Contraste frappant : Mönchengladbach encaisse 2,78 buts à domicile (25 % invincibilité) tandis que Dortmund affiche 3 victoires en 5 matchs et une défense solide (0,8 buts encaissés). Le modèle Poisson place Dortmund nettement favori (50,1 %). Mönchengladbach en lutte pour le maintien complique son enjeu, tandis que Dortmund poursuit la Ligue des Champions. La probabilité BTTS (63,7 %) est élevée mais Dortmund à l'extérieur reste très dangereux. Double chance Dortmund ou nul sécurise."
+      "analysis": "Dortmund en domination quasi totale : 10,5 points sur 10 matchs, 1,5 but/match, 0,8 encaissé, 83% invincibilité à l'extérieur sur 6 matchs (3 matchs d'affilée sans défaite). Mönchengladbach en crise : seulement 2,22 points sur 9 matchs, défense friable (2,78 buts encaissés/match), 25% d'invincibilité à domicile. Le modèle Poisson indique 50,1% pour Dortmund contre 27,6% pour Mönchengladbach. Dortmund 2e (Ligue des Champions), Mönchengladbach 18e (lutte pour le maintien). Over 2,5 buts probable (63,8%). Double chance Dortmund ou nul capitalise sur la forme écrasante du visiteur."
     },
     "Eintracht Frankfurt__TSG 1899 Hoffenheim__2026-11-21T14:30:00Z": {
-      "pick": "Double chance Frankfurt ou nul",
+      "pick": "Double chance Hoffenheim ou nul",
       "confidence": "Moyenne",
-      "analysis": "Deux équipes avec des défenses similairement friables (2,22 et 1,89 buts encaissés) jouent un style équivalent générant de nombreux buts (probabilité BTTS 67,2 %, plus de 2,5 buts 67,9 %). Le modèle Poisson place Frankfurt légèrement devant (49,3 %). Hoffenheim joue mieux en déplacements mais reste inconstante (25 % invincibilité). Double chance Frankfurt ou nul offre une protection dans ce match haute probabilité de buts où les deux équipes sont fragiles défensivement."
+      "analysis": "Match très équilibré au milieu de tableau (Bundesliga). Probabilités quasi identiques (49,3% Frankfurt vs 29,0% Hoffenheim). Les deux équipes affichent défense friable (Frankfurt 2,22 buts encaissés/match, Hoffenheim 1,89) et peu de buts marqués (1,67 et 1,78 respectivement). Frankfurt invincible à domicile sur 3 matchs (75% sur 4), Hoffenheim très faible à l'extérieur (25% invincibilité). Probabilité very strong over 2,5 buts (67,9%) et BTTS (67,2%). Double chance Hoffenheim ou nul offre une alternative équilibrée face aux incertitudes."
     },
     "Chelsea FC__Leeds United FC__2026-11-21T15:00:00Z": {
       "pick": "Double chance Chelsea ou nul",
       "confidence": "Élevée",
-      "analysis": "Chelsea domine nettement à domicile (1,9 buts marqués, 80 % invincibilité) face à Leeds très défensif en déplacements (0,8 buts encaissés moyenne, 0,6 marqués). Le modèle Poisson place Chelsea à 53,8 %, confirmant la domination tout en reconnaissant la solidité défensive de Leeds. Bien que Chelsea soit clairement supérieur, Leeds offre peu d'attaque, réduisant la probabilité BTTS (55,7 %). Double chance Chelsea ou nul sécurise sans surexposer aux risques."
+      "analysis": "Chelsea domine à domicile : 80% invincibilité (4 sur 5), 2,6 buts/match marqués, 1,6 encaissé. Leeds très faible en déplacement : 60% défensif, 1,0 but/match, 0,8 encaissé (style fermé et défensif, peu menaçant). Le modèle Poisson indique 53,8% victoire Chelsea contre 23,1% Leeds. Chelsea 5e (Europa League), Leeds 9e (sans enjeu). Probabilité over 2,5 buts modérée (55,4%) suggère un match clos. Double chance Chelsea ou nul capture l'avantage du terrain de manière sûre."
     },
     "Aston Villa FC__Sunderland AFC__2026-11-21T15:00:00Z": {
       "pick": "Double chance Aston Villa ou nul",
       "confidence": "Élevée",
-      "analysis": "Aston Villa affiche une domination claire avec 2,3 buts marqués à domicile, 5 matchs invincibles, et un style ouvert générant des buts des deux côtés. Sunderland lutte pour le maintien (19e) avec une très mauvaise forme en déplacements (0,8 buts marqués, 2,6 encaissés, 20 % invincibilité). Le modèle Poisson place Villa à 64 %, justifiant la confiance. La probabilité BTTS (62,5 %) et plus de 2,5 buts (68,6 %) restent élevées. Double chance Villa ou nul offre une sécurité confortable."
+      "analysis": "Aston Villa en grande forme à domicile : 71% invincibilité (5 sur 7), 2,14 buts/match, 1,14 encaissé, matchs ouverts. Sunderland en grande difficulté, lutte pour le maintien : 20% invincibilité à l'extérieur, 1,2 but/match, 2,6 encaissé. Le modèle Poisson indique 64,0% victoire Aston Villa contre 17,4% Sunderland. Probabilité very strong over 2,5 buts (68,6%) et BTTS (62,5%) reflètent l'écart de classe. Double chance Aston Villa ou nul offre une couverture optimale avec très haute confiance."
     },
     "AFC Bournemouth__Nottingham Forest FC__2026-11-21T15:00:00Z": {
       "pick": "Double chance Bournemouth ou nul",
-      "confidence": "Moyenne",
-      "analysis": "Bournemouth affiche une bonne forme à domicile (1,6 buts marqués, 80 % invincibilité, 4 victoires en 5) avec un profil équilibré. Nottingham en déplacements reste faible (0,9 buts marqués, 60 % invincibilité). Le modèle Poisson place Bournemouth à 51,3 %, indiquant un match relativement équilibré malgré la domicile. Bournemouth pourrait souffrir d'un relâchement après une victoire à l'extérieur. Double chance Bournemouth ou nul offre une protection contre cette possibilité tout en exploitant l'avantage du terrain."
+      "confidence": "Élevée",
+      "analysis": "Bournemouth légèrement supérieur à domicile : 80% invincibilité (4 sur 5), 1,4 but/match, 0,8 encaissé. Forest équilibré mais faible en déplacement : 60% invincibilité, 1,2 but/match, 1,8 encaissé. Le modèle Poisson indique 51,3% victoire Bournemouth contre 23,7% Forest. Probabilité over 2,5 buts modérée (48,2%), BTTS équilibrée (50,4%), suggérant un match relativement fermé. Possible effet de relâchement après victoire précédente en déplacement pour Bournemouth. Double chance offre la protection appropriée pour cet équilibre."
     },
     "Tottenham Hotspur FC__Ipswich Town FC__2026-11-21T15:00:00Z": {
       "pick": "Double chance Tottenham ou nul",
       "confidence": "Moyenne",
-      "analysis": "Tottenham à domicile affiche un profil équilibré (1 but marqué, 60 % invincibilité) tandis qu'Ipswich en déplacements encaisse 2,6 buts en moyenne avec une défense friable. Le modèle Poisson place Tottenham légèrement favori (49,3 %). Cependant, le match reste équilibré avec une forte probabilité BTTS (67,2 %) et plus de 2,5 buts (67,9 %), indiquant une rencontre ouverte. Double chance Tottenham ou nul sécurise sans surexposer à un parcours offensif peu explosif de Tottenham."
+      "analysis": "Probabilités équilibrées (49,3% Tottenham vs 29,0% Ipswich selon Poisson). Tottenham solide à domicile : 60% invincibilité (3 sur 5), 1,4 but/match, 1,2 encaissé. Ipswich faible en déplacement : 40% invincibilité, 1,8 but/match, 2,6 encaissé (défense friable). Probabilité very strong over 2,5 buts (67,9%) et BTTS (67,2%) expliquée par les défenses poreuses. Double chance Tottenham ou nul capitalise sur l'avantage du terrain tout en sécurisant face aux probabilités réduites."
     },
     "Coventry City FC__Crystal Palace FC__2026-11-21T15:00:00Z": {
       "pick": "Double chance Coventry ou nul",
-      "confidence": "Faible",
-      "analysis": "Deux équipes fragiles défensivement (Coventry 1,9 encaissés, Palace 2,4 en déplacements) avec des offenses très faibles (1 but marqué chacune). Le modèle Poisson place Coventry légèrement favori (51,4 %) mais reconnaît l'équilibre (23,1 % nul). Palace en déplacements est catastrophale (40 % invincibilité, 0,6 buts marqués). Malgré la défense friable commune, la très faible intensité offensive rend ce match imprévisible. Double chance Coventry ou nul offre une protection minimale dans une rencontre très atypique."
+      "confidence": "Moyenne",
+      "analysis": "Match très équilibré : probabilités quasi identiques (51,4% Coventry vs 25,4% Palace selon Poisson). Coventry légèrement moins vulnérable à domicile (40% invincibilité, 1,8 encaissé) mais toujours fragile. Palace catastrophique en déplacement (40% invincibilité, 2,2 encaissé, défense très friable). Les deux équipes défense friable. Probabilité over 2,5 buts modérée (57,7%), BTTS à 58,3%. Coventry 17e, Palace 20e (lutte pour le maintien). Double chance Coventry ou nul offre une couverture équilibrée."
     },
     "Rayo Vallecano de Madrid__Valencia CF__2026-11-21T15:15:00Z": {
       "pick": "Double chance Rayo ou nul",
       "confidence": "Moyenne",
-      "analysis": "Rayo à domicile offre une défense friable (1,9 encaissés) mais une attaque modérée (1,4 buts). Valencia en déplacements affiche aussi une fragilité défensive (1,9 encaissés) avec peu de pouvoir offensif (0,8 buts). Le modèle Poisson place Rayo légèrement favori (44,1 %), tandis que Valencia crédité de 30,4 %. Rayo bénéficie d'un avantage du terrain avec une invincibilité domicile de 80 %, mais Valencia reste menaçant en déplacements (60 % invincibilité). Double chance Rayo ou nul capture cet équilibre précaire."
+      "analysis": "Match équilibré en Liga avec avantage minime Rayo à domicile. Rayo : 80% invincibilité à domicile (4 sur 5), 1,8 but/match, 1,4 encaissé, défense friable. Valencia : 60% invincibilité à l'extérieur (3 sur 5), 1,0 but/match, 1,2 encaissé, aussi défense friable. Le modèle Poisson indique 44,1% Rayo contre 30,4% Valencia. Probabilité over 2,5 buts modérée (50,6%), BTTS à 54,3%. Rayo 14e, Valencia 19e (lutte pour le maintien). Double chance Rayo ou nul capture l'avantage du terrain de façon sûre."
     },
     "OGC Nice__Paris Saint-Germain FC__2026-11-21T16:15:00Z": {
-      "pick": "Double chance PSG ou nul",
+      "pick": "Double chance Paris Saint-Germain ou nul",
       "confidence": "Élevée",
-      "analysis": "Paris Saint-Germain affiche une domination totale avec 5 victoires en 5 matchs, 3,1 buts marqués en moyenne, 0,8 encaissés, et 8 matchs invincibles à l'extérieur. Nice, malgré une bonne forme locale (5 matchs invincibles), encaisse 1,2 buts et ne marque que 1,5. Le modèle Poisson place PSG favori (49,4 %), confirmant la supériorité. Nice pourrait souffrir d'un relâchement après une victoire à l'extérieur. Même contre un PSG irrésistible, double chance PSG ou nul offre une protection contre l'imprévisibilité du football."
+      "analysis": "PSG en domination écrasante : 15,0 points sur 10 matchs, 100% invincibilité à l'extérieur (8 sur 8), 3,1 buts/match, 0,8 encaissé seulement, équipe dominante et efficace. Nice solide à domicile (100% invincibilité, 5 sur 5) mais nettement inférieur (1,5 but/match, 1,2 encaissé). Le modèle Poisson indique 49,4% pour PSG contre 29,4% Nice. PSG leader Ligue 1 (Ligue des Champions), Nice 6e (Europa League). Probabilité very strong over 2,5 buts (70,1%) et BTTS (68,9%). Possible effet de relâchement Nice après victoire précédente à l'extérieur. Double chance PSG ou nul offre couverture maximale contre le favori absolu."
     },
     "Parma Calcio 1913__AS Roma__2026-11-21T17:00:00Z": {
       "pick": "Double chance Roma ou nul",
       "confidence": "Élevée",
-      "analysis": "Roma affiche une supériorité claire avec 3 victoires en 5 matchs, 2,8 buts marqués en moyenne, et 86 % invincibilité à l'extérieur. Parma encaisse 1,6 buts à domicile avec peu d'attaque (0,9 buts marqués). Le modèle Poisson place Roma nettement favori (58,4 %) malgré son statut de visiteur. Roma poursuit la Ligue des Champions (3e) tandis que Parma lutte pour le maintien (16e). La probabilité BTTS (52,9 %) confirme un match offensif côté Roma. Double chance Roma ou nul exploite cette domination avec sécurité."
+      "analysis": "Roma écrasante favorite : 9,0 points sur 10 matchs, 2,8 buts/match, 1,6 encaissé, 86% invincibilité à l'extérieur (6 sur 7, style matchs ouverts). Parma très faible : 4,0 points, 0,9 but/match, 1,6 encaissé, 50% invincibilité à domicile. Le modèle Poisson indique 58,4% pour Roma contre 19,3% pour Parma. Roma 3e (Ligue des Champions), Parma 16e (milieu de tableau). Probabilité over 2,5 buts modérée (54,5%), BTTS à 52,9%. Double chance Roma ou nul capture la domination de l'équipe romaine avec sécurité maximale."
     }
   }
 }
