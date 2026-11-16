@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T05:48:56.786304+00:00",
+  "generated_at": "2026-11-16T15:28:33.184384+00:00",
   "date_from": "2026-11-13",
   "date_to": "2026-12-07",
   "count": 174,
@@ -3816,34 +3816,6 @@
       "analysis": null
     },
     {
-      "competition": "Liga",
-      "utcDate": "2026-12-06T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 15,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Sevilla FC",
-      "homeCrest": "https://crests.football-data.org/559.png",
-      "awayTeam": "Málaga CF",
-      "awayCrest": "https://crests.football-data.org/84.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-12-06T00:00:00Z",
-      "status": "SCHEDULED",
-      "matchday": 15,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Club Atlético de Madrid",
-      "homeCrest": "https://crests.football-data.org/78.png",
-      "awayTeam": "Real Betis Balompié",
-      "awayCrest": "https://crests.football-data.org/90.png",
-      "homeScore": null,
-      "awayScore": null,
-      "analysis": null
-    },
-    {
       "competition": "Serie A",
       "utcDate": "2026-12-06T11:30:00Z",
       "status": "TIMED",
@@ -4054,6 +4026,20 @@
       "analysis": null
     },
     {
+      "competition": "Liga",
+      "utcDate": "2026-12-06T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Club Atlético de Madrid",
+      "homeCrest": "https://crests.football-data.org/78.png",
+      "awayTeam": "Real Betis Balompié",
+      "awayCrest": "https://crests.football-data.org/90.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
       "competition": "Serie A",
       "utcDate": "2026-12-07T17:30:00Z",
       "status": "TIMED",
@@ -4077,6 +4063,20 @@
       "homeCrest": "https://crests.football-data.org/99.png",
       "awayTeam": "Cagliari Calcio",
       "awayCrest": "https://crests.football-data.org/104.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Liga",
+      "utcDate": "2026-12-07T20:00:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Sevilla FC",
+      "homeCrest": "https://crests.football-data.org/559.png",
+      "awayTeam": "Málaga CF",
+      "awayCrest": "https://crests.football-data.org/84.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
