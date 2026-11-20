@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T15:41:34.047328+00:00",
-  "date_from": "2026-11-16",
-  "date_to": "2026-12-10",
-  "count": 193,
+  "generated_at": "2026-11-20T00:39:03.898409+00:00",
+  "date_from": "2026-11-17",
+  "date_to": "2026-12-11",
+  "count": 196,
   "deep_analysis_count": 20,
   "matches": [
     {
@@ -4343,6 +4343,48 @@
       "homeCrest": "https://crests.football-data.org/10.png",
       "awayTeam": "Lille OSC",
       "awayCrest": "https://crests.football-data.org/521.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Bundesliga",
+      "utcDate": "2026-12-11T19:30:00Z",
+      "status": "TIMED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Hamburger SV",
+      "homeCrest": "https://crests.football-data.org/7.png",
+      "awayTeam": "FC Schalke 04",
+      "awayCrest": "https://crests.football-data.org/6.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Serie A",
+      "utcDate": "2026-12-11T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "Udinese Calcio",
+      "homeCrest": "https://crests.football-data.org/115.png",
+      "awayTeam": "Frosinone Calcio",
+      "awayCrest": "https://crests.football-data.org/470.png",
+      "homeScore": null,
+      "awayScore": null,
+      "analysis": null
+    },
+    {
+      "competition": "Ligue 1",
+      "utcDate": "2026-12-11T19:45:00Z",
+      "status": "TIMED",
+      "matchday": 14,
+      "stage": "REGULAR_SEASON",
+      "homeTeam": "AJ Auxerre",
+      "homeCrest": "https://crests.football-data.org/519.png",
+      "awayTeam": "Toulouse FC",
+      "awayCrest": "https://crests.football-data.org/511.png",
       "homeScore": null,
       "awayScore": null,
       "analysis": null
