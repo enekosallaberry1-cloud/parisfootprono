@@ -4759,8 +4759,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : AS Roma ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-5"
   },
   "Newcastle United FC__Arsenal FC__2026-11-21T17:30:00Z": {
     "competition": "Premier League",
@@ -4770,8 +4770,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Sevilla FC__Real Betis Balompié__2026-11-21T17:30:00Z": {
     "competition": "Liga",
@@ -4781,8 +4781,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Betis Balompié ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "AS Monaco FC__AJ Auxerre__2026-11-21T19:45:00Z": {
     "competition": "Ligue 1",
@@ -4792,8 +4792,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : AS Monaco FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Racing Club de Lens__Toulouse FC__2026-11-21T19:45:00Z": {
     "competition": "Ligue 1",
@@ -4803,8 +4803,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Toulouse FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Real Madrid CF__RC Celta de Vigo__2026-11-21T20:00:00Z": {
     "competition": "Liga",
@@ -4814,8 +4814,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-1"
   },
   "Juventus FC__Venezia FC__2026-11-22T11:30:00Z": {
     "competition": "Serie A",
@@ -4923,6 +4923,28 @@
     "kickoff": "2026-11-22T19:45:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : FC Internazionale Milano ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Olympique de Marseille__Le Mans FC__2026-11-22T19:45:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Olympique de Marseille",
+    "awayTeam": "Le Mans FC",
+    "kickoff": "2026-11-22T19:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Olympique de Marseille ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Getafe CF__Club Atlético de Madrid__2026-11-22T20:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Getafe CF",
+    "awayTeam": "Club Atlético de Madrid",
+    "kickoff": "2026-11-22T20:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
