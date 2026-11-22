@@ -4825,8 +4825,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Juventus FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-0"
   },
   "FC Barcelona__Villarreal CF__2026-11-22T13:00:00Z": {
     "competition": "Liga",
@@ -4946,6 +4946,50 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__PSV__2026-11-24T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "PSV",
+    "kickoff": "2026-11-24T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Manchester City FC__SSC Napoli__2026-11-24T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Manchester City FC",
+    "awayTeam": "SSC Napoli",
+    "kickoff": "2026-11-24T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Manchester City FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Arsenal FC__Borussia Dortmund__2026-11-24T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Arsenal FC",
+    "awayTeam": "Borussia Dortmund",
+    "kickoff": "2026-11-24T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Arsenal FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Feyenoord Rotterdam__FC Porto__2026-11-24T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Feyenoord Rotterdam",
+    "awayTeam": "FC Porto",
+    "kickoff": "2026-11-24T20:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Porto ou nul",
+    "confidence": "Moyenne",
     "status": "pending",
     "final_score": null
   }
