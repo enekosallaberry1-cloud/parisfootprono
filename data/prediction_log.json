@@ -5113,5 +5113,38 @@
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
+  },
+  "FK Shakhtar Donetsk__Fenerbahçe SK__2026-11-25T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "FK Shakhtar Donetsk",
+    "awayTeam": "Fenerbahçe SK",
+    "kickoff": "2026-11-25T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FK Shakhtar Donetsk ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "SV Werder Bremen__Borussia Mönchengladbach__2026-11-27T19:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SV Werder Bremen",
+    "awayTeam": "Borussia Mönchengladbach",
+    "kickoff": "2026-11-27T19:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SV Werder Bremen ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Venezia FC__Bologna FC 1909__2026-11-27T19:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Venezia FC",
+    "awayTeam": "Bologna FC 1909",
+    "kickoff": "2026-11-27T19:45:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Bologna FC 1909 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
   }
 }
