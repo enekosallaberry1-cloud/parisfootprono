@@ -4847,8 +4847,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Brighton & Hove Albion FC ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-0"
   },
   "Bologna FC 1909__Udinese Calcio__2026-11-22T14:00:00Z": {
     "competition": "Serie A",
@@ -4891,8 +4891,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Liverpool FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "4-0"
   },
   "SV Werder Bremen__Hamburger SV__2026-11-22T16:30:00Z": {
     "competition": "Bundesliga",
@@ -5089,6 +5089,28 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Club Brugge KV ou nul",
     "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Lille OSC__FC Bayern München__2026-11-25T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Lille OSC",
+    "awayTeam": "FC Bayern München",
+    "kickoff": "2026-11-25T20:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Sporting Clube de Portugal__Manchester United FC__2026-11-25T20:00:00Z": {
+    "competition": "Ligue des Champions",
+    "homeTeam": "Sporting Clube de Portugal",
+    "awayTeam": "Manchester United FC",
+    "kickoff": "2026-11-25T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Sporting Clube de Portugal ou nul",
+    "confidence": "Élevée",
     "status": "pending",
     "final_score": null
   }
