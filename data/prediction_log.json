@@ -4957,8 +4957,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "5-1"
   },
   "Manchester City FC__SSC Napoli__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4968,8 +4968,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Manchester City FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Arsenal FC__Borussia Dortmund__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4979,8 +4979,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Arsenal FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "Feyenoord Rotterdam__FC Porto__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -4990,8 +4990,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Porto ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-1"
   },
   "ŠK Slovan Bratislava__Real Betis Balompié__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5001,8 +5001,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Real Betis Balompié ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-2"
   },
   "RB Leipzig__Racing Club de Lens__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5012,8 +5012,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : RB Leipzig ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-1"
   },
   "Como 1907__PAE AEK__2026-11-24T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5023,8 +5023,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Como 1907 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-0"
   },
   "Sabah FK__FC Barcelona__2026-11-25T17:45:00Z": {
     "competition": "Ligue des Champions",
@@ -5143,6 +5143,61 @@
     "kickoff": "2026-11-27T19:45:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : Bologna FC 1909 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Betis Balompié__Rayo Vallecano de Madrid__2026-11-28T13:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Betis Balompié",
+    "awayTeam": "Rayo Vallecano de Madrid",
+    "kickoff": "2026-11-28T13:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Betis Balompié ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Frosinone Calcio__Parma Calcio 1913__2026-11-28T14:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Frosinone Calcio",
+    "awayTeam": "Parma Calcio 1913",
+    "kickoff": "2026-11-28T14:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Frosinone Calcio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "1. FSV Mainz 05__1. FC Union Berlin__2026-11-28T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "1. FSV Mainz 05",
+    "awayTeam": "1. FC Union Berlin",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : 1. FSV Mainz 05 ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "SC Paderborn 07__FC Schalke 04__2026-11-28T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "SC Paderborn 07",
+    "awayTeam": "FC Schalke 04",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : SC Paderborn 07 ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Hamburger SV__FC Bayern München__2026-11-28T14:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "Hamburger SV",
+    "awayTeam": "FC Bayern München",
+    "kickoff": "2026-11-28T14:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : FC Bayern München ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
