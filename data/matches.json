@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-11-23T23:49:51.400973+00:00",
-  "date_from": "2026-11-20",
-  "date_to": "2026-12-14",
-  "count": 241,
+  "generated_at": "2026-11-24T09:18:41.061234+00:00",
+  "date_from": "2026-11-21",
+  "date_to": "2026-12-15",
+  "count": 238,
   "deep_analysis_count": 20,
   "matches": [
-    {
-      "competition": "Bundesliga",
-      "utcDate": "2026-11-20T19:30:00Z",
-      "status": "FINISHED",
-      "matchday": 10,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "FC Bayern München",
-      "homeCrest": "https://crests.football-data.org/5.png",
-      "awayTeam": "1. FC Köln",
-      "awayCrest": "https://crests.football-data.org/1.png",
-      "homeScore": 1,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Ligue 1",
-      "utcDate": "2026-11-20T19:45:00Z",
-      "status": "FINISHED",
-      "matchday": 11,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "ES Troyes AC",
-      "homeCrest": "https://crests.football-data.org/531.png",
-      "awayTeam": "Le Havre AC",
-      "awayCrest": "https://crests.football-data.org/533.png",
-      "homeScore": 3,
-      "awayScore": 1,
-      "analysis": null
-    },
-    {
-      "competition": "Liga",
-      "utcDate": "2026-11-20T20:00:00Z",
-      "status": "FINISHED",
-      "matchday": 13,
-      "stage": "REGULAR_SEASON",
-      "homeTeam": "Athletic Club",
-      "homeCrest": "https://crests.football-data.org/77.png",
-      "awayTeam": "RCD Espanyol de Barcelona",
-      "awayCrest": "https://crests.football-data.org/80.png",
-      "homeScore": 0,
-      "awayScore": 1,
-      "analysis": null
-    },
     {
       "competition": "Premier League",
       "utcDate": "2026-11-21T12:30:00Z",
@@ -2582,8 +2540,8 @@
         },
         "surprise_risk": false,
         "true_home_advantage": "home",
-        "stakes_home": "Lutte pour le maintien (20e place actuelle)",
-        "stakes_away": "Milieu de tableau, enjeu limité (9e place actuelle)"
+        "stakes_home": null,
+        "stakes_away": null
       }
     },
     {
