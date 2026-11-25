@@ -5034,8 +5034,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Barcelona ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "1-4"
   },
   "SK Slavia Praha__Villarreal CF__2026-11-25T17:45:00Z": {
     "competition": "Ligue des Champions",
@@ -5045,8 +5045,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Villarreal CF ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-1"
   },
   "FC Internazionale Milano__VfB Stuttgart__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5198,6 +5198,94 @@
     "kickoff": "2026-11-28T14:30:00Z",
     "predicted_side": "away",
     "pick_label": "Double chance : FC Bayern München ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Leeds United FC__Coventry City FC__2026-11-28T15:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Leeds United FC",
+    "awayTeam": "Coventry City FC",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Leeds United FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Manchester United FC__Brentford FC__2026-11-28T15:00:00Z": {
+    "competition": "Premier League",
+    "homeTeam": "Manchester United FC",
+    "awayTeam": "Brentford FC",
+    "kickoff": "2026-11-28T15:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Brentford FC ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Málaga CF__Athletic Club__2026-11-28T15:15:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Málaga CF",
+    "awayTeam": "Athletic Club",
+    "kickoff": "2026-11-28T15:15:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Athletic Club ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Angers SCO__Racing Club de Lens__2026-11-28T16:15:00Z": {
+    "competition": "Ligue 1",
+    "homeTeam": "Angers SCO",
+    "awayTeam": "Racing Club de Lens",
+    "kickoff": "2026-11-28T16:15:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Angers SCO ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "Torino FC__SS Lazio__2026-11-28T17:00:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "Torino FC",
+    "awayTeam": "SS Lazio",
+    "kickoff": "2026-11-28T17:00:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : SS Lazio ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Elche CF__Club Atlético de Madrid__2026-11-28T17:30:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Elche CF",
+    "awayTeam": "Club Atlético de Madrid",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "predicted_side": "away",
+    "pick_label": "Double chance : Club Atlético de Madrid ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "VfB Stuttgart__Eintracht Frankfurt__2026-11-28T17:30:00Z": {
+    "competition": "Bundesliga",
+    "homeTeam": "VfB Stuttgart",
+    "awayTeam": "Eintracht Frankfurt",
+    "kickoff": "2026-11-28T17:30:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : VfB Stuttgart ou nul",
+    "confidence": "Moyenne",
+    "status": "pending",
+    "final_score": null
+  },
+  "FC Internazionale Milano__Genoa CFC__2026-11-28T19:45:00Z": {
+    "competition": "Serie A",
+    "homeTeam": "FC Internazionale Milano",
+    "awayTeam": "Genoa CFC",
+    "kickoff": "2026-11-28T19:45:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : FC Internazionale Milano ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
