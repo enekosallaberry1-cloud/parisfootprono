@@ -5056,8 +5056,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FC Internazionale Milano ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Club Atlético de Madrid__Viking FK__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5067,8 +5067,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Club Atlético de Madrid ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-0"
   },
   "Paris Saint-Germain FC__AS Roma__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5078,8 +5078,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Paris Saint-Germain FC ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "Club Brugge KV__Liverpool FC__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5089,8 +5089,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Club Brugge KV ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-3"
   },
   "Lille OSC__FC Bayern München__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5100,8 +5100,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : FC Bayern München ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "2-1"
   },
   "Sporting Clube de Portugal__Manchester United FC__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5111,8 +5111,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : Sporting Clube de Portugal ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "2-2"
   },
   "FK Shakhtar Donetsk__Fenerbahçe SK__2026-11-25T20:00:00Z": {
     "competition": "Ligue des Champions",
@@ -5122,8 +5122,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : FK Shakhtar Donetsk ou nul",
     "confidence": "Moyenne",
-    "status": "pending",
-    "final_score": null
+    "status": "incorrect",
+    "final_score": "0-1"
   },
   "SV Werder Bremen__Borussia Mönchengladbach__2026-11-27T19:30:00Z": {
     "competition": "Bundesliga",
