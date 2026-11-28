@@ -5133,8 +5133,8 @@
     "predicted_side": "home",
     "pick_label": "Double chance : SV Werder Bremen ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "3-3"
   },
   "Venezia FC__Bologna FC 1909__2026-11-27T19:45:00Z": {
     "competition": "Serie A",
@@ -5144,8 +5144,8 @@
     "predicted_side": "away",
     "pick_label": "Double chance : Bologna FC 1909 ou nul",
     "confidence": "Élevée",
-    "status": "pending",
-    "final_score": null
+    "status": "correct",
+    "final_score": "0-0"
   },
   "Real Betis Balompié__Rayo Vallecano de Madrid__2026-11-28T13:00:00Z": {
     "competition": "Liga",
@@ -5319,6 +5319,17 @@
     "kickoff": "2026-11-28T19:45:00Z",
     "predicted_side": "home",
     "pick_label": "Double chance : Paris Saint-Germain FC ou nul",
+    "confidence": "Élevée",
+    "status": "pending",
+    "final_score": null
+  },
+  "Real Madrid CF__Deportivo Alavés__2026-11-28T20:00:00Z": {
+    "competition": "Liga",
+    "homeTeam": "Real Madrid CF",
+    "awayTeam": "Deportivo Alavés",
+    "kickoff": "2026-11-28T20:00:00Z",
+    "predicted_side": "home",
+    "pick_label": "Double chance : Real Madrid CF ou nul",
     "confidence": "Élevée",
     "status": "pending",
     "final_score": null
